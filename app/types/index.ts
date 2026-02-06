@@ -12,3 +12,17 @@ export interface PostalCode {
   code: string;
   name: string;
 }
+
+export interface NICInfo {
+  nic: string;
+  dateOfBirth: Date;
+  age: number;
+  gender: 'Male' | 'Female';
+  format: 'Old' | 'New';
+}
+
+export interface NICValidationResult {
+  isValid: boolean;
+  info?: NICInfo;
+  error?: string;
+}
