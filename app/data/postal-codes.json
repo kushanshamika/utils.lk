@@ -1,0 +1,10252 @@
+[
+  {
+    "code": "40150",
+    "districtId": "D04",
+    "name": "Achchuvely"
+  },
+  {
+    "code": "41160",
+    "districtId": "D03",
+    "name": "Adampan"
+  },
+  {
+    "code": "20713",
+    "districtId": "D10",
+    "name": "Adhikarigama"
+  },
+  {
+    "code": "61012",
+    "districtId": "D21",
+    "name": "Adippala"
+  },
+  {
+    "code": "12200",
+    "districtId": "D17",
+    "name": "Agalawatta"
+  },
+  {
+    "code": "80212",
+    "districtId": "D12",
+    "name": "Agaliya"
+  },
+  {
+    "code": "22094",
+    "districtId": "D22",
+    "name": "Agarapathana"
+  },
+  {
+    "code": "31304",
+    "districtId": "D11",
+    "name": "Agbopura"
+  },
+  {
+    "code": "80650",
+    "districtId": "D12",
+    "name": "Ahangama"
+  },
+  {
+    "code": "80562",
+    "districtId": "D12",
+    "name": "Ahungalla"
+  },
+  {
+    "code": "11536",
+    "districtId": "D08",
+    "name": "Akaragama"
+  },
+  {
+    "code": "10732",
+    "districtId": "D09",
+    "name": "Akarawita"
+  },
+  {
+    "code": "70082",
+    "districtId": "D14",
+    "name": "Akarella"
+  },
+  {
+    "code": "90166",
+    "districtId": "D20",
+    "name": "Akkaraseeya"
+  },
+  {
+    "code": "42425",
+    "districtId": "D19",
+    "name": "Akkarayankulam"
+  },
+  {
+    "code": "80090",
+    "districtId": "D12",
+    "name": "Akmeemana"
+  },
+  {
+    "code": "21142",
+    "districtId": "D05",
+    "name": "Akuramboda"
+  },
+  {
+    "code": "20850",
+    "districtId": "D10",
+    "name": "Akurana"
+  },
+  {
+    "code": "81400",
+    "districtId": "D07",
+    "name": "Akuressa"
+  },
+  {
+    "code": "60416",
+    "districtId": "D01",
+    "name": "Alahenegama"
+  },
+  {
+    "code": "60182",
+    "districtId": "D01",
+    "name": "Alahitiyawa"
+  },
+  {
+    "code": "70132",
+    "districtId": "D14",
+    "name": "Alakola Ella"
+  },
+  {
+    "code": "42005",
+    "districtId": "D15",
+    "name": "Alampil"
+  },
+  {
+    "code": "81475",
+    "districtId": "D07",
+    "name": "Alapaladeniya"
+  },
+  {
+    "code": "40120",
+    "districtId": "D04",
+    "name": "Alaveddy"
+  },
+  {
+    "code": "11122",
+    "districtId": "D08",
+    "name": "Alawala"
+  },
+  {
+    "code": "20140",
+    "districtId": "D10",
+    "name": "Alawatugoda"
+  },
+  {
+    "code": "71204",
+    "districtId": "D24",
+    "name": "Alawatura"
+  },
+  {
+    "code": "60047",
+    "districtId": "D01",
+    "name": "Alawatuwala"
+  },
+  {
+    "code": "60280",
+    "districtId": "D01",
+    "name": "Alawwa"
+  },
+  {
+    "code": "71607",
+    "districtId": "D24",
+    "name": "Algama"
+  },
+  {
+    "code": "42565",
+    "districtId": "D19",
+    "name": "Aliyawalai"
+  },
+  {
+    "code": "40048",
+    "districtId": "D04",
+    "name": "Allaipiddy"
+  },
+  {
+    "code": "12524",
+    "districtId": "D17",
+    "name": "Alubomulla"
+  },
+  {
+    "code": "20062",
+    "districtId": "D10",
+    "name": "Aludeniya"
+  },
+  {
+    "code": "90736",
+    "districtId": "D20",
+    "name": "Aluketiyawa"
+  },
+  {
+    "code": "12080",
+    "districtId": "D17",
+    "name": "Aluthgama"
+  },
+  {
+    "code": "71508",
+    "districtId": "D24",
+    "name": "Aluthnuwara"
+  },
+  {
+    "code": "90722",
+    "districtId": "D20",
+    "name": "Aluththarama"
+  },
+  {
+    "code": "80332",
+    "districtId": "D12",
+    "name": "Aluthwala"
+  },
+  {
+    "code": "51014",
+    "districtId": "D13",
+    "name": "Aluthwewa"
+  },
+  {
+    "code": "40635",
+    "districtId": "D04",
+    "name": "Alvai"
+  },
+  {
+    "code": "21004",
+    "districtId": "D05",
+    "name": "Alwatta"
+  },
+  {
+    "code": "90108",
+    "districtId": "D20",
+    "name": "Ambadandegama"
+  },
+  {
+    "code": "20986",
+    "districtId": "D10",
+    "name": "Ambagahapelassa"
+  },
+  {
+    "code": "90326",
+    "districtId": "D20",
+    "name": "Ambagahawatte"
+  },
+  {
+    "code": "22678",
+    "districtId": "D22",
+    "name": "Ambagamuwa Udabulathgama"
+  },
+  {
+    "code": "90300",
+    "districtId": "D20",
+    "name": "Ambagasdowa"
+  },
+  {
+    "code": "11052",
+    "districtId": "D08",
+    "name": "Ambagaspitiya"
+  },
+  {
+    "code": "61024",
+    "districtId": "D21",
+    "name": "Ambakandawila"
+  },
+  {
+    "code": "60036",
+    "districtId": "D01",
+    "name": "Ambakote"
+  },
+  {
+    "code": "71546",
+    "districtId": "D24",
+    "name": "Ambalakanda"
+  },
+  {
+    "code": "80300",
+    "districtId": "D12",
+    "name": "Ambalangoda"
+  },
+  {
+    "code": "82100",
+    "districtId": "D23",
+    "name": "Ambalantota"
+  },
+  {
+    "code": "21504",
+    "districtId": "D05",
+    "name": "Ambana"
+  },
+  {
+    "code": "22284",
+    "districtId": "D22",
+    "name": "Ambanella"
+  },
+  {
+    "code": "60650",
+    "districtId": "D01",
+    "name": "Ambanpola"
+  },
+  {
+    "code": "22686",
+    "districtId": "D22",
+    "name": "Ambatalawa"
+  },
+  {
+    "code": "20136",
+    "districtId": "D10",
+    "name": "Ambatenna"
+  },
+  {
+    "code": "11212",
+    "districtId": "D08",
+    "name": "Ambepussa"
+  },
+  {
+    "code": "22216",
+    "districtId": "D22",
+    "name": "Ambewela"
+  },
+  {
+    "code": "71503",
+    "districtId": "D24",
+    "name": "Ambulugala"
+  },
+  {
+    "code": "71320",
+    "districtId": "D24",
+    "name": "Amitirigala"
+  },
+  {
+    "code": "71232",
+    "districtId": "D24",
+    "name": "Ampagala"
+  },
+  {
+    "code": "32000",
+    "districtId": "D16",
+    "name": "Ampara"
+  },
+  {
+    "code": "80204",
+    "districtId": "D12",
+    "name": "Ampegama"
+  },
+  {
+    "code": "30162",
+    "districtId": "D06",
+    "name": "Ampilanthurai"
+  },
+  {
+    "code": "20160",
+    "districtId": "D10",
+    "name": "Ampitiya"
+  },
+  {
+    "code": "80422",
+    "districtId": "D12",
+    "name": "Amugoda"
+  },
+  {
+    "code": "90204",
+    "districtId": "D20",
+    "name": "Amunumulla"
+  },
+  {
+    "code": "40198",
+    "districtId": "D04",
+    "name": "Anaicoddai"
+  },
+  {
+    "code": "40280",
+    "districtId": "D04",
+    "name": "Analaithivu"
+  },
+  {
+    "code": "61500",
+    "districtId": "D21",
+    "name": "Anamaduwa"
+  },
+  {
+    "code": "80044",
+    "districtId": "D12",
+    "name": "Anangoda"
+  },
+  {
+    "code": "21077",
+    "districtId": "D05",
+    "name": "Andawala Lihinipitiya"
+  },
+  {
+    "code": "11558",
+    "districtId": "D08",
+    "name": "Andiambalama"
+  },
+  {
+    "code": "61508",
+    "districtId": "D21",
+    "name": "Andigama"
+  },
+  {
+    "code": "50112",
+    "districtId": "D18",
+    "name": "Andiyagala"
+  },
+  {
+    "code": "50248",
+    "districtId": "D18",
+    "name": "Angamuwa"
+  },
+  {
+    "code": "80122",
+    "districtId": "D12",
+    "name": "Angulugaha"
+  },
+  {
+    "code": "82220",
+    "districtId": "D23",
+    "name": "Angunakolapelessa"
+  },
+  {
+    "code": "91302",
+    "districtId": "D02",
+    "name": "Angunakolawewa"
+  },
+  {
+    "code": "61264",
+    "districtId": "D21",
+    "name": "Angunawila"
+  },
+  {
+    "code": "12320",
+    "districtId": "D17",
+    "name": "Anguruwatota"
+  },
+  {
+    "code": "60074",
+    "districtId": "D01",
+    "name": "Anhandiya"
+  },
+  {
+    "code": "71403",
+    "districtId": "D24",
+    "name": "Anhettigama"
+  },
+  {
+    "code": "80048",
+    "districtId": "D12",
+    "name": "Ankokkawala"
+  },
+  {
+    "code": "20150",
+    "districtId": "D10",
+    "name": "Ankumbura"
+  },
+  {
+    "code": "60214",
+    "districtId": "D01",
+    "name": "Anukkane"
+  },
+  {
+    "code": "50033",
+    "districtId": "D18",
+    "name": "Anura Wijayapura"
+  },
+  {
+    "code": "50000",
+    "districtId": "D18",
+    "name": "Anuradhapura"
+  },
+  {
+    "code": "81032",
+    "districtId": "D07",
+    "name": "Aparekka"
+  },
+  {
+    "code": "60243",
+    "districtId": "D21",
+    "name": "Arachchikattuwa"
+  },
+  {
+    "code": "60308",
+    "districtId": "D01",
+    "name": "Aragoda"
+  },
+  {
+    "code": "51100",
+    "districtId": "D13",
+    "name": "Aralaganwila"
+  },
+  {
+    "code": "71540",
+    "districtId": "D24",
+    "name": "Aranayaka"
+  },
+  {
+    "code": "90017",
+    "districtId": "D20",
+    "name": "Arawa"
+  },
+  {
+    "code": "90532",
+    "districtId": "D20",
+    "name": "Arawakumbura"
+  },
+  {
+    "code": "90712",
+    "districtId": "D20",
+    "name": "Arawatte"
+  },
+  {
+    "code": "30150",
+    "districtId": "D06",
+    "name": "Arayampathy"
+  },
+  {
+    "code": "41060",
+    "districtId": "D03",
+    "name": "Arippu"
+  },
+  {
+    "code": "71041",
+    "districtId": "D24",
+    "name": "Aruggammana"
+  },
+  {
+    "code": "51072",
+    "districtId": "D13",
+    "name": "Aselapura"
+  },
+  {
+    "code": "20574",
+    "districtId": "D10",
+    "name": "Atabage"
+  },
+  {
+    "code": "70294",
+    "districtId": "D14",
+    "name": "Atakalanpanna"
+  },
+  {
+    "code": "90542",
+    "districtId": "D20",
+    "name": "Atakiriya"
+  },
+  {
+    "code": "71363",
+    "districtId": "D24",
+    "name": "Atale"
+  },
+  {
+    "code": "60706",
+    "districtId": "D01",
+    "name": "Ataragalla"
+  },
+  {
+    "code": "21512",
+    "districtId": "D05",
+    "name": "Ataragallewa"
+  },
+  {
+    "code": "41180",
+    "districtId": "D03",
+    "name": "Aththimottai"
+  },
+  {
+    "code": "10150",
+    "districtId": "D09",
+    "name": "Athurugiriya"
+  },
+  {
+    "code": "11120",
+    "districtId": "D08",
+    "name": "Attanagalla"
+  },
+  {
+    "code": "51235",
+    "districtId": "D13",
+    "name": "Attanakadawala"
+  },
+  {
+    "code": "61328",
+    "districtId": "D21",
+    "name": "Attawilluwa"
+  },
+  {
+    "code": "50169",
+    "districtId": "D18",
+    "name": "Awukana"
+  },
+  {
+    "code": "60462",
+    "districtId": "D01",
+    "name": "Awulegama"
+  },
+  {
+    "code": "70024",
+    "districtId": "D14",
+    "name": "Ayagama"
+  },
+  {
+    "code": "30362",
+    "districtId": "D06",
+    "name": "Ayithiyamalai"
+  },
+  {
+    "code": "91516",
+    "districtId": "D02",
+    "name": "Ayiwela"
+  },
+  {
+    "code": "11538",
+    "districtId": "D08",
+    "name": "Badalgama"
+  },
+  {
+    "code": "91070",
+    "districtId": "D02",
+    "name": "Badalkumbura"
+  },
+  {
+    "code": "80200",
+    "districtId": "D12",
+    "name": "Baddegama"
+  },
+  {
+    "code": "90000",
+    "districtId": "D20",
+    "name": "Badulla"
+  },
+  {
+    "code": "90019",
+    "districtId": "D20",
+    "name": "Baduluoya"
+  },
+  {
+    "code": "91058",
+    "districtId": "D02",
+    "name": "Baduluwela"
+  },
+  {
+    "code": "12230",
+    "districtId": "D17",
+    "name": "Baduraliya"
+  },
+  {
+    "code": "51250",
+    "districtId": "D13",
+    "name": "Bakamuna"
+  },
+  {
+    "code": "30206",
+    "districtId": "D06",
+    "name": "Bakiella"
+  },
+  {
+    "code": "91554",
+    "districtId": "D02",
+    "name": "Bakinigahawela"
+  },
+  {
+    "code": "31028",
+    "districtId": "D11",
+    "name": "Bakmeegama"
+  },
+  {
+    "code": "32024",
+    "districtId": "D16",
+    "name": "Bakmitiyawa"
+  },
+  {
+    "code": "91295",
+    "districtId": "D02",
+    "name": "Balaharuwa"
+  },
+  {
+    "code": "70100",
+    "districtId": "D14",
+    "name": "Balangoda"
+  },
+  {
+    "code": "80550",
+    "districtId": "D12",
+    "name": "Balapitiya"
+  },
+  {
+    "code": "90092",
+    "districtId": "D20",
+    "name": "Ballaketuwa"
+  },
+  {
+    "code": "20644",
+    "districtId": "D10",
+    "name": "Bambaragahaela"
+  },
+  {
+    "code": "21212",
+    "districtId": "D05",
+    "name": "Bambaragaswewa"
+  },
+  {
+    "code": "90322",
+    "districtId": "D20",
+    "name": "Bambarapana"
+  },
+  {
+    "code": "60347",
+    "districtId": "D01",
+    "name": "Bamunakotuwa"
+  },
+  {
+    "code": "80143",
+    "districtId": "D12",
+    "name": "Banagala"
+  },
+  {
+    "code": "82005",
+    "districtId": "D23",
+    "name": "Bandagiriya Colony"
+  },
+  {
+    "code": "60424",
+    "districtId": "D01",
+    "name": "Bandara Koswatta"
+  },
+  {
+    "code": "12530",
+    "districtId": "D17",
+    "name": "Bandaragama"
+  },
+  {
+    "code": "90100",
+    "districtId": "D20",
+    "name": "Bandarawela"
+  },
+  {
+    "code": "11244",
+    "districtId": "D08",
+    "name": "Banduragoda"
+  },
+  {
+    "code": "61238",
+    "districtId": "D21",
+    "name": "Bangadeniya"
+  },
+  {
+    "code": "61262",
+    "districtId": "D21",
+    "name": "Baranankattuwa"
+  },
+  {
+    "code": "82110",
+    "districtId": "D23",
+    "name": "Barawakumbuka"
+  },
+  {
+    "code": "20967",
+    "districtId": "D10",
+    "name": "Barawardhanaoya"
+  },
+  {
+    "code": "20154",
+    "districtId": "D10",
+    "name": "Batagolladeniya"
+  },
+  {
+    "code": "80320",
+    "districtId": "D12",
+    "name": "Batapola"
+  },
+  {
+    "code": "70504",
+    "districtId": "D14",
+    "name": "Batatota"
+  },
+  {
+    "code": "10513",
+    "districtId": "D09",
+    "name": "Batawala"
+  },
+  {
+    "code": "10120",
+    "districtId": "D09",
+    "name": "Battaramulla"
+  },
+  {
+    "code": "30000",
+    "districtId": "D06",
+    "name": "Batticaloa"
+  },
+  {
+    "code": "61246",
+    "districtId": "D21",
+    "name": "Battuluoya"
+  },
+  {
+    "code": "10526",
+    "districtId": "D09",
+    "name": "Batugampola"
+  },
+  {
+    "code": "20132",
+    "districtId": "D10",
+    "name": "Batugoda"
+  },
+  {
+    "code": "20966",
+    "districtId": "D10",
+    "name": "Batumulla"
+  },
+  {
+    "code": "11011",
+    "districtId": "D08",
+    "name": "Batuwatta"
+  },
+  {
+    "code": "71321",
+    "districtId": "D24",
+    "name": "Batuwita"
+  },
+  {
+    "code": "20218",
+    "districtId": "D10",
+    "name": "Bawlana"
+  },
+  {
+    "code": "82400",
+    "districtId": "D23",
+    "name": "Beliatta"
+  },
+  {
+    "code": "21214",
+    "districtId": "D05",
+    "name": "Beligamuwa"
+  },
+  {
+    "code": "70140",
+    "districtId": "D14",
+    "name": "Belihuloya"
+  },
+  {
+    "code": "12224",
+    "districtId": "D17",
+    "name": "Bellana"
+  },
+  {
+    "code": "11040",
+    "districtId": "D08",
+    "name": "Bemmulla"
+  },
+  {
+    "code": "81614",
+    "districtId": "D07",
+    "name": "Bengamuwa"
+  },
+  {
+    "code": "80500",
+    "districtId": "D12",
+    "name": "Bentota"
+  },
+  {
+    "code": "82102",
+    "districtId": "D23",
+    "name": "Beragama"
+  },
+  {
+    "code": "81541",
+    "districtId": "D07",
+    "name": "Beralapanathara"
+  },
+  {
+    "code": "82618",
+    "districtId": "D23",
+    "name": "Beralihela"
+  },
+  {
+    "code": "90066",
+    "districtId": "D20",
+    "name": "Beramada"
+  },
+  {
+    "code": "71706",
+    "districtId": "D24",
+    "name": "Berannawa"
+  },
+  {
+    "code": "12070",
+    "districtId": "D17",
+    "name": "Beruwala"
+  },
+  {
+    "code": "91500",
+    "districtId": "D02",
+    "name": "Bibila"
+  },
+  {
+    "code": "90502",
+    "districtId": "D20",
+    "name": "Bibilegama"
+  },
+  {
+    "code": "60450",
+    "districtId": "D01",
+    "name": "Bingiriya"
+  },
+  {
+    "code": "11650",
+    "districtId": "D08",
+    "name": "Biyagama"
+  },
+  {
+    "code": "11672",
+    "districtId": "D08",
+    "name": "Biyagama EPZ"
+  },
+  {
+    "code": "91074",
+    "districtId": "D02",
+    "name": "Bogahapelassa"
+  },
+  {
+    "code": "50566",
+    "districtId": "D18",
+    "name": "Bogahawewa"
+  },
+  {
+    "code": "60107",
+    "districtId": "D01",
+    "name": "Bogamulla"
+  },
+  {
+    "code": "43583",
+    "districtId": "D25",
+    "name": "Bogaswewa"
+  },
+  {
+    "code": "22060",
+    "districtId": "D22",
+    "name": "Bogawantalawa"
+  },
+  {
+    "code": "11216",
+    "districtId": "D08",
+    "name": "Bokalagama"
+  },
+  {
+    "code": "20093",
+    "districtId": "D10",
+    "name": "Bokkawela"
+  },
+  {
+    "code": "12008",
+    "districtId": "D17",
+    "name": "Bolossagama"
+  },
+  {
+    "code": "70131",
+    "districtId": "D14",
+    "name": "Bolthumbe"
+  },
+  {
+    "code": "12024",
+    "districtId": "D17",
+    "name": "Bombuwala"
+  },
+  {
+    "code": "80270",
+    "districtId": "D12",
+    "name": "Boossa"
+  },
+  {
+    "code": "11134",
+    "districtId": "D08",
+    "name": "Bopagama"
+  },
+  {
+    "code": "81412",
+    "districtId": "D07",
+    "name": "Bopagoda"
+  },
+  {
+    "code": "20932",
+    "districtId": "D10",
+    "name": "Bopana"
+  },
+  {
+    "code": "22095",
+    "districtId": "D22",
+    "name": "Bopattalawa"
+  },
+  {
+    "code": "10522",
+    "districtId": "D09",
+    "name": "Bope"
+  },
+  {
+    "code": "60155",
+    "districtId": "D01",
+    "name": "Bopitiya"
+  },
+  {
+    "code": "90362",
+    "districtId": "D20",
+    "name": "Boragas"
+  },
+  {
+    "code": "90170",
+    "districtId": "D20",
+    "name": "Boralanda"
+  },
+  {
+    "code": "71418",
+    "districtId": "D24",
+    "name": "Boralankada"
+  },
+  {
+    "code": "10290",
+    "districtId": "D09",
+    "name": "Boralesgamuwa"
+  },
+  {
+    "code": "61152",
+    "districtId": "D21",
+    "name": "Boralessa"
+  },
+  {
+    "code": "12142",
+    "districtId": "D17",
+    "name": "Boralugoda"
+  },
+  {
+    "code": "70344",
+    "districtId": "D14",
+    "name": "Boraluwageaina"
+  },
+  {
+    "code": "60437",
+    "districtId": "D01",
+    "name": "Boraluwewa"
+  },
+  {
+    "code": "32073",
+    "districtId": "D16",
+    "name": "Borapola"
+  },
+  {
+    "code": "00800",
+    "districtId": "D09",
+    "name": "Borella"
+  },
+  {
+    "code": "71208",
+    "districtId": "D24",
+    "name": "Bossella"
+  },
+  {
+    "code": "12307",
+    "districtId": "D17",
+    "name": "Botalegama"
+  },
+  {
+    "code": "82458",
+    "districtId": "D23",
+    "name": "Bowalagama"
+  },
+  {
+    "code": "90302",
+    "districtId": "D20",
+    "name": "Bowela"
+  },
+  {
+    "code": "60027",
+    "districtId": "D01",
+    "name": "Boyagane"
+  },
+  {
+    "code": "91038",
+    "districtId": "D02",
+    "name": "Buddama"
+  },
+  {
+    "code": "61136",
+    "districtId": "D21",
+    "name": "Bujjampola"
+  },
+  {
+    "code": "60291",
+    "districtId": "D01",
+    "name": "Bujjomuwa"
+  },
+  {
+    "code": "71230",
+    "districtId": "D24",
+    "name": "Bulathkohupitiya"
+  },
+  {
+    "code": "12300",
+    "districtId": "D17",
+    "name": "Bulathsinhala"
+  },
+  {
+    "code": "70346",
+    "districtId": "D14",
+    "name": "Bulutota"
+  },
+  {
+    "code": "60076",
+    "districtId": "D01",
+    "name": "Buluwala"
+  },
+  {
+    "code": "82002",
+    "districtId": "D23",
+    "name": "Bundala"
+  },
+  {
+    "code": "11720",
+    "districtId": "D08",
+    "name": "Buthpitiya"
+  },
+  {
+    "code": "91100",
+    "districtId": "D02",
+    "name": "Buttala"
+  },
+  {
+    "code": "32050",
+    "districtId": "D16",
+    "name": "Central Camp"
+  },
+  {
+    "code": "40212",
+    "districtId": "D04",
+    "name": "Chankanai"
+  },
+  {
+    "code": "40500",
+    "districtId": "D04",
+    "name": "Chavakachcheri"
+  },
+  {
+    "code": "43120",
+    "districtId": "D25",
+    "name": "Cheddikulam"
+  },
+  {
+    "code": "30194",
+    "districtId": "D06",
+    "name": "Cheddipalayam"
+  },
+  {
+    "code": "43060",
+    "districtId": "D25",
+    "name": "Chemamadukkulam"
+  },
+  {
+    "code": "30350",
+    "districtId": "D06",
+    "name": "Chenkaladi"
+  },
+  {
+    "code": "41140",
+    "districtId": "D03",
+    "name": "Chilavathurai"
+  },
+  {
+    "code": "61000",
+    "districtId": "D21",
+    "name": "Chilaw"
+  },
+  {
+    "code": "31050",
+    "districtId": "D11",
+    "name": "Chinabay"
+  },
+  {
+    "code": "40230",
+    "districtId": "D04",
+    "name": "Chulipuram"
+  },
+  {
+    "code": "40075",
+    "districtId": "D04",
+    "name": "Chunnakam"
+  },
+  {
+    "code": "32046",
+    "districtId": "D16",
+    "name": "Dadayamtalawa"
+  },
+  {
+    "code": "11524",
+    "districtId": "D08",
+    "name": "Dagonna"
+  },
+  {
+    "code": "51092",
+    "districtId": "D13",
+    "name": "Dalukana"
+  },
+  {
+    "code": "32014",
+    "districtId": "D16",
+    "name": "Damana"
+  },
+  {
+    "code": "60130",
+    "districtId": "D01",
+    "name": "Dambadeniya"
+  },
+  {
+    "code": "91050",
+    "districtId": "D02",
+    "name": "Dambagalla"
+  },
+  {
+    "code": "90714",
+    "districtId": "D20",
+    "name": "Dambana"
+  },
+  {
+    "code": "90161",
+    "districtId": "D20",
+    "name": "Dambetenna"
+  },
+  {
+    "code": "21100",
+    "districtId": "D05",
+    "name": "Dambulla"
+  },
+  {
+    "code": "51106",
+    "districtId": "D13",
+    "name": "Damminna"
+  },
+  {
+    "code": "81612",
+    "districtId": "D07",
+    "name": "Dampahala"
+  },
+  {
+    "code": "71034",
+    "districtId": "D24",
+    "name": "Damunupola"
+  },
+  {
+    "code": "12148",
+    "districtId": "D17",
+    "name": "Danawala Thiniyawala"
+  },
+  {
+    "code": "81476",
+    "districtId": "D07",
+    "name": "Dangala"
+  },
+  {
+    "code": "21032",
+    "districtId": "D05",
+    "name": "Dankanda"
+  },
+  {
+    "code": "61130",
+    "districtId": "D21",
+    "name": "Dankotuwa"
+  },
+  {
+    "code": "11896",
+    "districtId": "D08",
+    "name": "Danowita"
+  },
+  {
+    "code": "20465",
+    "districtId": "D10",
+    "name": "Danture"
+  },
+  {
+    "code": "60174",
+    "districtId": "D01",
+    "name": "Daraluwa"
+  },
+  {
+    "code": "71430",
+    "districtId": "D24",
+    "name": "Daraniyagala"
+  },
+  {
+    "code": "70455",
+    "districtId": "D14",
+    "name": "Daugala"
+  },
+  {
+    "code": "22096",
+    "districtId": "D22",
+    "name": "Dayagama Bazaar"
+  },
+  {
+    "code": "11889",
+    "districtId": "D08",
+    "name": "Debahera"
+  },
+  {
+    "code": "71037",
+    "districtId": "D24",
+    "name": "Debathgama"
+  },
+  {
+    "code": "71237",
+    "districtId": "D24",
+    "name": "Dedugala"
+  },
+  {
+    "code": "20068",
+    "districtId": "D10",
+    "name": "Dedunupitiya"
+  },
+  {
+    "code": "81452",
+    "districtId": "D07",
+    "name": "Deegala Lenama"
+  },
+  {
+    "code": "60228",
+    "districtId": "D01",
+    "name": "Deegalla"
+  },
+  {
+    "code": "32006",
+    "districtId": "D16",
+    "name": "Deegawapiya"
+  },
+  {
+    "code": "60123",
+    "districtId": "D01",
+    "name": "Deekirikewa"
+  },
+  {
+    "code": "71022",
+    "districtId": "D24",
+    "name": "Deewala Pallegama"
+  },
+  {
+    "code": "32150",
+    "districtId": "D16",
+    "name": "Dehiattakandiya"
+  },
+  {
+    "code": "90709",
+    "districtId": "D20",
+    "name": "Dehigama"
+  },
+  {
+    "code": "71400",
+    "districtId": "D24",
+    "name": "Dehiowita"
+  },
+  {
+    "code": "20739",
+    "districtId": "D10",
+    "name": "Dehipe"
+  },
+  {
+    "code": "10350",
+    "districtId": "D09",
+    "name": "Dehiwala"
+  },
+  {
+    "code": "31226",
+    "districtId": "D11",
+    "name": "Dehiwatte"
+  },
+  {
+    "code": "81320",
+    "districtId": "D07",
+    "name": "Deiyandara"
+  },
+  {
+    "code": "11690",
+    "districtId": "D08",
+    "name": "Dekatana"
+  },
+  {
+    "code": "20658",
+    "districtId": "D10",
+    "name": "Dekinda"
+  },
+  {
+    "code": "70042",
+    "districtId": "D14",
+    "name": "Dela"
+  },
+  {
+    "code": "71009",
+    "districtId": "D24",
+    "name": "Deldeniya"
+  },
+  {
+    "code": "40378",
+    "districtId": "D04",
+    "name": "Delft West"
+  },
+  {
+    "code": "40370",
+    "districtId": "D04",
+    "name": "Delft"
+  },
+  {
+    "code": "11700",
+    "districtId": "D08",
+    "name": "Delgoda"
+  },
+  {
+    "code": "81477",
+    "districtId": "D07",
+    "name": "Dellawa"
+  },
+  {
+    "code": "12304",
+    "districtId": "D17",
+    "name": "Delmella"
+  },
+  {
+    "code": "71401",
+    "districtId": "D24",
+    "name": "Deloluwa"
+  },
+  {
+    "code": "10302",
+    "districtId": "D09",
+    "name": "Deltara"
+  },
+  {
+    "code": "20430",
+    "districtId": "D10",
+    "name": "Deltota"
+  },
+  {
+    "code": "11228",
+    "districtId": "D08",
+    "name": "Delwagura"
+  },
+  {
+    "code": "70046",
+    "districtId": "D14",
+    "name": "Delwala"
+  },
+  {
+    "code": "11692",
+    "districtId": "D08",
+    "name": "Demalagama"
+  },
+  {
+    "code": "11270",
+    "districtId": "D08",
+    "name": "Demanhandiya"
+  },
+  {
+    "code": "60024",
+    "districtId": "D01",
+    "name": "Demataluwa"
+  },
+  {
+    "code": "50356",
+    "districtId": "D18",
+    "name": "Dematawewa"
+  },
+  {
+    "code": "90080",
+    "districtId": "D20",
+    "name": "Demodara"
+  },
+  {
+    "code": "70332",
+    "districtId": "D14",
+    "name": "Demuwatha"
+  },
+  {
+    "code": "81314",
+    "districtId": "D07",
+    "name": "Denagama"
+  },
+  {
+    "code": "81730",
+    "districtId": "D07",
+    "name": "Denipitiya"
+  },
+  {
+    "code": "81500",
+    "districtId": "D07",
+    "name": "Deniyaya"
+  },
+  {
+    "code": "81454",
+    "districtId": "D07",
+    "name": "Derangala"
+  },
+  {
+    "code": "21552",
+    "districtId": "D05",
+    "name": "Devagiriya"
+  },
+  {
+    "code": "70509",
+    "districtId": "D14",
+    "name": "Devipahala"
+  },
+  {
+    "code": "21206",
+    "districtId": "D05",
+    "name": "Dewahuwa"
+  },
+  {
+    "code": "11102",
+    "districtId": "D08",
+    "name": "Dewalapola"
+  },
+  {
+    "code": "71050",
+    "districtId": "D24",
+    "name": "Dewalegama"
+  },
+  {
+    "code": "71527",
+    "districtId": "D24",
+    "name": "Dewanagala"
+  },
+  {
+    "code": "50027",
+    "districtId": "D18",
+    "name": "Dewanampiyatissapura"
+  },
+  {
+    "code": "12090",
+    "districtId": "D17",
+    "name": "Dharga Town"
+  },
+  {
+    "code": "60544",
+    "districtId": "D01",
+    "name": "Diddeniya"
+  },
+  {
+    "code": "32008",
+    "districtId": "D16",
+    "name": "Digamadulla Weeragoda"
+  },
+  {
+    "code": "20185",
+    "districtId": "D10",
+    "name": "Digana"
+  },
+  {
+    "code": "70037",
+    "districtId": "D14",
+    "name": "Diganakanda"
+  },
+  {
+    "code": "90132",
+    "districtId": "D20",
+    "name": "Diganatenna"
+  },
+  {
+    "code": "60485",
+    "districtId": "D01",
+    "name": "Digannewa"
+  },
+  {
+    "code": "90214",
+    "districtId": "D20",
+    "name": "Dikkapitiya"
+  },
+  {
+    "code": "80654",
+    "districtId": "D12",
+    "name": "Dikkumbura"
+  },
+  {
+    "code": "22050",
+    "districtId": "D22",
+    "name": "Dikoya"
+  },
+  {
+    "code": "81200",
+    "districtId": "D07",
+    "name": "Dikwella"
+  },
+  {
+    "code": "51031",
+    "districtId": "D13",
+    "name": "Dimbulagala"
+  },
+  {
+    "code": "51003",
+    "districtId": "D13",
+    "name": "Divulana"
+  },
+  {
+    "code": "51428",
+    "districtId": "D13",
+    "name": "Divulankadawala"
+  },
+  {
+    "code": "90726",
+    "districtId": "D20",
+    "name": "Divulapelessa"
+  },
+  {
+    "code": "11250",
+    "districtId": "D08",
+    "name": "Divulapitiya"
+  },
+  {
+    "code": "51104",
+    "districtId": "D13",
+    "name": "Divuldamana"
+  },
+  {
+    "code": "11208",
+    "districtId": "D08",
+    "name": "Divuldeniya"
+  },
+  {
+    "code": "60472",
+    "districtId": "D01",
+    "name": "Divullegoda"
+  },
+  {
+    "code": "12308",
+    "districtId": "D17",
+    "name": "Diwalakada"
+  },
+  {
+    "code": "51225",
+    "districtId": "D13",
+    "name": "Diyabeduma"
+  },
+  {
+    "code": "81038",
+    "districtId": "D07",
+    "name": "Diyagaha"
+  },
+  {
+    "code": "91514",
+    "districtId": "D02",
+    "name": "Diyakobala"
+  },
+  {
+    "code": "81422",
+    "districtId": "D07",
+    "name": "Diyalape"
+  },
+  {
+    "code": "51504",
+    "districtId": "D13",
+    "name": "Diyasenpura"
+  },
+  {
+    "code": "90150",
+    "districtId": "D20",
+    "name": "Diyatalawa"
+  },
+  {
+    "code": "70017",
+    "districtId": "D14",
+    "name": "Dodampe"
+  },
+  {
+    "code": "80250",
+    "districtId": "D12",
+    "name": "Dodanduwa"
+  },
+  {
+    "code": "12020",
+    "districtId": "D17",
+    "name": "Dodangoda"
+  },
+  {
+    "code": "20126",
+    "districtId": "D10",
+    "name": "Dolapihilla"
+  },
+  {
+    "code": "20510",
+    "districtId": "D10",
+    "name": "Dolosbage"
+  },
+  {
+    "code": "70404",
+    "districtId": "D14",
+    "name": "Doloswalakanda"
+  },
+  {
+    "code": "20532",
+    "districtId": "D10",
+    "name": "Doluwa"
+  },
+  {
+    "code": "91010",
+    "districtId": "D02",
+    "name": "Dombagahawela"
+  },
+  {
+    "code": "12416",
+    "districtId": "D17",
+    "name": "Dombagoda"
+  },
+  {
+    "code": "71115",
+    "districtId": "D24",
+    "name": "Dombemada"
+  },
+  {
+    "code": "11680",
+    "districtId": "D08",
+    "name": "Dompe"
+  },
+  {
+    "code": "90104",
+    "districtId": "D20",
+    "name": "Doolgolla"
+  },
+  {
+    "code": "22567",
+    "districtId": "D22",
+    "name": "Doragala"
+  },
+  {
+    "code": "20816",
+    "districtId": "D10",
+    "name": "Doragamuwa"
+  },
+  {
+    "code": "32104",
+    "districtId": "D16",
+    "name": "Dorakumbura"
+  },
+  {
+    "code": "60013",
+    "districtId": "D01",
+    "name": "Doratiyawa"
+  },
+  {
+    "code": "71601",
+    "districtId": "D24",
+    "name": "Dorawaka"
+  },
+  {
+    "code": "21054",
+    "districtId": "D05",
+    "name": "Dullewa"
+  },
+  {
+    "code": "70495",
+    "districtId": "D14",
+    "name": "Dumbara Manana"
+  },
+  {
+    "code": "60260",
+    "districtId": "D01",
+    "name": "Dummalasuriya"
+  },
+  {
+    "code": "11264",
+    "districtId": "D08",
+    "name": "Dunagaha"
+  },
+  {
+    "code": "61192",
+    "districtId": "D21",
+    "name": "Dunkannawa"
+  },
+  {
+    "code": "21046",
+    "districtId": "D05",
+    "name": "Dunkolawatte"
+  },
+  {
+    "code": "22002",
+    "districtId": "D22",
+    "name": "Dunukedeniya"
+  },
+  {
+    "code": "50214",
+    "districtId": "D18",
+    "name": "Dunumadalawa"
+  },
+  {
+    "code": "71605",
+    "districtId": "D24",
+    "name": "Dunumala"
+  },
+  {
+    "code": "20824",
+    "districtId": "D10",
+    "name": "Dunuwila"
+  },
+  {
+    "code": "21538",
+    "districtId": "D05",
+    "name": "Dunuwilapitiya"
+  },
+  {
+    "code": "50393",
+    "districtId": "D18",
+    "name": "Dutuwewa"
+  },
+  {
+    "code": "90013",
+    "districtId": "D20",
+    "name": "Egodawela"
+  },
+  {
+    "code": "70600",
+    "districtId": "D14",
+    "name": "Eheliyagoda"
+  },
+  {
+    "code": "60716",
+    "districtId": "D01",
+    "name": "Ehetuwewa"
+  },
+  {
+    "code": "11380",
+    "districtId": "D08",
+    "name": "Ekala"
+  },
+  {
+    "code": "91254",
+    "districtId": "D02",
+    "name": "Ekamuthugama"
+  },
+  {
+    "code": "20732",
+    "districtId": "D10",
+    "name": "Ekiriya"
+  },
+  {
+    "code": "91502",
+    "districtId": "D02",
+    "name": "Ekiriyankumbura"
+  },
+  {
+    "code": "60165",
+    "districtId": "D01",
+    "name": "Elabadagama"
+  },
+  {
+    "code": "51258",
+    "districtId": "D13",
+    "name": "Elahera"
+  },
+  {
+    "code": "22742",
+    "districtId": "D22",
+    "name": "Elamulla"
+  },
+  {
+    "code": "70032",
+    "districtId": "D14",
+    "name": "Elapatha"
+  },
+  {
+    "code": "50014",
+    "districtId": "D18",
+    "name": "Elayapattuwa"
+  },
+  {
+    "code": "60156",
+    "districtId": "D01",
+    "name": "Elibichchiya"
+  },
+  {
+    "code": "21012",
+    "districtId": "D05",
+    "name": "Elkaduwa"
+  },
+  {
+    "code": "90090",
+    "districtId": "D20",
+    "name": "Ella"
+  },
+  {
+    "code": "80402",
+    "districtId": "D12",
+    "name": "Ella Tanabaddegama"
+  },
+  {
+    "code": "82619",
+    "districtId": "D23",
+    "name": "Ellagala"
+  },
+  {
+    "code": "70492",
+    "districtId": "D14",
+    "name": "Ellagawa"
+  },
+  {
+    "code": "11116",
+    "districtId": "D08",
+    "name": "Ellakkala"
+  },
+  {
+    "code": "70552",
+    "districtId": "D14",
+    "name": "Ellaulla"
+  },
+  {
+    "code": "70606",
+    "districtId": "D14",
+    "name": "Ellawala"
+  },
+  {
+    "code": "51034",
+    "districtId": "D13",
+    "name": "Ellewewa"
+  },
+  {
+    "code": "40275",
+    "districtId": "D04",
+    "name": "Elluvaithivu"
+  },
+  {
+    "code": "80400",
+    "districtId": "D12",
+    "name": "Elpitiya"
+  },
+  {
+    "code": "42580",
+    "districtId": "D19",
+    "name": "Eluthumadduval"
+  },
+  {
+    "code": "61308",
+    "districtId": "D21",
+    "name": "Eluwankulama"
+  },
+  {
+    "code": "70200",
+    "districtId": "D14",
+    "name": "Embilipitiya"
+  },
+  {
+    "code": "60718",
+    "districtId": "D01",
+    "name": "Embogama"
+  },
+  {
+    "code": "50265",
+    "districtId": "D18",
+    "name": "Endagala"
+  },
+  {
+    "code": "70156",
+    "districtId": "D14",
+    "name": "Endana"
+  },
+  {
+    "code": "50260",
+    "districtId": "D18",
+    "name": "Eppawala"
+  },
+  {
+    "code": "70506",
+    "districtId": "D14",
+    "name": "Eratna"
+  },
+  {
+    "code": "30300",
+    "districtId": "D06",
+    "name": "Eravur"
+  },
+  {
+    "code": "21108",
+    "districtId": "D05",
+    "name": "Erawula Junction"
+  },
+  {
+    "code": "70602",
+    "districtId": "D14",
+    "name": "Erepola"
+  },
+  {
+    "code": "40080",
+    "districtId": "D04",
+    "name": "Erlalai"
+  },
+  {
+    "code": "41200",
+    "districtId": "D03",
+    "name": "Erukkalampiddy"
+  },
+  {
+    "code": "11108",
+    "districtId": "D08",
+    "name": "Essella"
+  },
+  {
+    "code": "21402",
+    "districtId": "D05",
+    "name": "Etanwala"
+  },
+  {
+    "code": "50584",
+    "districtId": "D18",
+    "name": "Etawatunuwewa"
+  },
+  {
+    "code": "50518",
+    "districtId": "D18",
+    "name": "Etaweeragollewa"
+  },
+  {
+    "code": "91250",
+    "districtId": "D02",
+    "name": "Ethiliwewa"
+  },
+  {
+    "code": "91020",
+    "districtId": "D02",
+    "name": "Ethimalewewa"
+  },
+  {
+    "code": "80458",
+    "districtId": "D12",
+    "name": "Ethkandura"
+  },
+  {
+    "code": "80112",
+    "districtId": "D12",
+    "name": "Ethumale"
+  },
+  {
+    "code": "61141",
+    "districtId": "D21",
+    "name": "Etiyawala"
+  },
+  {
+    "code": "61343",
+    "districtId": "D21",
+    "name": "Ettale"
+  },
+  {
+    "code": "90140",
+    "districtId": "D20",
+    "name": "Ettampitiya"
+  },
+  {
+    "code": "20202",
+    "districtId": "D10",
+    "name": "Etulgama"
+  },
+  {
+    "code": "60266",
+    "districtId": "D01",
+    "name": "Etungahakotuwa"
+  },
+  {
+    "code": "91008",
+    "districtId": "D02",
+    "name": "Galabedda"
+  },
+  {
+    "code": "20664",
+    "districtId": "D10",
+    "name": "Galaboda"
+  },
+  {
+    "code": "20915",
+    "districtId": "D10",
+    "name": "Galabodawatta"
+  },
+  {
+    "code": "50210",
+    "districtId": "D18",
+    "name": "Galadivulwewa"
+  },
+  {
+    "code": "20100",
+    "districtId": "D10",
+    "name": "Galagedara"
+  },
+  {
+    "code": "20420",
+    "districtId": "D10",
+    "name": "Galaha"
+  },
+  {
+    "code": "51416",
+    "districtId": "D13",
+    "name": "Galamuna"
+  },
+  {
+    "code": "32066",
+    "districtId": "D16",
+    "name": "Galapitagala"
+  },
+  {
+    "code": "71603",
+    "districtId": "D24",
+    "name": "Galapitamada"
+  },
+  {
+    "code": "71505",
+    "districtId": "D24",
+    "name": "Galatara"
+  },
+  {
+    "code": "90065",
+    "districtId": "D20",
+    "name": "Galauda"
+  },
+  {
+    "code": "90206",
+    "districtId": "D20",
+    "name": "Galedanda"
+  },
+  {
+    "code": "50390",
+    "districtId": "D18",
+    "name": "Galenbindunuwewa"
+  },
+  {
+    "code": "21200",
+    "districtId": "D05",
+    "name": "Galewela"
+  },
+  {
+    "code": "60700",
+    "districtId": "D01",
+    "name": "Galgamuwa"
+  },
+  {
+    "code": "20152",
+    "districtId": "D10",
+    "name": "Galhinna"
+  },
+  {
+    "code": "71350",
+    "districtId": "D24",
+    "name": "Galigamuwa Town"
+  },
+  {
+    "code": "50006",
+    "districtId": "D18",
+    "name": "Galkadawala"
+  },
+  {
+    "code": "50120",
+    "districtId": "D18",
+    "name": "Galkiriyagama"
+  },
+  {
+    "code": "50064",
+    "districtId": "D18",
+    "name": "Galkulama"
+  },
+  {
+    "code": "80000",
+    "districtId": "D12",
+    "name": "Galle"
+  },
+  {
+    "code": "70062",
+    "districtId": "D14",
+    "name": "Gallella"
+  },
+  {
+    "code": "20095",
+    "districtId": "D10",
+    "name": "Gallellagama"
+  },
+  {
+    "code": "31318",
+    "districtId": "D11",
+    "name": "Galmetiyawa"
+  },
+  {
+    "code": "61233",
+    "districtId": "D21",
+    "name": "Galmuruwa"
+  },
+  {
+    "code": "50170",
+    "districtId": "D18",
+    "name": "Galnewa"
+  },
+  {
+    "code": "51375",
+    "districtId": "D13",
+    "name": "Galoya Junction"
+  },
+  {
+    "code": "12005",
+    "districtId": "D17",
+    "name": "Galpatha"
+  },
+  {
+    "code": "90752",
+    "districtId": "D20",
+    "name": "Galporuyaya"
+  },
+  {
+    "code": "12016",
+    "districtId": "D17",
+    "name": "Gamagoda"
+  },
+  {
+    "code": "50057",
+    "districtId": "D18",
+    "name": "Gambirigaswewa"
+  },
+  {
+    "code": "90512",
+    "districtId": "D20",
+    "name": "Gamewela"
+  },
+  {
+    "code": "21068",
+    "districtId": "D05",
+    "name": "Gammaduwa"
+  },
+  {
+    "code": "11000",
+    "districtId": "D08",
+    "name": "Gampaha"
+  },
+  {
+    "code": "20500",
+    "districtId": "D10",
+    "name": "Gampola"
+  },
+  {
+    "code": "81170",
+    "districtId": "D07",
+    "name": "Gandara"
+  },
+  {
+    "code": "80440",
+    "districtId": "D12",
+    "name": "Ganegoda"
+  },
+  {
+    "code": "11020",
+    "districtId": "D08",
+    "name": "Ganemulla"
+  },
+  {
+    "code": "50142",
+    "districtId": "D18",
+    "name": "Ganewalpola"
+  },
+  {
+    "code": "21404",
+    "districtId": "D05",
+    "name": "Gangala Puwakpitiya"
+  },
+  {
+    "code": "70195",
+    "districtId": "D14",
+    "name": "Gangeyaya"
+  },
+  {
+    "code": "82506",
+    "districtId": "D23",
+    "name": "Gangulandeniya"
+  },
+  {
+    "code": "20735",
+    "districtId": "D10",
+    "name": "Gannewa Udagama"
+  },
+  {
+    "code": "71222",
+    "districtId": "D24",
+    "name": "Gantuna"
+  },
+  {
+    "code": "70026",
+    "districtId": "D14",
+    "name": "Gawaragiriya"
+  },
+  {
+    "code": "70097",
+    "districtId": "D14",
+    "name": "Gawaranhena"
+  },
+  {
+    "code": "90082",
+    "districtId": "D20",
+    "name": "Gawarawela"
+  },
+  {
+    "code": "20620",
+    "districtId": "D10",
+    "name": "Gelioya"
+  },
+  {
+    "code": "50224",
+    "districtId": "D18",
+    "name": "Gemunupura"
+  },
+  {
+    "code": "70620",
+    "districtId": "D14",
+    "name": "Getahetta"
+  },
+  {
+    "code": "50392",
+    "districtId": "D18",
+    "name": "Getalawa"
+  },
+  {
+    "code": "82420",
+    "districtId": "D23",
+    "name": "Getamanna"
+  },
+  {
+    "code": "70002",
+    "districtId": "D14",
+    "name": "Gillimale"
+  },
+  {
+    "code": "22680",
+    "districtId": "D22",
+    "name": "Ginigathhena"
+  },
+  {
+    "code": "80220",
+    "districtId": "D12",
+    "name": "Ginimellagaha"
+  },
+  {
+    "code": "80280",
+    "districtId": "D12",
+    "name": "Gintota"
+  },
+  {
+    "code": "90750",
+    "districtId": "D20",
+    "name": "Girandurukotte"
+  },
+  {
+    "code": "60752",
+    "districtId": "D01",
+    "name": "Girathalana"
+  },
+  {
+    "code": "51026",
+    "districtId": "D13",
+    "name": "Giritale"
+  },
+  {
+    "code": "60140",
+    "districtId": "D01",
+    "name": "Giriulla"
+  },
+  {
+    "code": "50036",
+    "districtId": "D18",
+    "name": "Gnanikulam"
+  },
+  {
+    "code": "82104",
+    "districtId": "D23",
+    "name": "Goda Koggalla"
+  },
+  {
+    "code": "70556",
+    "districtId": "D14",
+    "name": "Godagampola"
+  },
+  {
+    "code": "80302",
+    "districtId": "D12",
+    "name": "Godahena"
+  },
+  {
+    "code": "70160",
+    "districtId": "D14",
+    "name": "Godakawela"
+  },
+  {
+    "code": "20214",
+    "districtId": "D10",
+    "name": "Godamunna"
+  },
+  {
+    "code": "81408",
+    "districtId": "D07",
+    "name": "Godapitiya"
+  },
+  {
+    "code": "90067",
+    "districtId": "D20",
+    "name": "Godunna"
+  },
+  {
+    "code": "60522",
+    "districtId": "D01",
+    "name": "Gokarella"
+  },
+  {
+    "code": "20184",
+    "districtId": "D10",
+    "name": "Gomagoda"
+  },
+  {
+    "code": "31026",
+    "districtId": "D11",
+    "name": "Gomarankadawala"
+  },
+  {
+    "code": "81073",
+    "districtId": "D07",
+    "name": "Gombaddala"
+  },
+  {
+    "code": "81072",
+    "districtId": "D07",
+    "name": "Gomila Mawarala"
+  },
+  {
+    "code": "71318",
+    "districtId": "D24",
+    "name": "Gonagala"
+  },
+  {
+    "code": "80502",
+    "districtId": "D12",
+    "name": "Gonagalapura"
+  },
+  {
+    "code": "60005",
+    "districtId": "D01",
+    "name": "Gonagama"
+  },
+  {
+    "code": "82602",
+    "districtId": "D23",
+    "name": "Gonagamuwa Uduwila"
+  },
+  {
+    "code": "91107",
+    "districtId": "D02",
+    "name": "Gonaganara"
+  },
+  {
+    "code": "20712",
+    "districtId": "D10",
+    "name": "Gonagantenna"
+  },
+  {
+    "code": "32064",
+    "districtId": "D16",
+    "name": "Gonagolla"
+  },
+  {
+    "code": "50554",
+    "districtId": "D18",
+    "name": "Gonahaddenawa"
+  },
+  {
+    "code": "22226",
+    "districtId": "D22",
+    "name": "Gonakele"
+  },
+  {
+    "code": "80054",
+    "districtId": "D12",
+    "name": "Gonamulla Junction"
+  },
+  {
+    "code": "80230",
+    "districtId": "D12",
+    "name": "Gonapinuwala"
+  },
+  {
+    "code": "12410",
+    "districtId": "D17",
+    "name": "Gonapola Junction"
+  },
+  {
+    "code": "20656",
+    "districtId": "D10",
+    "name": "Gonawalapatana"
+  },
+  {
+    "code": "60170",
+    "districtId": "D01",
+    "name": "Gonawila"
+  },
+  {
+    "code": "11315",
+    "districtId": "D08",
+    "name": "Gongitota"
+  },
+  {
+    "code": "82006",
+    "districtId": "D23",
+    "name": "Gonnoruwa"
+  },
+  {
+    "code": "12310",
+    "districtId": "D17",
+    "name": "Govinna"
+  },
+  {
+    "code": "20270",
+    "districtId": "D10",
+    "name": "Gunnepana"
+  },
+  {
+    "code": "70136",
+    "districtId": "D14",
+    "name": "Gurubewilagama"
+  },
+  {
+    "code": "20189",
+    "districtId": "D10",
+    "name": "Gurudeniya"
+  },
+  {
+    "code": "12236",
+    "districtId": "D17",
+    "name": "Gurulubedda"
+  },
+  {
+    "code": "90208",
+    "districtId": "D20",
+    "name": "Gurutalawa"
+  },
+  {
+    "code": "80630",
+    "districtId": "D12",
+    "name": "Habaraduwa"
+  },
+  {
+    "code": "10204",
+    "districtId": "D09",
+    "name": "Habarakada"
+  },
+  {
+    "code": "50150",
+    "districtId": "D18",
+    "name": "Habarana"
+  },
+  {
+    "code": "80506",
+    "districtId": "D12",
+    "name": "Haburugala"
+  },
+  {
+    "code": "22208",
+    "districtId": "D22",
+    "name": "Haggala"
+  },
+  {
+    "code": "71715",
+    "districtId": "D24",
+    "name": "Hakabellawaka"
+  },
+  {
+    "code": "71352",
+    "districtId": "D24",
+    "name": "Hakahinna"
+  },
+  {
+    "code": "81300",
+    "districtId": "D07",
+    "name": "Hakmana"
+  },
+  {
+    "code": "82248",
+    "districtId": "D23",
+    "name": "Hakuruwela"
+  },
+  {
+    "code": "61135",
+    "districtId": "D21",
+    "name": "Haldanduwana"
+  },
+  {
+    "code": "90180",
+    "districtId": "D20",
+    "name": "Haldummulla"
+  },
+  {
+    "code": "22240",
+    "districtId": "D22",
+    "name": "Halgranoya"
+  },
+  {
+    "code": "90060",
+    "districtId": "D20",
+    "name": "Hali Ela"
+  },
+  {
+    "code": "12055",
+    "districtId": "D17",
+    "name": "Halkandawila"
+  },
+  {
+    "code": "50552",
+    "districtId": "D18",
+    "name": "Halmillawetiya"
+  },
+  {
+    "code": "60441",
+    "districtId": "D01",
+    "name": "Halmillawewa"
+  },
+  {
+    "code": "50124",
+    "districtId": "D18",
+    "name": "Halmillewa Dambulla"
+  },
+  {
+    "code": "20032",
+    "districtId": "D10",
+    "name": "Haloluwa"
+  },
+  {
+    "code": "20515",
+    "districtId": "D10",
+    "name": "Haloya"
+  },
+  {
+    "code": "70145",
+    "districtId": "D14",
+    "name": "Halpe"
+  },
+  {
+    "code": "12538",
+    "districtId": "D17",
+    "name": "Haltota"
+  },
+  {
+    "code": "80146",
+    "districtId": "D12",
+    "name": "Halvitigala Colony"
+  },
+  {
+    "code": "12118",
+    "districtId": "D17",
+    "name": "Halwala"
+  },
+  {
+    "code": "12306",
+    "districtId": "D17",
+    "name": "Halwatura"
+  },
+  {
+    "code": "70171",
+    "districtId": "D14",
+    "name": "Halwinna"
+  },
+  {
+    "code": "82000",
+    "districtId": "D23",
+    "name": "Hambantota"
+  },
+  {
+    "code": "91308",
+    "districtId": "D02",
+    "name": "Hambegamuwa"
+  },
+  {
+    "code": "20984",
+    "districtId": "D10",
+    "name": "Handaganawa"
+  },
+  {
+    "code": "70106",
+    "districtId": "D14",
+    "name": "Handagiriya"
+  },
+  {
+    "code": "10524",
+    "districtId": "D09",
+    "name": "Handapangoda"
+  },
+  {
+    "code": "20438",
+    "districtId": "D10",
+    "name": "Handawalapitiya"
+  },
+  {
+    "code": "20480",
+    "districtId": "D10",
+    "name": "Handessa"
+  },
+  {
+    "code": "81326",
+    "districtId": "D07",
+    "name": "Handugala"
+  },
+  {
+    "code": "21536",
+    "districtId": "D05",
+    "name": "Handungamuwa"
+  },
+  {
+    "code": "22044",
+    "districtId": "D22",
+    "name": "Hangarapitiya"
+  },
+  {
+    "code": "90224",
+    "districtId": "D20",
+    "name": "Hangunnawa"
+  },
+  {
+    "code": "20710",
+    "districtId": "D10",
+    "name": "Hanguranketha"
+  },
+  {
+    "code": "51098",
+    "districtId": "D13",
+    "name": "Hansayapalama"
+  },
+  {
+    "code": "10650",
+    "districtId": "D09",
+    "name": "Hanwella"
+  },
+  {
+    "code": "22668",
+    "districtId": "D22",
+    "name": "Hapugastalawa"
+  },
+  {
+    "code": "70164",
+    "districtId": "D14",
+    "name": "Hapugastenna"
+  },
+  {
+    "code": "90160",
+    "districtId": "D20",
+    "name": "Haputale"
+  },
+  {
+    "code": "22669",
+    "districtId": "D22",
+    "name": "Harangalagama"
+  },
+  {
+    "code": "20092",
+    "districtId": "D10",
+    "name": "Harankahawa"
+  },
+  {
+    "code": "22262",
+    "districtId": "D22",
+    "name": "Harasbedda"
+  },
+  {
+    "code": "20960",
+    "districtId": "D10",
+    "name": "Hasalaka"
+  },
+  {
+    "code": "70108",
+    "districtId": "D14",
+    "name": "Hatarabage"
+  },
+  {
+    "code": "20060",
+    "districtId": "D10",
+    "name": "Hataraliyadda"
+  },
+  {
+    "code": "82013",
+    "districtId": "D23",
+    "name": "Hathporuwa"
+  },
+  {
+    "code": "22000",
+    "districtId": "D22",
+    "name": "Hatton"
+  },
+  {
+    "code": "21514",
+    "districtId": "D05",
+    "name": "Hattota Amuna"
+  },
+  {
+    "code": "00500",
+    "districtId": "D09",
+    "name": "Havelock Town"
+  },
+  {
+    "code": "80132",
+    "districtId": "D12",
+    "name": "Hawpe"
+  },
+  {
+    "code": "90724",
+    "districtId": "D20",
+    "name": "Hebarawa"
+  },
+  {
+    "code": "22683",
+    "districtId": "D22",
+    "name": "Hebbekanda"
+  },
+  {
+    "code": "12234",
+    "districtId": "D17",
+    "name": "Hedigalla Colony"
+  },
+  {
+    "code": "22024",
+    "districtId": "D22",
+    "name": "Hedunuwewa"
+  },
+  {
+    "code": "90112",
+    "districtId": "D20",
+    "name": "Heeloya"
+  },
+  {
+    "code": "11618",
+    "districtId": "D08",
+    "name": "Heiyanthuduwa"
+  },
+  {
+    "code": "90122",
+    "districtId": "D20",
+    "name": "Helahalpe"
+  },
+  {
+    "code": "71046",
+    "districtId": "D24",
+    "name": "Helamada"
+  },
+  {
+    "code": "90094",
+    "districtId": "D20",
+    "name": "Helapupula"
+  },
+  {
+    "code": "71530",
+    "districtId": "D24",
+    "name": "Hemmatagama"
+  },
+  {
+    "code": "11307",
+    "districtId": "D08",
+    "name": "Hendala"
+  },
+  {
+    "code": "11715",
+    "districtId": "D08",
+    "name": "Henegama"
+  },
+  {
+    "code": "60414",
+    "districtId": "D01",
+    "name": "Hengamuwa"
+  },
+  {
+    "code": "70058",
+    "districtId": "D14",
+    "name": "Hettikanda"
+  },
+  {
+    "code": "71210",
+    "districtId": "D24",
+    "name": "Hettimulla"
+  },
+  {
+    "code": "60430",
+    "districtId": "D01",
+    "name": "Hettipola"
+  },
+  {
+    "code": "71108",
+    "districtId": "D24",
+    "name": "Hewadiwela"
+  },
+  {
+    "code": "20440",
+    "districtId": "D10",
+    "name": "Hewaheta"
+  },
+  {
+    "code": "90358",
+    "districtId": "D20",
+    "name": "Hewanakumbura"
+  },
+  {
+    "code": "90607",
+    "districtId": "D20",
+    "name": "Hewanwatta"
+  },
+  {
+    "code": "70012",
+    "districtId": "D14",
+    "name": "Hidellana"
+  },
+  {
+    "code": "50044",
+    "districtId": "D18",
+    "name": "Hidogama"
+  },
+  {
+    "code": "80240",
+    "districtId": "D12",
+    "name": "Hikkaduwa"
+  },
+  {
+    "code": "60486",
+    "districtId": "D01",
+    "name": "Hilogama"
+  },
+  {
+    "code": "11568",
+    "districtId": "D08",
+    "name": "Hinatiyana Madawala"
+  },
+  {
+    "code": "20414",
+    "districtId": "D10",
+    "name": "Hindagala"
+  },
+  {
+    "code": "60034",
+    "districtId": "D01",
+    "name": "Hindagolla"
+  },
+  {
+    "code": "71520",
+    "districtId": "D24",
+    "name": "Hingula"
+  },
+  {
+    "code": "51408",
+    "districtId": "D13",
+    "name": "Hingurakdamana"
+  },
+  {
+    "code": "51400",
+    "districtId": "D13",
+    "name": "Hingurakgoda"
+  },
+  {
+    "code": "71417",
+    "districtId": "D24",
+    "name": "Hinguralakanda"
+  },
+  {
+    "code": "32010",
+    "districtId": "D16",
+    "name": "Hingurana"
+  },
+  {
+    "code": "90508",
+    "districtId": "D20",
+    "name": "Hingurukaduwa"
+  },
+  {
+    "code": "80080",
+    "districtId": "D12",
+    "name": "Hiniduma"
+  },
+  {
+    "code": "70296",
+    "districtId": "D14",
+    "name": "Hiramadagama"
+  },
+  {
+    "code": "10232",
+    "districtId": "D09",
+    "name": "Hiripitiya"
+  },
+  {
+    "code": "71014",
+    "districtId": "D24",
+    "name": "Hiriwadunna"
+  },
+  {
+    "code": "60591",
+    "districtId": "D01",
+    "name": "Hiriyala Ambagaswewa"
+  },
+  {
+    "code": "60546",
+    "districtId": "D01",
+    "name": "Hiriyala Lenawa"
+  },
+  {
+    "code": "60458",
+    "districtId": "D01",
+    "name": "Hiruwalpola"
+  },
+  {
+    "code": "11734",
+    "districtId": "D08",
+    "name": "Hiswella"
+  },
+  {
+    "code": "22046",
+    "districtId": "D22",
+    "name": "Hitigegama"
+  },
+  {
+    "code": "80056",
+    "districtId": "D12",
+    "name": "Hiyare"
+  },
+  {
+    "code": "10118",
+    "districtId": "D09",
+    "name": "Hokandara"
+  },
+  {
+    "code": "10200",
+    "districtId": "D09",
+    "name": "Homagama"
+  },
+  {
+    "code": "20524",
+    "districtId": "D10",
+    "name": "Hondiyadeniya"
+  },
+  {
+    "code": "90524",
+    "districtId": "D20",
+    "name": "Hopton"
+  },
+  {
+    "code": "90163",
+    "districtId": "D20",
+    "name": "Horadorowwa"
+  },
+  {
+    "code": "10502",
+    "districtId": "D09",
+    "name": "Horagala"
+  },
+  {
+    "code": "11564",
+    "districtId": "D08",
+    "name": "Horampella"
+  },
+  {
+    "code": "12400",
+    "districtId": "D17",
+    "name": "Horana"
+  },
+  {
+    "code": "81108",
+    "districtId": "D07",
+    "name": "Horapawita"
+  },
+  {
+    "code": "50350",
+    "districtId": "D18",
+    "name": "Horawpatana"
+  },
+  {
+    "code": "82456",
+    "districtId": "D23",
+    "name": "Horewelagoda"
+  },
+  {
+    "code": "50222",
+    "districtId": "D18",
+    "name": "Horiwila"
+  },
+  {
+    "code": "60181",
+    "districtId": "D01",
+    "name": "Horombawa"
+  },
+  {
+    "code": "91004",
+    "districtId": "D02",
+    "name": "Hulandawa"
+  },
+  {
+    "code": "60474",
+    "districtId": "D01",
+    "name": "Hulogedara"
+  },
+  {
+    "code": "60477",
+    "districtId": "D01",
+    "name": "Hulugalla"
+  },
+  {
+    "code": "82120",
+    "districtId": "D23",
+    "name": "Hungama"
+  },
+  {
+    "code": "20948",
+    "districtId": "D10",
+    "name": "Hunnasgiriya"
+  },
+  {
+    "code": "11262",
+    "districtId": "D08",
+    "name": "Hunumulla"
+  },
+  {
+    "code": "11311",
+    "districtId": "D08",
+    "name": "Hunupitiya"
+  },
+  {
+    "code": "60582",
+    "districtId": "D01",
+    "name": "Hunupola"
+  },
+  {
+    "code": "50176",
+    "districtId": "D18",
+    "name": "Hurigaswewa"
+  },
+  {
+    "code": "50394",
+    "districtId": "D18",
+    "name": "Hurulunikawewa"
+  },
+  {
+    "code": "60500",
+    "districtId": "D01",
+    "name": "Ibbagamuwa"
+  },
+  {
+    "code": "31236",
+    "districtId": "D11",
+    "name": "Ichchilampattai"
+  },
+  {
+    "code": "90167",
+    "districtId": "D20",
+    "name": "Idalgashinna"
+  },
+  {
+    "code": "82412",
+    "districtId": "D23",
+    "name": "Ihala Beligalla"
+  },
+  {
+    "code": "60211",
+    "districtId": "D01",
+    "name": "Ihala Gomugomuwa"
+  },
+  {
+    "code": "70039",
+    "districtId": "D14",
+    "name": "Ihala hakamuwa"
+  },
+  {
+    "code": "50262",
+    "districtId": "D18",
+    "name": "Ihala Halmillewa"
+  },
+  {
+    "code": "80432",
+    "districtId": "D12",
+    "name": "Ihala Hewessa"
+  },
+  {
+    "code": "60238",
+    "districtId": "D01",
+    "name": "Ihala Kadigamuwa"
+  },
+  {
+    "code": "60135",
+    "districtId": "D01",
+    "name": "Ihala Katugampala"
+  },
+  {
+    "code": "20042",
+    "districtId": "D10",
+    "name": "Ihala Kobbekaduwa"
+  },
+  {
+    "code": "61154",
+    "districtId": "D21",
+    "name": "Ihala Kottaramulla"
+  },
+  {
+    "code": "11265",
+    "districtId": "D08",
+    "name": "Ihala Madampella"
+  },
+  {
+    "code": "61316",
+    "districtId": "D21",
+    "name": "Ihala Puliyankulama"
+  },
+  {
+    "code": "11034",
+    "districtId": "D08",
+    "name": "Ihala Uggalboda"
+  },
+  {
+    "code": "80134",
+    "districtId": "D12",
+    "name": "Ihala Walpola"
+  },
+  {
+    "code": "70144",
+    "districtId": "D14",
+    "name": "Ihalagalagama"
+  },
+  {
+    "code": "50304",
+    "districtId": "D18",
+    "name": "Ihalagama"
+  },
+  {
+    "code": "40108",
+    "districtId": "D04",
+    "name": "Ilavalai"
+  },
+  {
+    "code": "61018",
+    "districtId": "D21",
+    "name": "Ilippadeniya"
+  },
+  {
+    "code": "20724",
+    "districtId": "D10",
+    "name": "Illagolla"
+  },
+  {
+    "code": "21406",
+    "districtId": "D05",
+    "name": "Illukkumbura"
+  },
+  {
+    "code": "60232",
+    "districtId": "D01",
+    "name": "Ilukhena"
+  },
+  {
+    "code": "41175",
+    "districtId": "D03",
+    "name": "Iluppaikadavai"
+  },
+  {
+    "code": "80130",
+    "districtId": "D12",
+    "name": "Imaduwa"
+  },
+  {
+    "code": "71313",
+    "districtId": "D24",
+    "name": "Imbulana"
+  },
+  {
+    "code": "71055",
+    "districtId": "D24",
+    "name": "Imbulgasdeniya"
+  },
+  {
+    "code": "11856",
+    "districtId": "D08",
+    "name": "Imbulgoda"
+  },
+  {
+    "code": "21064",
+    "districtId": "D05",
+    "name": "Imbulgolla"
+  },
+  {
+    "code": "70134",
+    "districtId": "D14",
+    "name": "Imbulpe"
+  },
+  {
+    "code": "21124",
+    "districtId": "D05",
+    "name": "Inamaluwa"
+  },
+  {
+    "code": "60016",
+    "districtId": "D01",
+    "name": "Indulgodakanda"
+  },
+  {
+    "code": "80510",
+    "districtId": "D12",
+    "name": "Induruwa"
+  },
+  {
+    "code": "32040",
+    "districtId": "D16",
+    "name": "Inginiyagala"
+  },
+  {
+    "code": "12440",
+    "districtId": "D17",
+    "name": "Ingiriya"
+  },
+  {
+    "code": "60064",
+    "districtId": "D01",
+    "name": "Inguruwatta"
+  },
+  {
+    "code": "40095",
+    "districtId": "D04",
+    "name": "Inuvil"
+  },
+  {
+    "code": "50280",
+    "districtId": "D18",
+    "name": "Ipologama"
+  },
+  {
+    "code": "32450",
+    "districtId": "D16",
+    "name": "Irakkamam"
+  },
+  {
+    "code": "43095",
+    "districtId": "D25",
+    "name": "Iranaiiluppaikulam"
+  },
+  {
+    "code": "42630",
+    "districtId": "D19",
+    "name": "Iranaitivu"
+  },
+  {
+    "code": "60045",
+    "districtId": "D01",
+    "name": "Iriyagolla"
+  },
+  {
+    "code": "61302",
+    "districtId": "D21",
+    "name": "Ismailpuram"
+  },
+  {
+    "code": "60025",
+    "districtId": "D01",
+    "name": "Ithanawatta"
+  },
+  {
+    "code": "82462",
+    "districtId": "D23",
+    "name": "Ittademaliya"
+  },
+  {
+    "code": "70342",
+    "districtId": "D14",
+    "name": "Ittekanda"
+  },
+  {
+    "code": "12116",
+    "districtId": "D17",
+    "name": "Ittepana"
+  },
+  {
+    "code": "42556",
+    "districtId": "D19",
+    "name": "Iyakachchi"
+  },
+  {
+    "code": "11350",
+    "districtId": "D08",
+    "name": "Ja-Ela"
+  },
+  {
+    "code": "40000",
+    "districtId": "D04",
+    "name": "Jaffna"
+  },
+  {
+    "code": "20822",
+    "districtId": "D10",
+    "name": "Jambugahapitiya"
+  },
+  {
+    "code": "90063",
+    "districtId": "D20",
+    "name": "Jangulla"
+  },
+  {
+    "code": "51024",
+    "districtId": "D13",
+    "name": "Jayanthipura"
+  },
+  {
+    "code": "51246",
+    "districtId": "D13",
+    "name": "Jayasiripura"
+  },
+  {
+    "code": "82252",
+    "districtId": "D23",
+    "name": "Julampitiya"
+  },
+  {
+    "code": "71202",
+    "districtId": "D24",
+    "name": "Kabagamuwa"
+  },
+  {
+    "code": "11850",
+    "districtId": "D08",
+    "name": "Kadawatha"
+  },
+  {
+    "code": "60492",
+    "districtId": "D01",
+    "name": "Kadigawa"
+  },
+  {
+    "code": "20300",
+    "districtId": "D10",
+    "name": "Kadugannawa"
+  },
+  {
+    "code": "10640",
+    "districtId": "D09",
+    "name": "Kaduwela"
+  },
+  {
+    "code": "50282",
+    "districtId": "D18",
+    "name": "Kagama"
+  },
+  {
+    "code": "80460",
+    "districtId": "D12",
+    "name": "Kahaduwa"
+  },
+  {
+    "code": "82126",
+    "districtId": "D23",
+    "name": "Kahandamodara"
+  },
+  {
+    "code": "70016",
+    "districtId": "D14",
+    "name": "Kahangama"
+  },
+  {
+    "code": "60062",
+    "districtId": "D01",
+    "name": "Kahapathwala"
+  },
+  {
+    "code": "50320",
+    "districtId": "D18",
+    "name": "Kahatagasdigiliya"
+  },
+  {
+    "code": "50562",
+    "districtId": "D18",
+    "name": "Kahatagollewa"
+  },
+  {
+    "code": "20924",
+    "districtId": "D10",
+    "name": "Kahataliyadda"
+  },
+  {
+    "code": "90052",
+    "districtId": "D20",
+    "name": "Kahataruppa"
+  },
+  {
+    "code": "11144",
+    "districtId": "D08",
+    "name": "Kahatowita"
+  },
+  {
+    "code": "80312",
+    "districtId": "D12",
+    "name": "Kahawa"
+  },
+  {
+    "code": "10508",
+    "districtId": "D09",
+    "name": "Kahawala"
+  },
+  {
+    "code": "70150",
+    "districtId": "D14",
+    "name": "Kahawatta"
+  },
+  {
+    "code": "21066",
+    "districtId": "D05",
+    "name": "Kaikawala"
+  },
+  {
+    "code": "40400",
+    "districtId": "D04",
+    "name": "Kaitadi"
+  },
+  {
+    "code": "61236",
+    "districtId": "D21",
+    "name": "Kakkapalliya"
+  },
+  {
+    "code": "61534",
+    "districtId": "D21",
+    "name": "Kaladiya"
+  },
+  {
+    "code": "22282",
+    "districtId": "D22",
+    "name": "Kalaganwatta"
+  },
+  {
+    "code": "11875",
+    "districtId": "D08",
+    "name": "Kalagedihena"
+  },
+  {
+    "code": "50288",
+    "districtId": "D18",
+    "name": "Kalakarambewa"
+  },
+  {
+    "code": "50174",
+    "districtId": "D18",
+    "name": "Kalankuttiya"
+  },
+  {
+    "code": "50226",
+    "districtId": "D18",
+    "name": "Kalaoya"
+  },
+  {
+    "code": "10718",
+    "districtId": "D09",
+    "name": "Kalatuwawa"
+  },
+  {
+    "code": "70450",
+    "districtId": "D14",
+    "name": "Kalawana"
+  },
+  {
+    "code": "50556",
+    "districtId": "D18",
+    "name": "Kalawedi Ulpotha"
+  },
+  {
+    "code": "22688",
+    "districtId": "D22",
+    "name": "Kalaweldeniya"
+  },
+  {
+    "code": "12078",
+    "districtId": "D17",
+    "name": "Kalawila Kiranthidiya"
+  },
+  {
+    "code": "11160",
+    "districtId": "D08",
+    "name": "Kaleliya"
+  },
+  {
+    "code": "51002",
+    "districtId": "D13",
+    "name": "Kalingaela"
+  },
+  {
+    "code": "30410",
+    "districtId": "D06",
+    "name": "Kalkudah"
+  },
+  {
+    "code": "30250",
+    "districtId": "D06",
+    "name": "Kallar"
+  },
+  {
+    "code": "70122",
+    "districtId": "D14",
+    "name": "Kaltota"
+  },
+  {
+    "code": "11224",
+    "districtId": "D08",
+    "name": "Kaluaggala"
+  },
+  {
+    "code": "81478",
+    "districtId": "D07",
+    "name": "Kalubowitiyana"
+  },
+  {
+    "code": "90352",
+    "districtId": "D20",
+    "name": "Kalubululanda"
+  },
+  {
+    "code": "90546",
+    "districtId": "D20",
+    "name": "Kalugahakandura"
+  },
+  {
+    "code": "20926",
+    "districtId": "D10",
+    "name": "Kalugala"
+  },
+  {
+    "code": "60096",
+    "districtId": "D01",
+    "name": "Kalugamuwa"
+  },
+  {
+    "code": "51037",
+    "districtId": "D13",
+    "name": "Kalukele Bandanagala"
+  },
+  {
+    "code": "21112",
+    "districtId": "D05",
+    "name": "Kalundewa"
+  },
+  {
+    "code": "90186",
+    "districtId": "D20",
+    "name": "Kalupahana"
+  },
+  {
+    "code": "12000",
+    "districtId": "D17",
+    "name": "Kalutara"
+  },
+  {
+    "code": "30197",
+    "districtId": "D06",
+    "name": "Kaluthavalai"
+  },
+  {
+    "code": "30200",
+    "districtId": "D06",
+    "name": "Kaluwanchikudi"
+  },
+  {
+    "code": "30372",
+    "districtId": "D06",
+    "name": "Kaluwankerny"
+  },
+  {
+    "code": "81750",
+    "districtId": "D07",
+    "name": "Kamburugamuwa"
+  },
+  {
+    "code": "81100",
+    "districtId": "D07",
+    "name": "Kamburupitiya"
+  },
+  {
+    "code": "60054",
+    "districtId": "D01",
+    "name": "Kanadeniyawala"
+  },
+  {
+    "code": "43072",
+    "districtId": "D25",
+    "name": "Kanagarayankulam"
+  },
+  {
+    "code": "61273",
+    "districtId": "D21",
+    "name": "Kanamule"
+  },
+  {
+    "code": "80136",
+    "districtId": "D12",
+    "name": "Kananke Bazaar"
+  },
+  {
+    "code": "12418",
+    "districtId": "D17",
+    "name": "Kananwila"
+  },
+  {
+    "code": "60422",
+    "districtId": "D01",
+    "name": "Kanattewewa"
+  },
+  {
+    "code": "90020",
+    "districtId": "D20",
+    "name": "Kandaketiya"
+  },
+  {
+    "code": "61358",
+    "districtId": "D21",
+    "name": "Kandakuliya"
+  },
+  {
+    "code": "21106",
+    "districtId": "D05",
+    "name": "Kandalama"
+  },
+  {
+    "code": "11320",
+    "districtId": "D08",
+    "name": "Kandana"
+  },
+  {
+    "code": "12428",
+    "districtId": "D17",
+    "name": "Kandanagama"
+  },
+  {
+    "code": "22220",
+    "districtId": "D22",
+    "name": "Kandapola"
+  },
+  {
+    "code": "91403",
+    "districtId": "D02",
+    "name": "Kandasurindugama"
+  },
+  {
+    "code": "91032",
+    "districtId": "D02",
+    "name": "Kandaudapanguwa"
+  },
+  {
+    "code": "42508",
+    "districtId": "D19",
+    "name": "Kandavalai"
+  },
+  {
+    "code": "90070",
+    "districtId": "D20",
+    "name": "Kandegedara"
+  },
+  {
+    "code": "90356",
+    "districtId": "D20",
+    "name": "Kandepuhulpola"
+  },
+  {
+    "code": "40190",
+    "districtId": "D04",
+    "name": "Kankasanthurai"
+  },
+  {
+    "code": "30016",
+    "districtId": "D06",
+    "name": "Kannankudah"
+  },
+  {
+    "code": "31032",
+    "districtId": "D11",
+    "name": "Kanniya"
+  },
+  {
+    "code": "31300",
+    "districtId": "D11",
+    "name": "Kantale"
+  },
+  {
+    "code": "31306",
+    "districtId": "D11",
+    "name": "Kantale Sugar Factory"
+  },
+  {
+    "code": "31055",
+    "districtId": "D11",
+    "name": "Kapalthurai"
+  },
+  {
+    "code": "10662",
+    "districtId": "D08",
+    "name": "Kapugoda"
+  },
+  {
+    "code": "50370",
+    "districtId": "D18",
+    "name": "Kapugollewa"
+  },
+  {
+    "code": "20206",
+    "districtId": "D10",
+    "name": "Kapuliyadda"
+  },
+  {
+    "code": "30354",
+    "districtId": "D06",
+    "name": "Karadiyanaru"
+  },
+  {
+    "code": "60106",
+    "districtId": "D01",
+    "name": "Karagahagedara"
+  },
+  {
+    "code": "21014",
+    "districtId": "D05",
+    "name": "Karagahahinna"
+  },
+  {
+    "code": "50232",
+    "districtId": "D18",
+    "name": "Karagahawewa"
+  },
+  {
+    "code": "80151",
+    "districtId": "D12",
+    "name": "Karagoda"
+  },
+  {
+    "code": "81082",
+    "districtId": "D07",
+    "name": "Karagoda Uyangoda"
+  },
+  {
+    "code": "40250",
+    "districtId": "D04",
+    "name": "Karainagar"
+  },
+  {
+    "code": "60602",
+    "districtId": "D01",
+    "name": "Karambe"
+  },
+  {
+    "code": "91077",
+    "districtId": "D02",
+    "name": "Karandagama"
+  },
+  {
+    "code": "20738",
+    "districtId": "D10",
+    "name": "Karandagolla"
+  },
+  {
+    "code": "70488",
+    "districtId": "D14",
+    "name": "Karandana"
+  },
+  {
+    "code": "80360",
+    "districtId": "D12",
+    "name": "Karandeniya"
+  },
+  {
+    "code": "70018",
+    "districtId": "D14",
+    "name": "Karangoda"
+  },
+  {
+    "code": "81106",
+    "districtId": "D07",
+    "name": "Karaputugala"
+  },
+  {
+    "code": "81308",
+    "districtId": "D07",
+    "name": "Karatota"
+  },
+  {
+    "code": "40520",
+    "districtId": "D04",
+    "name": "Karaveddi"
+  },
+  {
+    "code": "91079",
+    "districtId": "D02",
+    "name": "Karawila Pallegama"
+  },
+  {
+    "code": "61022",
+    "districtId": "D21",
+    "name": "Karawitagara"
+  },
+  {
+    "code": "42303",
+    "districtId": "D15",
+    "name": "Karipaddamurippu"
+  },
+  {
+    "code": "82274",
+    "districtId": "D23",
+    "name": "Kariyamaditta"
+  },
+  {
+    "code": "61314",
+    "districtId": "D21",
+    "name": "Karuwalagaswewa"
+  },
+  {
+    "code": "51032",
+    "districtId": "D13",
+    "name": "Kashyapapura"
+  },
+  {
+    "code": "11534",
+    "districtId": "D08",
+    "name": "Katana"
+  },
+  {
+    "code": "91400",
+    "districtId": "D02",
+    "name": "Kataragama"
+  },
+  {
+    "code": "30456",
+    "districtId": "D06",
+    "name": "Kathiraveli"
+  },
+  {
+    "code": "50261",
+    "districtId": "D18",
+    "name": "Katiyawa"
+  },
+  {
+    "code": "30100",
+    "districtId": "D06",
+    "name": "Kattankudi"
+  },
+  {
+    "code": "21016",
+    "districtId": "D05",
+    "name": "Katudeniya"
+  },
+  {
+    "code": "20800",
+    "districtId": "D10",
+    "name": "Katugastota"
+  },
+  {
+    "code": "22588",
+    "districtId": "D22",
+    "name": "Katukitula"
+  },
+  {
+    "code": "11450",
+    "districtId": "D08",
+    "name": "Katunayake"
+  },
+  {
+    "code": "11420",
+    "districtId": "D08",
+    "name": "Katunayake IPZ"
+  },
+  {
+    "code": "11440",
+    "districtId": "D08",
+    "name": "Katunayake Air Force Camp"
+  },
+  {
+    "code": "61180",
+    "districtId": "D21",
+    "name": "Katuneriya"
+  },
+  {
+    "code": "60350",
+    "districtId": "D01",
+    "name": "Katupota"
+  },
+  {
+    "code": "82500",
+    "districtId": "D23",
+    "name": "Katuwana"
+  },
+  {
+    "code": "11526",
+    "districtId": "D08",
+    "name": "Katuwellegama"
+  },
+  {
+    "code": "42608",
+    "districtId": "D19",
+    "name": "Kautharimunai"
+  },
+  {
+    "code": "21072",
+    "districtId": "D05",
+    "name": "Kavudupelella"
+  },
+  {
+    "code": "82622",
+    "districtId": "D23",
+    "name": "Kawantissapura"
+  },
+  {
+    "code": "51414",
+    "districtId": "D13",
+    "name": "Kawudulla"
+  },
+  {
+    "code": "51514",
+    "districtId": "D13",
+    "name": "Kawuduluwewa Stage II"
+  },
+  {
+    "code": "40270",
+    "districtId": "D04",
+    "name": "Kayts"
+  },
+  {
+    "code": "90102",
+    "districtId": "D20",
+    "name": "Kebillawela"
+  },
+  {
+    "code": "50550",
+    "districtId": "D18",
+    "name": "Kebithigollewa"
+  },
+  {
+    "code": "22274",
+    "districtId": "D22",
+    "name": "Keerthi Bandarapura"
+  },
+  {
+    "code": "71000",
+    "districtId": "D24",
+    "name": "Kegalle"
+  },
+  {
+    "code": "71533",
+    "districtId": "D24",
+    "name": "Kehelpannala"
+  },
+  {
+    "code": "12550",
+    "districtId": "D17",
+    "name": "Kehelwatta"
+  },
+  {
+    "code": "81020",
+    "districtId": "D07",
+    "name": "Kekanadura"
+  },
+  {
+    "code": "50100",
+    "districtId": "D18",
+    "name": "Kekirawa"
+  },
+  {
+    "code": "32074",
+    "districtId": "D16",
+    "name": "Kekirihena"
+  },
+  {
+    "code": "51168",
+    "districtId": "D13",
+    "name": "Kekuluwela"
+  },
+  {
+    "code": "60183",
+    "districtId": "D01",
+    "name": "Kekunagolla"
+  },
+  {
+    "code": "22684",
+    "districtId": "D22",
+    "name": "Kelanigama"
+  },
+  {
+    "code": "11600",
+    "districtId": "D08",
+    "name": "Kelaniya"
+  },
+  {
+    "code": "12218",
+    "districtId": "D17",
+    "name": "Kelinkanda"
+  },
+  {
+    "code": "70352",
+    "districtId": "D14",
+    "name": "Kella Junction"
+  },
+  {
+    "code": "90048",
+    "districtId": "D20",
+    "name": "Kendagolla"
+  },
+  {
+    "code": "91552",
+    "districtId": "D02",
+    "name": "Kendawinna"
+  },
+  {
+    "code": "50452",
+    "districtId": "D18",
+    "name": "Kendewa"
+  },
+  {
+    "code": "90350",
+    "districtId": "D20",
+    "name": "Keppetipola"
+  },
+  {
+    "code": "60288",
+    "districtId": "D01",
+    "name": "Keppitiwalana"
+  },
+  {
+    "code": "90738",
+    "districtId": "D20",
+    "name": "Keselpotha"
+  },
+  {
+    "code": "22660",
+    "districtId": "D22",
+    "name": "Ketaboola"
+  },
+  {
+    "code": "20306",
+    "districtId": "D10",
+    "name": "Ketakumbura"
+  },
+  {
+    "code": "20198",
+    "districtId": "D10",
+    "name": "Ketawala Leula"
+  },
+  {
+    "code": "90016",
+    "districtId": "D20",
+    "name": "Ketawatta"
+  },
+  {
+    "code": "42400",
+    "districtId": "D19",
+    "name": "Kilinochchi"
+  },
+  {
+    "code": "31220",
+    "districtId": "D11",
+    "name": "Kiliveddy"
+  },
+  {
+    "code": "21122",
+    "districtId": "D05",
+    "name": "Kimbissa"
+  },
+  {
+    "code": "11522",
+    "districtId": "D08",
+    "name": "Kimbulapitiya"
+  },
+  {
+    "code": "60548",
+    "districtId": "D01",
+    "name": "Kimbulwanaoya"
+  },
+  {
+    "code": "31100",
+    "districtId": "D11",
+    "name": "Kinniya"
+  },
+  {
+    "code": "50259",
+    "districtId": "D18",
+    "name": "Kiralogama"
+  },
+  {
+    "code": "82550",
+    "districtId": "D23",
+    "name": "Kirama"
+  },
+  {
+    "code": "30394",
+    "districtId": "D06",
+    "name": "Kiran"
+  },
+  {
+    "code": "30159",
+    "districtId": "D06",
+    "name": "Kirankulam"
+  },
+  {
+    "code": "90184",
+    "districtId": "D20",
+    "name": "Kirawanagama"
+  },
+  {
+    "code": "11601",
+    "districtId": "D08",
+    "name": "Kiribathgoda"
+  },
+  {
+    "code": "20442",
+    "districtId": "D10",
+    "name": "Kiribathkumbura"
+  },
+  {
+    "code": "70480",
+    "districtId": "D14",
+    "name": "Kiriella"
+  },
+  {
+    "code": "50511",
+    "districtId": "D18",
+    "name": "Kirigalwewa"
+  },
+  {
+    "code": "91252",
+    "districtId": "D02",
+    "name": "Kiriibbanwewa"
+  },
+  {
+    "code": "70102",
+    "districtId": "D14",
+    "name": "Kirimatitenna"
+  },
+  {
+    "code": "60157",
+    "districtId": "D21",
+    "name": "Kirimetiyana"
+  },
+  {
+    "code": "60184",
+    "districtId": "D01",
+    "name": "Kirimetiyawa"
+  },
+  {
+    "code": "61362",
+    "districtId": "D21",
+    "name": "Kirimundalama"
+  },
+  {
+    "code": "82614",
+    "districtId": "D23",
+    "name": "Kirinda"
+  },
+  {
+    "code": "60212",
+    "districtId": "D01",
+    "name": "Kirindawa"
+  },
+  {
+    "code": "60502",
+    "districtId": "D01",
+    "name": "Kirindigalla"
+  },
+  {
+    "code": "11730",
+    "districtId": "D08",
+    "name": "Kirindiwela"
+  },
+  {
+    "code": "10208",
+    "districtId": "D09",
+    "name": "Kiriwattuduwa"
+  },
+  {
+    "code": "81514",
+    "districtId": "D07",
+    "name": "Kiriweldola"
+  },
+  {
+    "code": "81456",
+    "districtId": "D07",
+    "name": "Kiriwelkele"
+  },
+  {
+    "code": "11206",
+    "districtId": "D08",
+    "name": "Kitalawalana"
+  },
+  {
+    "code": "60188",
+    "districtId": "D01",
+    "name": "Kithalawa"
+  },
+  {
+    "code": "71720",
+    "districtId": "D24",
+    "name": "Kitulgala"
+  },
+  {
+    "code": "12222",
+    "districtId": "D17",
+    "name": "Kitulgoda"
+  },
+  {
+    "code": "50132",
+    "districtId": "D18",
+    "name": "Kitulhitiyawa"
+  },
+  {
+    "code": "11242",
+    "districtId": "D08",
+    "name": "Kitulwala"
+  },
+  {
+    "code": "21042",
+    "districtId": "D05",
+    "name": "Kiwula"
+  },
+  {
+    "code": "60410",
+    "districtId": "D01",
+    "name": "Kobeigane"
+  },
+  {
+    "code": "20928",
+    "districtId": "D10",
+    "name": "Kobonilla"
+  },
+  {
+    "code": "11540",
+    "districtId": "D08",
+    "name": "Kochchikade"
+  },
+  {
+    "code": "30249",
+    "districtId": "D06",
+    "name": "Koddaikallar"
+  },
+  {
+    "code": "40700",
+    "districtId": "D04",
+    "name": "Kodikamam"
+  },
+  {
+    "code": "60028",
+    "districtId": "D01",
+    "name": "Kohilegedara"
+  },
+  {
+    "code": "12007",
+    "districtId": "D17",
+    "name": "Koholana"
+  },
+  {
+    "code": "90006",
+    "districtId": "D20",
+    "name": "Kohowilakandura"
+  },
+  {
+    "code": "30160",
+    "districtId": "D06",
+    "name": "Kokkaddichcholai"
+  },
+  {
+    "code": "42020",
+    "districtId": "D15",
+    "name": "Kokkilai"
+  },
+  {
+    "code": "42010",
+    "districtId": "D15",
+    "name": "Kokkuthoduvai"
+  },
+  {
+    "code": "40060",
+    "districtId": "D04",
+    "name": "Kokkuvil"
+  },
+  {
+    "code": "32035",
+    "districtId": "D16",
+    "name": "Koknahara"
+  },
+  {
+    "code": "20212",
+    "districtId": "D10",
+    "name": "Kolabissa"
+  },
+  {
+    "code": "32102",
+    "districtId": "D16",
+    "name": "Kolamanthalawa"
+  },
+  {
+    "code": "70180",
+    "districtId": "D14",
+    "name": "Kolambageara"
+  },
+  {
+    "code": "81522",
+    "districtId": "D07",
+    "name": "Kolawenigama"
+  },
+  {
+    "code": "70403",
+    "districtId": "D14",
+    "name": "Kolombugama"
+  },
+  {
+    "code": "20971",
+    "districtId": "D10",
+    "name": "Kolongoda"
+  },
+  {
+    "code": "70350",
+    "districtId": "D14",
+    "name": "Kolonna"
+  },
+  {
+    "code": "10600",
+    "districtId": "D09",
+    "name": "Kolonnawa"
+  },
+  {
+    "code": "42420",
+    "districtId": "D19",
+    "name": "Konavil"
+  },
+  {
+    "code": "40062",
+    "districtId": "D04",
+    "name": "Kondavil"
+  },
+  {
+    "code": "71501",
+    "districtId": "D24",
+    "name": "Kondeniya"
+  },
+  {
+    "code": "21500",
+    "districtId": "D05",
+    "name": "Kongahawela"
+  },
+  {
+    "code": "60630",
+    "districtId": "D01",
+    "name": "Konwewa"
+  },
+  {
+    "code": "40170",
+    "districtId": "D04",
+    "name": "Kopay"
+  },
+  {
+    "code": "11044",
+    "districtId": "D08",
+    "name": "Korase"
+  },
+  {
+    "code": "60356",
+    "districtId": "D01",
+    "name": "Kosdeniya"
+  },
+  {
+    "code": "10730",
+    "districtId": "D09",
+    "name": "Kosgama"
+  },
+  {
+    "code": "80570",
+    "districtId": "D12",
+    "name": "Kosgoda"
+  },
+  {
+    "code": "60029",
+    "districtId": "D01",
+    "name": "Kosgolla"
+  },
+  {
+    "code": "90190",
+    "districtId": "D20",
+    "name": "Koslanda"
+  },
+  {
+    "code": "61158",
+    "districtId": "D21",
+    "name": "Koswatte"
+  },
+  {
+    "code": "91559",
+    "districtId": "D02",
+    "name": "Kotabowa"
+  },
+  {
+    "code": "11232",
+    "districtId": "D08",
+    "name": "Kotadeniyawa"
+  },
+  {
+    "code": "22080",
+    "districtId": "D22",
+    "name": "Kotagala"
+  },
+  {
+    "code": "91512",
+    "districtId": "D02",
+    "name": "Kotagama"
+  },
+  {
+    "code": "01300",
+    "districtId": "D09",
+    "name": "Kotahena"
+  },
+  {
+    "code": "90506",
+    "districtId": "D20",
+    "name": "Kotamuduna"
+  },
+  {
+    "code": "81480",
+    "districtId": "D07",
+    "name": "Kotapola"
+  },
+  {
+    "code": "60483",
+    "districtId": "D01",
+    "name": "Kotawehera"
+  },
+  {
+    "code": "91312",
+    "districtId": "D02",
+    "name": "Kotawehera Mankada"
+  },
+  {
+    "code": "71106",
+    "districtId": "D24",
+    "name": "Kotawella"
+  },
+  {
+    "code": "91024",
+    "districtId": "D02",
+    "name": "Kotiyagala"
+  },
+  {
+    "code": "71370",
+    "districtId": "D24",
+    "name": "Kotiyakumbura"
+  },
+  {
+    "code": "22560",
+    "districtId": "D22",
+    "name": "Kotmale"
+  },
+  {
+    "code": "61252",
+    "districtId": "D21",
+    "name": "Kottantivu"
+  },
+  {
+    "code": "51244",
+    "districtId": "D13",
+    "name": "Kottapitiya"
+  },
+  {
+    "code": "10220",
+    "districtId": "D09",
+    "name": "Kottawa"
+  },
+  {
+    "code": "80062",
+    "districtId": "D12",
+    "name": "Kottawagama"
+  },
+  {
+    "code": "81180",
+    "districtId": "D07",
+    "name": "Kottegoda"
+  },
+  {
+    "code": "22042",
+    "districtId": "D22",
+    "name": "Kottellena"
+  },
+  {
+    "code": "61532",
+    "districtId": "D21",
+    "name": "Kottukachchiya"
+  },
+  {
+    "code": "11390",
+    "districtId": "D08",
+    "name": "Kotugoda"
+  },
+  {
+    "code": "31014",
+    "districtId": "D11",
+    "name": "Kuchchaveli"
+  },
+  {
+    "code": "12426",
+    "districtId": "D17",
+    "name": "Kuda Uduwa"
+  },
+  {
+    "code": "60003",
+    "districtId": "D01",
+    "name": "Kudagalgamuwa"
+  },
+  {
+    "code": "60754",
+    "districtId": "D01",
+    "name": "Kudakathnoruwa"
+  },
+  {
+    "code": "40620",
+    "districtId": "D04",
+    "name": "Kudathanai"
+  },
+  {
+    "code": "70005",
+    "districtId": "D14",
+    "name": "Kudawa"
+  },
+  {
+    "code": "61226",
+    "districtId": "D21",
+    "name": "Kudawewa"
+  },
+  {
+    "code": "91103",
+    "districtId": "D02",
+    "name": "Kukurampola"
+  },
+  {
+    "code": "80328",
+    "districtId": "D12",
+    "name": "Kuleegoda"
+  },
+  {
+    "code": "60200",
+    "districtId": "D01",
+    "name": "Kuliyapitiya"
+  },
+  {
+    "code": "20048",
+    "districtId": "D10",
+    "name": "Kulugammana"
+  },
+  {
+    "code": "51412",
+    "districtId": "D13",
+    "name": "Kumaragama"
+  },
+  {
+    "code": "61032",
+    "districtId": "D21",
+    "name": "Kumarakattuwa"
+  },
+  {
+    "code": "22272",
+    "districtId": "D22",
+    "name": "Kumbalgamuwa"
+  },
+  {
+    "code": "11105",
+    "districtId": "D08",
+    "name": "Kumbaloluwa"
+  },
+  {
+    "code": "22121",
+    "districtId": "D22",
+    "name": "Kumbaloluwegama"
+  },
+  {
+    "code": "60508",
+    "districtId": "D01",
+    "name": "Kumbukgeta"
+  },
+  {
+    "code": "61318",
+    "districtId": "D21",
+    "name": "Kumbukkalla"
+  },
+  {
+    "code": "91098",
+    "districtId": "D02",
+    "name": "Kumbukkana"
+  },
+  {
+    "code": "20902",
+    "districtId": "D10",
+    "name": "Kumbukkandura"
+  },
+  {
+    "code": "22246",
+    "districtId": "D22",
+    "name": "Kumbukwela"
+  },
+  {
+    "code": "60506",
+    "districtId": "D01",
+    "name": "Kumbukwewa"
+  },
+  {
+    "code": "20086",
+    "districtId": "D10",
+    "name": "Kumburegama"
+  },
+  {
+    "code": "31012",
+    "districtId": "D11",
+    "name": "Kumburupiddy"
+  },
+  {
+    "code": "20168",
+    "districtId": "D10",
+    "name": "Kundasale"
+  },
+  {
+    "code": "60438",
+    "districtId": "D01",
+    "name": "Kuratihena"
+  },
+  {
+    "code": "31112",
+    "districtId": "D11",
+    "name": "Kurinchakerny"
+  },
+  {
+    "code": "61356",
+    "districtId": "D21",
+    "name": "Kurinjanpitiya"
+  },
+  {
+    "code": "61516",
+    "districtId": "D21",
+    "name": "Kuruketiyawa"
+  },
+  {
+    "code": "30192",
+    "districtId": "D06",
+    "name": "Kurukkalmadam"
+  },
+  {
+    "code": "50062",
+    "districtId": "D18",
+    "name": "Kurundankulama"
+  },
+  {
+    "code": "80395",
+    "districtId": "D12",
+    "name": "Kurundugaha Hethekma"
+  },
+  {
+    "code": "20514",
+    "districtId": "D10",
+    "name": "Kurunduwatta Bazaar"
+  },
+  {
+    "code": "60000",
+    "districtId": "D01",
+    "name": "Kurunegala"
+  },
+  {
+    "code": "22252",
+    "districtId": "D22",
+    "name": "Kurupanawela"
+  },
+  {
+    "code": "70500",
+    "districtId": "D14",
+    "name": "Kuruwita"
+  },
+  {
+    "code": "90728",
+    "districtId": "D20",
+    "name": "Kuruwitenna"
+  },
+  {
+    "code": "90046",
+    "districtId": "D20",
+    "name": "Kuttiyagolla"
+  },
+  {
+    "code": "60162",
+    "districtId": "D01",
+    "name": "Labbala"
+  },
+  {
+    "code": "22592",
+    "districtId": "D22",
+    "name": "Labukele"
+  },
+  {
+    "code": "50088",
+    "districtId": "D18",
+    "name": "Labunoruwa"
+  },
+  {
+    "code": "21520",
+    "districtId": "D05",
+    "name": "Laggala Pallegama"
+  },
+  {
+    "code": "22034",
+    "districtId": "D22",
+    "name": "Lakshapana"
+  },
+  {
+    "code": "51006",
+    "districtId": "D13",
+    "name": "Lakshauyana"
+  },
+  {
+    "code": "90068",
+    "districtId": "D20",
+    "name": "Landewela"
+  },
+  {
+    "code": "81526",
+    "districtId": "D07",
+    "name": "Lankagama"
+  },
+  {
+    "code": "31234",
+    "districtId": "D11",
+    "name": "Lankapatuna"
+  },
+  {
+    "code": "20482",
+    "districtId": "D10",
+    "name": "Leemagahakotuwa"
+  },
+  {
+    "code": "21008",
+    "districtId": "D05",
+    "name": "Leliambe"
+  },
+  {
+    "code": "70056",
+    "districtId": "D14",
+    "name": "Lellopitiya"
+  },
+  {
+    "code": "21094",
+    "districtId": "D05",
+    "name": "Lenadora"
+  },
+  {
+    "code": "71315",
+    "districtId": "D24",
+    "name": "Lewangama"
+  },
+  {
+    "code": "61138",
+    "districtId": "D21",
+    "name": "Lihiriyagama"
+  },
+  {
+    "code": "22090",
+    "districtId": "D22",
+    "name": "Lindula"
+  },
+  {
+    "code": "90106",
+    "districtId": "D20",
+    "name": "Liyanagahawela"
+  },
+  {
+    "code": "60108",
+    "districtId": "D01",
+    "name": "Lokahettiya"
+  },
+  {
+    "code": "11204",
+    "districtId": "D08",
+    "name": "Loluwagoda"
+  },
+  {
+    "code": "82108",
+    "districtId": "D23",
+    "name": "Lunama"
+  },
+  {
+    "code": "90530",
+    "districtId": "D20",
+    "name": "Lunugala"
+  },
+  {
+    "code": "11062",
+    "districtId": "D08",
+    "name": "Lunugama"
+  },
+  {
+    "code": "82634",
+    "districtId": "D23",
+    "name": "Lunugamwehera"
+  },
+  {
+    "code": "20172",
+    "districtId": "D10",
+    "name": "Lunuketiya Maditta"
+  },
+  {
+    "code": "90310",
+    "districtId": "D20",
+    "name": "Lunuwatte"
+  },
+  {
+    "code": "61150",
+    "districtId": "D21",
+    "name": "Lunuwila"
+  },
+  {
+    "code": "11114",
+    "districtId": "D08",
+    "name": "Mabodale"
+  },
+  {
+    "code": "11305",
+    "districtId": "D08",
+    "name": "Mabola"
+  },
+  {
+    "code": "60552",
+    "districtId": "D01",
+    "name": "Madahapola"
+  },
+  {
+    "code": "60209",
+    "districtId": "D01",
+    "name": "Madakumburumulla"
+  },
+  {
+    "code": "70158",
+    "districtId": "D14",
+    "name": "Madalagama"
+  },
+  {
+    "code": "61230",
+    "districtId": "D21",
+    "name": "Madampe"
+  },
+  {
+    "code": "10306",
+    "districtId": "D09",
+    "name": "Madapatha"
+  },
+  {
+    "code": "50130",
+    "districtId": "D18",
+    "name": "Madatugama"
+  },
+  {
+    "code": "20260",
+    "districtId": "D10",
+    "name": "Madawala Bazaar"
+  },
+  {
+    "code": "21074",
+    "districtId": "D05",
+    "name": "Madawala Ulpotha"
+  },
+  {
+    "code": "32016",
+    "districtId": "D16",
+    "name": "Madawalalanda"
+  },
+  {
+    "code": "11033",
+    "districtId": "D08",
+    "name": "Madelgamuwa"
+  },
+  {
+    "code": "21156",
+    "districtId": "D05",
+    "name": "Madipola"
+  },
+  {
+    "code": "90535",
+    "districtId": "D20",
+    "name": "Madolsima"
+  },
+  {
+    "code": "41010",
+    "districtId": "D03",
+    "name": "Madu Church"
+  },
+  {
+    "code": "41020",
+    "districtId": "D03",
+    "name": "Madu Road"
+  },
+  {
+    "code": "20938",
+    "districtId": "D10",
+    "name": "Madugalla"
+  },
+  {
+    "code": "90517",
+    "districtId": "D20",
+    "name": "Madugastalawa"
+  },
+  {
+    "code": "91071",
+    "districtId": "D02",
+    "name": "Madukotanarawa"
+  },
+  {
+    "code": "20840",
+    "districtId": "D10",
+    "name": "Madulkele"
+  },
+  {
+    "code": "22256",
+    "districtId": "D22",
+    "name": "Madulla"
+  },
+  {
+    "code": "60532",
+    "districtId": "D01",
+    "name": "Maduragoda"
+  },
+  {
+    "code": "61270",
+    "districtId": "D21",
+    "name": "Madurankuliya"
+  },
+  {
+    "code": "51108",
+    "districtId": "D13",
+    "name": "Maduruoya"
+  },
+  {
+    "code": "60512",
+    "districtId": "D01",
+    "name": "Maeliya"
+  },
+  {
+    "code": "82608",
+    "districtId": "D23",
+    "name": "Magama"
+  },
+  {
+    "code": "80152",
+    "districtId": "D12",
+    "name": "Magedara"
+  },
+  {
+    "code": "12060",
+    "districtId": "D17",
+    "name": "Maggona"
+  },
+  {
+    "code": "60221",
+    "districtId": "D01",
+    "name": "Magulagama"
+  },
+  {
+    "code": "20237",
+    "districtId": "D10",
+    "name": "Maha Alapalawala"
+  },
+  {
+    "code": "51518",
+    "districtId": "D13",
+    "name": "Maha Ambagaswewa"
+  },
+  {
+    "code": "50126",
+    "districtId": "D18",
+    "name": "Maha Elagamuwa"
+  },
+  {
+    "code": "71722",
+    "districtId": "D24",
+    "name": "Mahabage"
+  },
+  {
+    "code": "50196",
+    "districtId": "D18",
+    "name": "Mahabulankulama"
+  },
+  {
+    "code": "31036",
+    "districtId": "D11",
+    "name": "Mahadivulwewa"
+  },
+  {
+    "code": "20945",
+    "districtId": "D10",
+    "name": "Mahadoraliyadda"
+  },
+  {
+    "code": "60731",
+    "districtId": "D01",
+    "name": "Mahagalkadawala"
+  },
+  {
+    "code": "82016",
+    "districtId": "D23",
+    "name": "Mahagalwewa"
+  },
+  {
+    "code": "12210",
+    "districtId": "D17",
+    "name": "Mahagama"
+  },
+  {
+    "code": "91256",
+    "districtId": "D02",
+    "name": "Mahagama Colony"
+  },
+  {
+    "code": "60479",
+    "districtId": "D01",
+    "name": "Mahagirilla"
+  },
+  {
+    "code": "50270",
+    "districtId": "D18",
+    "name": "Mahailluppallama"
+  },
+  {
+    "code": "43080",
+    "districtId": "D25",
+    "name": "Mahakachchakodiya"
+  },
+  {
+    "code": "91027",
+    "districtId": "D02",
+    "name": "Mahakalugolla"
+  },
+  {
+    "code": "12126",
+    "districtId": "D17",
+    "name": "Mahakalupahana"
+  },
+  {
+    "code": "50306",
+    "districtId": "D18",
+    "name": "Mahakanadarawa"
+  },
+  {
+    "code": "60346",
+    "districtId": "D01",
+    "name": "Mahakeliya"
+  },
+  {
+    "code": "61272",
+    "districtId": "D21",
+    "name": "Mahakumbukkadawala"
+  },
+  {
+    "code": "20216",
+    "districtId": "D10",
+    "name": "Mahamedagama"
+  },
+  {
+    "code": "60516",
+    "districtId": "D01",
+    "name": "Mahamukalanyaya"
+  },
+  {
+    "code": "20547",
+    "districtId": "D10",
+    "name": "Mahamulgama"
+  },
+  {
+    "code": "32018",
+    "districtId": "D16",
+    "name": "Mahanagapura"
+  },
+  {
+    "code": "60724",
+    "districtId": "D01",
+    "name": "Mahananneriya"
+  },
+  {
+    "code": "32070",
+    "districtId": "D16",
+    "name": "Mahaoya"
+  },
+  {
+    "code": "71063",
+    "districtId": "D24",
+    "name": "Mahapallegama"
+  },
+  {
+    "code": "70334",
+    "districtId": "D14",
+    "name": "Mahapannila"
+  },
+  {
+    "code": "50327",
+    "districtId": "D18",
+    "name": "Mahapothana"
+  },
+  {
+    "code": "11851",
+    "districtId": "D08",
+    "name": "Mahara"
+  },
+  {
+    "code": "60286",
+    "districtId": "D01",
+    "name": "Maharachchimulla"
+  },
+  {
+    "code": "10280",
+    "districtId": "D09",
+    "name": "Maharagama"
+  },
+  {
+    "code": "71211",
+    "districtId": "D24",
+    "name": "Maharangalla"
+  },
+  {
+    "code": "31106",
+    "districtId": "D11",
+    "name": "Maharugiramam"
+  },
+  {
+    "code": "50574",
+    "districtId": "D18",
+    "name": "Mahasenpura"
+  },
+  {
+    "code": "51506",
+    "districtId": "D13",
+    "name": "Mahatalakolawewa"
+  },
+  {
+    "code": "20551",
+    "districtId": "D10",
+    "name": "Mahaudagama"
+  },
+  {
+    "code": "61512",
+    "districtId": "D21",
+    "name": "Mahauswewa"
+  },
+  {
+    "code": "70112",
+    "districtId": "D14",
+    "name": "Mahawalatenna"
+  },
+  {
+    "code": "51076",
+    "districtId": "D13",
+    "name": "Mahaweli Sinhapura"
+  },
+  {
+    "code": "61220",
+    "districtId": "D21",
+    "name": "Mahawewa"
+  },
+  {
+    "code": "50022",
+    "districtId": "D18",
+    "name": "Mahawilachchiya"
+  },
+  {
+    "code": "90700",
+    "districtId": "D20",
+    "name": "Mahiyanganaya"
+  },
+  {
+    "code": "60600",
+    "districtId": "D01",
+    "name": "Maho"
+  },
+  {
+    "code": "50384",
+    "districtId": "D18",
+    "name": "Mailagaswewa"
+  },
+  {
+    "code": "20702",
+    "districtId": "D10",
+    "name": "Mailapitiya"
+  },
+  {
+    "code": "80243",
+    "districtId": "D12",
+    "name": "Majuwana Keradewala"
+  },
+  {
+    "code": "10305",
+    "districtId": "D09",
+    "name": "Makandana"
+  },
+  {
+    "code": "81070",
+    "districtId": "D07",
+    "name": "Makandura"
+  },
+  {
+    "code": "71507",
+    "districtId": "D24",
+    "name": "Makehelwala"
+  },
+  {
+    "code": "11358",
+    "districtId": "D08",
+    "name": "Makewita"
+  },
+  {
+    "code": "20828",
+    "districtId": "D10",
+    "name": "Makkanigama"
+  },
+  {
+    "code": "11640",
+    "districtId": "D08",
+    "name": "Makola"
+  },
+  {
+    "code": "20921",
+    "districtId": "D10",
+    "name": "Makuldeniya"
+  },
+  {
+    "code": "90114",
+    "districtId": "D20",
+    "name": "Makulella"
+  },
+  {
+    "code": "60714",
+    "districtId": "D01",
+    "name": "Makulewa"
+  },
+  {
+    "code": "60514",
+    "districtId": "D01",
+    "name": "Makulpotha"
+  },
+  {
+    "code": "60578",
+    "districtId": "D01",
+    "name": "Makulwewa"
+  },
+  {
+    "code": "60404",
+    "districtId": "D01",
+    "name": "Malagane"
+  },
+  {
+    "code": "71704",
+    "districtId": "D24",
+    "name": "Malalpola"
+  },
+  {
+    "code": "10115",
+    "districtId": "D09",
+    "name": "Malambe"
+  },
+  {
+    "code": "22021",
+    "districtId": "D22",
+    "name": "Maldeniya"
+  },
+  {
+    "code": "80144",
+    "districtId": "D12",
+    "name": "Malgalla Talangalla"
+  },
+  {
+    "code": "90754",
+    "districtId": "D20",
+    "name": "Malgoda"
+  },
+  {
+    "code": "71411",
+    "districtId": "D24",
+    "name": "Maliboda"
+  },
+  {
+    "code": "81424",
+    "districtId": "D07",
+    "name": "Maliduwa"
+  },
+  {
+    "code": "90138",
+    "districtId": "D20",
+    "name": "Malitta"
+  },
+  {
+    "code": "90022",
+    "districtId": "D20",
+    "name": "Maliyadda"
+  },
+  {
+    "code": "40142",
+    "districtId": "D04",
+    "name": "Mallakam"
+  },
+  {
+    "code": "31224",
+    "districtId": "D11",
+    "name": "Mallikativu"
+  },
+  {
+    "code": "71325",
+    "districtId": "D24",
+    "name": "Malmaduwa"
+  },
+  {
+    "code": "70001",
+    "districtId": "D14",
+    "name": "Malwala Junction"
+  },
+  {
+    "code": "11670",
+    "districtId": "D08",
+    "name": "Malwana"
+  },
+  {
+    "code": "50236",
+    "districtId": "D18",
+    "name": "Malwanegama"
+  },
+  {
+    "code": "82109",
+    "districtId": "D23",
+    "name": "Mamadala"
+  },
+  {
+    "code": "43078",
+    "districtId": "D25",
+    "name": "Mamaduwa"
+  },
+  {
+    "code": "61341",
+    "districtId": "D21",
+    "name": "Mampuri"
+  },
+  {
+    "code": "51090",
+    "districtId": "D13",
+    "name": "Manampitiya"
+  },
+  {
+    "code": "21144",
+    "districtId": "D05",
+    "name": "Mananwatta"
+  },
+  {
+    "code": "60434",
+    "districtId": "D01",
+    "name": "Mandapola"
+  },
+  {
+    "code": "22744",
+    "districtId": "D22",
+    "name": "Mandaram Nuwara"
+  },
+  {
+    "code": "40045",
+    "districtId": "D04",
+    "name": "Mandativu"
+  },
+  {
+    "code": "11061",
+    "districtId": "D08",
+    "name": "Mandawala"
+  },
+  {
+    "code": "30220",
+    "districtId": "D06",
+    "name": "Mandur"
+  },
+  {
+    "code": "50182",
+    "districtId": "D18",
+    "name": "Maneruwa"
+  },
+  {
+    "code": "61266",
+    "districtId": "D21",
+    "name": "Mangalaeliya"
+  },
+  {
+    "code": "32069",
+    "districtId": "D16",
+    "name": "Mangalagama"
+  },
+  {
+    "code": "40200",
+    "districtId": "D04",
+    "name": "Manipay"
+  },
+  {
+    "code": "10707",
+    "districtId": "D09",
+    "name": "Maniyangama"
+  },
+  {
+    "code": "30442",
+    "districtId": "D06",
+    "name": "Mankerni"
+  },
+  {
+    "code": "42300",
+    "districtId": "D15",
+    "name": "Mankulam"
+  },
+  {
+    "code": "41000",
+    "districtId": "D03",
+    "name": "Mannar"
+  },
+  {
+    "code": "21506",
+    "districtId": "D05",
+    "name": "Maoya"
+  },
+  {
+    "code": "90730",
+    "districtId": "D20",
+    "name": "Mapakadawewa"
+  },
+  {
+    "code": "20662",
+    "districtId": "D10",
+    "name": "Mapakanda"
+  },
+  {
+    "code": "80114",
+    "districtId": "D12",
+    "name": "Mapalagama"
+  },
+  {
+    "code": "80116",
+    "districtId": "D12",
+    "name": "Mapalagama Central"
+  },
+  {
+    "code": "50080",
+    "districtId": "D18",
+    "name": "Maradankadawala"
+  },
+  {
+    "code": "50308",
+    "districtId": "D18",
+    "name": "Maradankalla"
+  },
+  {
+    "code": "43055",
+    "districtId": "D25",
+    "name": "Maraiyadithakulam"
+  },
+  {
+    "code": "21554",
+    "districtId": "D05",
+    "name": "Maraka"
+  },
+  {
+    "code": "81416",
+    "districtId": "D07",
+    "name": "Maramba"
+  },
+  {
+    "code": "11260",
+    "districtId": "D08",
+    "name": "Marandagahamula"
+  },
+  {
+    "code": "70041",
+    "districtId": "D14",
+    "name": "Marapana"
+  },
+  {
+    "code": "20210",
+    "districtId": "D10",
+    "name": "Marassana"
+  },
+  {
+    "code": "20113",
+    "districtId": "D10",
+    "name": "Marathugoda"
+  },
+  {
+    "code": "91006",
+    "districtId": "D02",
+    "name": "Marawa"
+  },
+  {
+    "code": "61210",
+    "districtId": "D21",
+    "name": "Marawila"
+  },
+  {
+    "code": "91052",
+    "districtId": "D02",
+    "name": "Mariarawa"
+  },
+  {
+    "code": "41055",
+    "districtId": "D03",
+    "name": "Marichchikaddi"
+  },
+  {
+    "code": "20714",
+    "districtId": "D10",
+    "name": "Marymount Colony"
+  },
+  {
+    "code": "22070",
+    "districtId": "D22",
+    "name": "Maskeliya"
+  },
+  {
+    "code": "90328",
+    "districtId": "D20",
+    "name": "Maspanna"
+  },
+  {
+    "code": "60344",
+    "districtId": "D01",
+    "name": "Maspotha"
+  },
+  {
+    "code": "22566",
+    "districtId": "D22",
+    "name": "Maswela"
+  },
+  {
+    "code": "21000",
+    "districtId": "D05",
+    "name": "Matale"
+  },
+  {
+    "code": "81000",
+    "districtId": "D07",
+    "name": "Matara"
+  },
+  {
+    "code": "40110",
+    "districtId": "D04",
+    "name": "Mathagal"
+  },
+  {
+    "code": "80424",
+    "districtId": "D12",
+    "name": "Mattaka"
+  },
+  {
+    "code": "10240",
+    "districtId": "D09",
+    "name": "Mattegoda"
+  },
+  {
+    "code": "12100",
+    "districtId": "D17",
+    "name": "Matugama"
+  },
+  {
+    "code": "22748",
+    "districtId": "D22",
+    "name": "Maturata"
+  },
+  {
+    "code": "70482",
+    "districtId": "D14",
+    "name": "Matuwagalagama"
+  },
+  {
+    "code": "90582",
+    "districtId": "D20",
+    "name": "Maussagolla"
+  },
+  {
+    "code": "31238",
+    "districtId": "D11",
+    "name": "Mawadichchenai"
+  },
+  {
+    "code": "32158",
+    "districtId": "D16",
+    "name": "Mawanagama"
+  },
+  {
+    "code": "32163",
+    "districtId": "D16",
+    "name": "Mawanawela"
+  },
+  {
+    "code": "71500",
+    "districtId": "D24",
+    "name": "Mawanella"
+  },
+  {
+    "code": "60060",
+    "districtId": "D01",
+    "name": "Mawathagama"
+  },
+  {
+    "code": "20564",
+    "districtId": "D10",
+    "name": "Mawatura"
+  },
+  {
+    "code": "80092",
+    "districtId": "D12",
+    "name": "Meda Keembiya"
+  },
+  {
+    "code": "70021",
+    "districtId": "D14",
+    "name": "Medagalatura"
+  },
+  {
+    "code": "91550",
+    "districtId": "D02",
+    "name": "Medagama"
+  },
+  {
+    "code": "20940",
+    "districtId": "D10",
+    "name": "Medamahanuwara"
+  },
+  {
+    "code": "82254",
+    "districtId": "D23",
+    "name": "Medamulana"
+  },
+  {
+    "code": "50500",
+    "districtId": "D18",
+    "name": "Medawachchiya"
+  },
+  {
+    "code": "61509",
+    "districtId": "D21",
+    "name": "Medawakkulama"
+  },
+  {
+    "code": "20120",
+    "districtId": "D10",
+    "name": "Medawala Harispattuwa"
+  },
+  {
+    "code": "90218",
+    "districtId": "D20",
+    "name": "Medawela Udukinda"
+  },
+  {
+    "code": "90518",
+    "districtId": "D20",
+    "name": "Medawelagama"
+  },
+  {
+    "code": "70127",
+    "districtId": "D14",
+    "name": "Meddekanda"
+  },
+  {
+    "code": "81524",
+    "districtId": "D07",
+    "name": "Mederipitiya"
+  },
+  {
+    "code": "51500",
+    "districtId": "D13",
+    "name": "Medirigiriya"
+  },
+  {
+    "code": "60612",
+    "districtId": "D01",
+    "name": "Mediyawa"
+  },
+  {
+    "code": "90015",
+    "districtId": "D20",
+    "name": "Meegahakivula"
+  },
+  {
+    "code": "12130",
+    "districtId": "D17",
+    "name": "Meegahatenna"
+  },
+  {
+    "code": "60750",
+    "districtId": "D01",
+    "name": "Meegalewa"
+  },
+  {
+    "code": "12094",
+    "districtId": "D17",
+    "name": "Meegama"
+  },
+  {
+    "code": "51508",
+    "districtId": "D13",
+    "name": "Meegaswewa"
+  },
+  {
+    "code": "10504",
+    "districtId": "D09",
+    "name": "Meegoda"
+  },
+  {
+    "code": "50329",
+    "districtId": "D18",
+    "name": "Meeminnawala"
+  },
+  {
+    "code": "40510",
+    "districtId": "D04",
+    "name": "Meesalai"
+  },
+  {
+    "code": "60066",
+    "districtId": "D01",
+    "name": "Meetanwala"
+  },
+  {
+    "code": "20512",
+    "districtId": "D10",
+    "name": "Meethalawa"
+  },
+  {
+    "code": "80330",
+    "districtId": "D12",
+    "name": "Meetiyagoda"
+  },
+  {
+    "code": "60484",
+    "districtId": "D01",
+    "name": "Meewellawa"
+  },
+  {
+    "code": "20409",
+    "districtId": "D10",
+    "name": "Megoda Kalugamuwa"
+  },
+  {
+    "code": "50334",
+    "districtId": "D18",
+    "name": "Megodawewa"
+  },
+  {
+    "code": "11234",
+    "districtId": "D08",
+    "name": "Mellawagedara"
+  },
+  {
+    "code": "21055",
+    "districtId": "D05",
+    "name": "Melpitiya"
+  },
+  {
+    "code": "60540",
+    "districtId": "D01",
+    "name": "Melsiripura"
+  },
+  {
+    "code": "20470",
+    "districtId": "D10",
+    "name": "Menikdiwela"
+  },
+  {
+    "code": "20170",
+    "districtId": "D10",
+    "name": "Menikhinna"
+  },
+  {
+    "code": "90540",
+    "districtId": "D20",
+    "name": "Metigahatenna"
+  },
+  {
+    "code": "21062",
+    "districtId": "D05",
+    "name": "Metihakka"
+  },
+  {
+    "code": "60304",
+    "districtId": "D01",
+    "name": "Metikumbura"
+  },
+  {
+    "code": "60121",
+    "districtId": "D01",
+    "name": "Metiyagane"
+  },
+  {
+    "code": "82270",
+    "districtId": "D23",
+    "name": "Middeniya"
+  },
+  {
+    "code": "81312",
+    "districtId": "D07",
+    "name": "Miella"
+  },
+  {
+    "code": "82014",
+    "districtId": "D23",
+    "name": "Migahajandura"
+  },
+  {
+    "code": "50300",
+    "districtId": "D18",
+    "name": "Mihintale"
+  },
+  {
+    "code": "12412",
+    "districtId": "D17",
+    "name": "Millaniya"
+  },
+  {
+    "code": "21154",
+    "districtId": "D05",
+    "name": "Millawana"
+  },
+  {
+    "code": "12422",
+    "districtId": "D17",
+    "name": "Millewa"
+  },
+  {
+    "code": "20923",
+    "districtId": "D10",
+    "name": "Mimure"
+  },
+  {
+    "code": "60004",
+    "districtId": "D01",
+    "name": "Minhettiya"
+  },
+  {
+    "code": "20109",
+    "districtId": "D10",
+    "name": "Minigamuwa"
+  },
+  {
+    "code": "20983",
+    "districtId": "D10",
+    "name": "Minipe"
+  },
+  {
+    "code": "70494",
+    "districtId": "D14",
+    "name": "Minipura Dumbara"
+  },
+  {
+    "code": "51410",
+    "districtId": "D13",
+    "name": "Minneriya"
+  },
+  {
+    "code": "60406",
+    "districtId": "D01",
+    "name": "Minuwangete"
+  },
+  {
+    "code": "11550",
+    "districtId": "D08",
+    "name": "Minuwangoda"
+  },
+  {
+    "code": "22254",
+    "districtId": "D22",
+    "name": "Mipanawa"
+  },
+  {
+    "code": "22214",
+    "districtId": "D22",
+    "name": "Mipilimana"
+  },
+  {
+    "code": "90134",
+    "districtId": "D20",
+    "name": "Mirahawatta"
+  },
+  {
+    "code": "30426",
+    "districtId": "D06",
+    "name": "Miravodai"
+  },
+  {
+    "code": "11200",
+    "districtId": "D08",
+    "name": "Mirigama"
+  },
+  {
+    "code": "60408",
+    "districtId": "D01",
+    "name": "Mirihanegama"
+  },
+  {
+    "code": "82001",
+    "districtId": "D23",
+    "name": "Mirijjawila"
+  },
+  {
+    "code": "81740",
+    "districtId": "D07",
+    "name": "Mirissa"
+  },
+  {
+    "code": "60046",
+    "districtId": "D01",
+    "name": "Mirissala"
+  },
+  {
+    "code": "80508",
+    "districtId": "D12",
+    "name": "Miriswatte"
+  },
+  {
+    "code": "90504",
+    "districtId": "D20",
+    "name": "Miriyabedda"
+  },
+  {
+    "code": "40750",
+    "districtId": "D04",
+    "name": "Mirusuvil"
+  },
+  {
+    "code": "11742",
+    "districtId": "D08",
+    "name": "Mithirigala"
+  },
+  {
+    "code": "70604",
+    "districtId": "D14",
+    "name": "Mitipola"
+  },
+  {
+    "code": "12424",
+    "districtId": "D17",
+    "name": "Miwanapalana"
+  },
+  {
+    "code": "90584",
+    "districtId": "D20",
+    "name": "Miyanakandura"
+  },
+  {
+    "code": "71432",
+    "districtId": "D24",
+    "name": "Miyanawita"
+  },
+  {
+    "code": "82416",
+    "districtId": "D23",
+    "name": "Modarawana"
+  },
+  {
+    "code": "71016",
+    "districtId": "D24",
+    "name": "Molagoda"
+  },
+  {
+    "code": "12216",
+    "districtId": "D17",
+    "name": "Molkawa"
+  },
+  {
+    "code": "91000",
+    "districtId": "D02",
+    "name": "Monaragala"
+  },
+  {
+    "code": "60495",
+    "districtId": "D01",
+    "name": "Monnekulama"
+  },
+  {
+    "code": "32012",
+    "districtId": "D16",
+    "name": "Moragahapallama"
+  },
+  {
+    "code": "81532",
+    "districtId": "D07",
+    "name": "Moragala Kirilipone"
+  },
+  {
+    "code": "60354",
+    "districtId": "D01",
+    "name": "Moragane"
+  },
+  {
+    "code": "60640",
+    "districtId": "D01",
+    "name": "Moragollagama"
+  },
+  {
+    "code": "70129",
+    "districtId": "D14",
+    "name": "Morahela"
+  },
+  {
+    "code": "22036",
+    "districtId": "D22",
+    "name": "Morahenagama"
+  },
+  {
+    "code": "50349",
+    "districtId": "D18",
+    "name": "Morakewa"
+  },
+  {
+    "code": "30392",
+    "districtId": "D06",
+    "name": "Morakottanchenai"
+  },
+  {
+    "code": "12232",
+    "districtId": "D17",
+    "name": "Morapitiya"
+  },
+  {
+    "code": "60038",
+    "districtId": "D01",
+    "name": "Morathiha"
+  },
+  {
+    "code": "10400",
+    "districtId": "D09",
+    "name": "Moratuwa"
+  },
+  {
+    "code": "81470",
+    "districtId": "D07",
+    "name": "Morawaka"
+  },
+  {
+    "code": "91108",
+    "districtId": "D02",
+    "name": "Moratuwegama"
+  },
+  {
+    "code": "71220",
+    "districtId": "D24",
+    "name": "Morontota"
+  },
+  {
+    "code": "12564",
+    "districtId": "D17",
+    "name": "Morontuduwa"
+  },
+  {
+    "code": "10370",
+    "districtId": "D09",
+    "name": "Mount .Lavinia"
+  },
+  {
+    "code": "61506",
+    "districtId": "D21",
+    "name": "Mudalakkuliya"
+  },
+  {
+    "code": "11112",
+    "districtId": "D08",
+    "name": "Muddaragama"
+  },
+  {
+    "code": "11056",
+    "districtId": "D08",
+    "name": "Mudungoda"
+  },
+  {
+    "code": "61014",
+    "districtId": "D21",
+    "name": "Mugunuwatawana"
+  },
+  {
+    "code": "50324",
+    "districtId": "D18",
+    "name": "M?ukiriyawa"
+  },
+  {
+    "code": "61274",
+    "districtId": "D21",
+    "name": "Mukkutoduwawa"
+  },
+  {
+    "code": "81071",
+    "districtId": "D07",
+    "name": "Mulatiyana Junction"
+  },
+  {
+    "code": "70212",
+    "districtId": "D14",
+    "name": "Mulendiyawala"
+  },
+  {
+    "code": "70117",
+    "districtId": "D14",
+    "name": "Mulgama"
+  },
+  {
+    "code": "82242",
+    "districtId": "D23",
+    "name": "Mulkirigala"
+  },
+  {
+    "code": "42000",
+    "districtId": "D15",
+    "name": "Mullaitivu"
+  },
+  {
+    "code": "10202",
+    "districtId": "D09",
+    "name": "Mullegama"
+  },
+  {
+    "code": "10620",
+    "districtId": "D09",
+    "name": "Mulleriyawa New Town"
+  },
+  {
+    "code": "31312",
+    "districtId": "D11",
+    "name": "Mullipothana"
+  },
+  {
+    "code": "42025",
+    "districtId": "D15",
+    "name": "Mullivaikkal"
+  },
+  {
+    "code": "42570",
+    "districtId": "D19",
+    "name": "Mulliyan"
+  },
+  {
+    "code": "42100",
+    "districtId": "D15",
+    "name": "Mulliyawalai"
+  },
+  {
+    "code": "60218",
+    "districtId": "D01",
+    "name": "Munamaldeniya"
+  },
+  {
+    "code": "61250",
+    "districtId": "D21",
+    "name": "Mundel"
+  },
+  {
+    "code": "22752",
+    "districtId": "D22",
+    "name": "Munwatta"
+  },
+  {
+    "code": "42505",
+    "districtId": "D19",
+    "name": "Murasumoddai"
+  },
+  {
+    "code": "50344",
+    "districtId": "D18",
+    "name": "Muriyakadawala"
+  },
+  {
+    "code": "41030",
+    "districtId": "D03",
+    "name": "Murunkan"
+  },
+  {
+    "code": "20526",
+    "districtId": "D10",
+    "name": "Muruthagahamula"
+  },
+  {
+    "code": "20232",
+    "districtId": "D10",
+    "name": "Muruthalawa"
+  },
+  {
+    "code": "60122",
+    "districtId": "D01",
+    "name": "Muruthenge"
+  },
+  {
+    "code": "42210",
+    "districtId": "D15",
+    "name": "Muthayankaddakulam"
+  },
+  {
+    "code": "61195",
+    "districtId": "D21",
+    "name": "Muttibendivila"
+  },
+  {
+    "code": "51064",
+    "districtId": "D13",
+    "name": "Mutugala"
+  },
+  {
+    "code": "31200",
+    "districtId": "D11",
+    "name": "Mutur"
+  },
+  {
+    "code": "21044",
+    "districtId": "D05",
+    "name": "Muwandeniya"
+  },
+  {
+    "code": "60482",
+    "districtId": "D01",
+    "name": "Nabadewa"
+  },
+  {
+    "code": "50046",
+    "districtId": "D18",
+    "name": "Nachchaduwa"
+  },
+  {
+    "code": "42308",
+    "districtId": "D15",
+    "name": "Naddankandal"
+  },
+  {
+    "code": "81092",
+    "districtId": "D07",
+    "name": "Nadugala"
+  },
+  {
+    "code": "40630",
+    "districtId": "D04",
+    "name": "Nagarkovil"
+  },
+  {
+    "code": "80110",
+    "districtId": "D12",
+    "name": "Nagoda"
+  },
+  {
+    "code": "60590",
+    "districtId": "D01",
+    "name": "Nagollagama"
+  },
+  {
+    "code": "60226",
+    "districtId": "D01",
+    "name": "Nagollagoda"
+  },
+  {
+    "code": "61120",
+    "districtId": "D21",
+    "name": "Nainamadama"
+  },
+  {
+    "code": "40360",
+    "districtId": "D04",
+    "name": "Nainativu"
+  },
+  {
+    "code": "80064",
+    "districtId": "D12",
+    "name": "Nakiyadeniya"
+  },
+  {
+    "code": "91003",
+    "districtId": "D02",
+    "name": "Nakkala"
+  },
+  {
+    "code": "60186",
+    "districtId": "D01",
+    "name": "Nakkawatta"
+  },
+  {
+    "code": "82300",
+    "districtId": "D23",
+    "name": "Nakulugamuwa"
+  },
+  {
+    "code": "21082",
+    "districtId": "D05",
+    "name": "Nalanda"
+  },
+  {
+    "code": "61244",
+    "districtId": "D21",
+    "name": "Nalladarankattuwa"
+  },
+  {
+    "code": "32037",
+    "districtId": "D16",
+    "name": "Namaloya"
+  },
+  {
+    "code": "50339",
+    "districtId": "D18",
+    "name": "Namalpura"
+  },
+  {
+    "code": "90580",
+    "districtId": "D20",
+    "name": "Namunukula"
+  },
+  {
+    "code": "41033",
+    "districtId": "D03",
+    "name": "Nanattan"
+  },
+  {
+    "code": "91519",
+    "districtId": "D02",
+    "name": "Nannapurawa"
+  },
+  {
+    "code": "22150",
+    "districtId": "D22",
+    "name": "Nanuoya"
+  },
+  {
+    "code": "10704",
+    "districtId": "D09",
+    "name": "Napawala"
+  },
+  {
+    "code": "60100",
+    "districtId": "D01",
+    "name": "Narammala"
+  },
+  {
+    "code": "90064",
+    "districtId": "D20",
+    "name": "Narangala"
+  },
+  {
+    "code": "60152",
+    "districtId": "D01",
+    "name": "Narangoda"
+  },
+  {
+    "code": "20176",
+    "districtId": "D10",
+    "name": "Narampanawa"
+  },
+  {
+    "code": "11063",
+    "districtId": "D08",
+    "name": "Naranwala"
+  },
+  {
+    "code": "81302",
+    "districtId": "D07",
+    "name": "Narawelpita"
+  },
+  {
+    "code": "61190",
+    "districtId": "D21",
+    "name": "Nattandiya"
+  },
+  {
+    "code": "20194",
+    "districtId": "D10",
+    "name": "Nattarampotha"
+  },
+  {
+    "code": "21090",
+    "districtId": "D05",
+    "name": "Naula"
+  },
+  {
+    "code": "80416",
+    "districtId": "D12",
+    "name": "Navadagala"
+  },
+  {
+    "code": "30238",
+    "districtId": "D06",
+    "name": "Navagirinagar"
+  },
+  {
+    "code": "30018",
+    "districtId": "D06",
+    "name": "Navatkadu"
+  },
+  {
+    "code": "81017",
+    "districtId": "D07",
+    "name": "Navimana"
+  },
+  {
+    "code": "61520",
+    "districtId": "D21",
+    "name": "Nawagattegama"
+  },
+  {
+    "code": "70469",
+    "districtId": "D14",
+    "name": "Nawalakanda"
+  },
+  {
+    "code": "20650",
+    "districtId": "D10",
+    "name": "Nawalapitiya"
+  },
+  {
+    "code": "51071",
+    "districtId": "D13",
+    "name": "Nawamahasenpura"
+  },
+  {
+    "code": "32120",
+    "districtId": "D16",
+    "name": "Nawamedagama"
+  },
+  {
+    "code": "11222",
+    "districtId": "D08",
+    "name": "Nawana"
+  },
+  {
+    "code": "51066",
+    "districtId": "D13",
+    "name": "Nawasenapura"
+  },
+  {
+    "code": "60292",
+    "districtId": "D01",
+    "name": "Nawatalwatta"
+  },
+  {
+    "code": "22670",
+    "districtId": "D22",
+    "name": "Nawathispane"
+  },
+  {
+    "code": "70165",
+    "districtId": "D14",
+    "name": "Nawinnapinnakanda"
+  },
+  {
+    "code": "12106",
+    "districtId": "D17",
+    "name": "Nawuttuduwa"
+  },
+  {
+    "code": "12030",
+    "districtId": "D17",
+    "name": "Neboda"
+  },
+  {
+    "code": "11066",
+    "districtId": "D08",
+    "name": "Nedungamuwa"
+  },
+  {
+    "code": "43075",
+    "districtId": "D25",
+    "name": "Nedunkerny"
+  },
+  {
+    "code": "31228",
+    "districtId": "D11",
+    "name": "Neelapola"
+  },
+  {
+    "code": "40165",
+    "districtId": "D04",
+    "name": "Neervely"
+  },
+  {
+    "code": "11500",
+    "districtId": "D08",
+    "name": "Negambo"
+  },
+  {
+    "code": "50180",
+    "districtId": "D18",
+    "name": "Negampaha"
+  },
+  {
+    "code": "60549",
+    "districtId": "D01",
+    "name": "Nelliya"
+  },
+  {
+    "code": "32042",
+    "districtId": "D16",
+    "name": "Nelliyadda"
+  },
+  {
+    "code": "90042",
+    "districtId": "D20",
+    "name": "Nelumgama"
+  },
+  {
+    "code": "51096",
+    "districtId": "D13",
+    "name": "Nelumwewa"
+  },
+  {
+    "code": "71060",
+    "districtId": "D24",
+    "name": "Nelundeniya"
+  },
+  {
+    "code": "80082",
+    "districtId": "D12",
+    "name": "Neluwa"
+  },
+  {
+    "code": "43100",
+    "districtId": "D25",
+    "name": "Neriyakulam"
+  },
+  {
+    "code": "82135",
+    "districtId": "D23",
+    "name": "Netolpitiya"
+  },
+  {
+    "code": "82414",
+    "districtId": "D23",
+    "name": "Nihiluwa"
+  },
+  {
+    "code": "60580",
+    "districtId": "D01",
+    "name": "Nikadalupotha"
+  },
+  {
+    "code": "11128",
+    "districtId": "D08",
+    "name": "Nikahetikanda"
+  },
+  {
+    "code": "90165",
+    "districtId": "D20",
+    "name": "Nikapotha"
+  },
+  {
+    "code": "21203",
+    "districtId": "D05",
+    "name": "Nikawehera"
+  },
+  {
+    "code": "60470",
+    "districtId": "D01",
+    "name": "Nikaweratiya"
+  },
+  {
+    "code": "31010",
+    "districtId": "D11",
+    "name": "Nilaveli"
+  },
+  {
+    "code": "22280",
+    "districtId": "D22",
+    "name": "Nildandahinna"
+  },
+  {
+    "code": "91508",
+    "districtId": "D02",
+    "name": "Nilgala"
+  },
+  {
+    "code": "20418",
+    "districtId": "D10",
+    "name": "Nillambe"
+  },
+  {
+    "code": "80318",
+    "districtId": "D12",
+    "name": "Nindana"
+  },
+  {
+    "code": "70038",
+    "districtId": "D14",
+    "name": "Niralgama"
+  },
+  {
+    "code": "22075",
+    "districtId": "D22",
+    "name": "Nishshanka Uyana"
+  },
+  {
+    "code": "11880",
+    "districtId": "D08",
+    "name": "Nittambuwa"
+  },
+  {
+    "code": "11354",
+    "districtId": "D08",
+    "name": "Nivandama"
+  },
+  {
+    "code": "70400",
+    "districtId": "D14",
+    "name": "Nivithigala"
+  },
+  {
+    "code": "71608",
+    "districtId": "D24",
+    "name": "Niwatuwa"
+  },
+  {
+    "code": "71602",
+    "districtId": "D24",
+    "name": "Niyadurupola"
+  },
+  {
+    "code": "50200",
+    "districtId": "D18",
+    "name": "Nochchiyagama"
+  },
+  {
+    "code": "71407",
+    "districtId": "D24",
+    "name": "Noori"
+  },
+  {
+    "code": "61342",
+    "districtId": "D21",
+    "name": "Norachcholai"
+  },
+  {
+    "code": "22058",
+    "districtId": "D22",
+    "name": "Norwood"
+  },
+  {
+    "code": "21534",
+    "districtId": "D05",
+    "name": "Nugagolla"
+  },
+  {
+    "code": "20204",
+    "districtId": "D10",
+    "name": "Nugaliyadda"
+  },
+  {
+    "code": "90216",
+    "districtId": "D20",
+    "name": "Nugatalawa"
+  },
+  {
+    "code": "20072",
+    "districtId": "D10",
+    "name": "Nugawela"
+  },
+  {
+    "code": "10250",
+    "districtId": "D09",
+    "name": "Nugegoda"
+  },
+  {
+    "code": "22200",
+    "districtId": "D22",
+    "name": "Nuwara Eliya"
+  },
+  {
+    "code": "51039",
+    "districtId": "D13",
+    "name": "Nuwaragala"
+  },
+  {
+    "code": "91007",
+    "districtId": "D02",
+    "name": "Obbegoda"
+  },
+  {
+    "code": "30420",
+    "districtId": "D06",
+    "name": "Oddamavadi"
+  },
+  {
+    "code": "42200",
+    "districtId": "D15",
+    "name": "Oddusuddan"
+  },
+  {
+    "code": "90168",
+    "districtId": "D20",
+    "name": "Ohiya"
+  },
+  {
+    "code": "91060",
+    "districtId": "D02",
+    "name": "Okkampitiya"
+  },
+  {
+    "code": "70215",
+    "districtId": "D14",
+    "name": "Omalpe"
+  },
+  {
+    "code": "43050",
+    "districtId": "D25",
+    "name": "Omanthai"
+  },
+  {
+    "code": "51004",
+    "districtId": "D13",
+    "name": "Onegama"
+  },
+  {
+    "code": "21076",
+    "districtId": "D05",
+    "name": "Opalgala"
+  },
+  {
+    "code": "70080",
+    "districtId": "D14",
+    "name": "Opanayake"
+  },
+  {
+    "code": "80142",
+    "districtId": "D12",
+    "name": "Opatha"
+  },
+  {
+    "code": "51256",
+    "districtId": "D13",
+    "name": "Orubendisiyambalawa"
+  },
+  {
+    "code": "21020",
+    "districtId": "D05",
+    "name": "Ovilikanda"
+  },
+  {
+    "code": "41045",
+    "districtId": "D03",
+    "name": "P.P.Potkerny"
+  },
+  {
+    "code": "12074",
+    "districtId": "D17",
+    "name": "Padagoda"
+  },
+  {
+    "code": "70230",
+    "districtId": "D14",
+    "name": "Padalangala"
+  },
+  {
+    "code": "50572",
+    "districtId": "D18",
+    "name": "Padavi Maithripura"
+  },
+  {
+    "code": "50582",
+    "districtId": "D18",
+    "name": "Padavi Parakramapura"
+  },
+  {
+    "code": "50588",
+    "districtId": "D18",
+    "name": "Padavi Sri tissapura"
+  },
+  {
+    "code": "50587",
+    "districtId": "D18",
+    "name": "Padavi Sripura"
+  },
+  {
+    "code": "50570",
+    "districtId": "D18",
+    "name": "Padaviya"
+  },
+  {
+    "code": "82636",
+    "districtId": "D23",
+    "name": "Padawkema"
+  },
+  {
+    "code": "60461",
+    "districtId": "D01",
+    "name": "Padeniya"
+  },
+  {
+    "code": "50338",
+    "districtId": "D18",
+    "name": "Padikaramaduwa"
+  },
+  {
+    "code": "60236",
+    "districtId": "D01",
+    "name": "Padiwela"
+  },
+  {
+    "code": "22750",
+    "districtId": "D22",
+    "name": "Padiyapelella"
+  },
+  {
+    "code": "32100",
+    "districtId": "D16",
+    "name": "Padiyatalawa"
+  },
+  {
+    "code": "10500",
+    "districtId": "D09",
+    "name": "Padukka"
+  },
+  {
+    "code": "82008",
+    "districtId": "D23",
+    "name": "Pahala Andarawewa"
+  },
+  {
+    "code": "60193",
+    "districtId": "D01",
+    "name": "Pahala Diyadora"
+  },
+  {
+    "code": "50206",
+    "districtId": "D18",
+    "name": "Pahala Halmillewa"
+  },
+  {
+    "code": "50220",
+    "districtId": "D18",
+    "name": "Pahala Maragahawewa"
+  },
+  {
+    "code": "81472",
+    "districtId": "D07",
+    "name": "Pahala Millawa"
+  },
+  {
+    "code": "50244",
+    "districtId": "D18",
+    "name": "Pahalagama"
+  },
+  {
+    "code": "60735",
+    "districtId": "D01",
+    "name": "Pahalagiribawa"
+  },
+  {
+    "code": "12144",
+    "districtId": "D17",
+    "name": "Pahalahewessa"
+  },
+  {
+    "code": "32034",
+    "districtId": "D16",
+    "name": "Pahalalanda"
+  },
+  {
+    "code": "90756",
+    "districtId": "D20",
+    "name": "Pahalarathkinda"
+  },
+  {
+    "code": "60112",
+    "districtId": "D01",
+    "name": "Pahamune"
+  },
+  {
+    "code": "12050",
+    "districtId": "D17",
+    "name": "Paiyagala"
+  },
+  {
+    "code": "50111",
+    "districtId": "D18",
+    "name": "Palagala"
+  },
+  {
+    "code": "43065",
+    "districtId": "D25",
+    "name": "Palamoddai"
+  },
+  {
+    "code": "41015",
+    "districtId": "D03",
+    "name": "Palampiddy"
+  },
+  {
+    "code": "21070",
+    "districtId": "D05",
+    "name": "Palapathwala"
+  },
+  {
+    "code": "81050",
+    "districtId": "D07",
+    "name": "Palatuwa"
+  },
+  {
+    "code": "61280",
+    "districtId": "D21",
+    "name": "Palaviya"
+  },
+  {
+    "code": "70607",
+    "districtId": "D14",
+    "name": "Paleegala"
+  },
+  {
+    "code": "42550",
+    "districtId": "D19",
+    "name": "Pallai"
+  },
+  {
+    "code": "61040",
+    "districtId": "D21",
+    "name": "Pallama"
+  },
+  {
+    "code": "42615",
+    "districtId": "D19",
+    "name": "Pallavarayankaddu"
+  },
+  {
+    "code": "70170",
+    "districtId": "D14",
+    "name": "Pallebedda"
+  },
+  {
+    "code": "20734",
+    "districtId": "D10",
+    "name": "Pallebowala"
+  },
+  {
+    "code": "82454",
+    "districtId": "D23",
+    "name": "Pallekanda"
+  },
+  {
+    "code": "90534",
+    "districtId": "D20",
+    "name": "Pallekiruwa"
+  },
+  {
+    "code": "20084",
+    "districtId": "D10",
+    "name": "Pallekotuwa"
+  },
+  {
+    "code": "21152",
+    "districtId": "D05",
+    "name": "Pallepola"
+  },
+  {
+    "code": "11150",
+    "districtId": "D08",
+    "name": "Pallewela"
+  },
+  {
+    "code": "70161",
+    "districtId": "D14",
+    "name": "Palugahawela"
+  },
+  {
+    "code": "51046",
+    "districtId": "D13",
+    "name": "Palugasdamana"
+  },
+  {
+    "code": "50144",
+    "districtId": "D18",
+    "name": "Palugaswewa"
+  },
+  {
+    "code": "60726",
+    "districtId": "D01",
+    "name": "Palugolla"
+  },
+  {
+    "code": "60704",
+    "districtId": "D01",
+    "name": "Palukadawala"
+  },
+  {
+    "code": "70133",
+    "districtId": "D14",
+    "name": "Pambagolla"
+  },
+  {
+    "code": "43135",
+    "districtId": "D25",
+    "name": "Pampaimadu"
+  },
+  {
+    "code": "11370",
+    "districtId": "D08",
+    "name": "Pamunugama"
+  },
+  {
+    "code": "11214",
+    "districtId": "D08",
+    "name": "Pamunuwatta"
+  },
+  {
+    "code": "60348",
+    "districtId": "D01",
+    "name": "Panadaragama"
+  },
+  {
+    "code": "12500",
+    "districtId": "D17",
+    "name": "Panadura"
+  },
+  {
+    "code": "60052",
+    "districtId": "D01",
+    "name": "Panagamuwa"
+  },
+  {
+    "code": "81075",
+    "districtId": "D07",
+    "name": "Panakaduwa"
+  },
+  {
+    "code": "60312",
+    "districtId": "D01",
+    "name": "Panaliya"
+  },
+  {
+    "code": "70218",
+    "districtId": "D14",
+    "name": "Panamura"
+  },
+  {
+    "code": "80075",
+    "districtId": "D12",
+    "name": "Panangala"
+  },
+  {
+    "code": "70461",
+    "districtId": "D14",
+    "name": "Panapola"
+  },
+  {
+    "code": "70152",
+    "districtId": "D14",
+    "name": "Panapitiya"
+  },
+  {
+    "code": "70612",
+    "districtId": "D14",
+    "name": "Panawala"
+  },
+  {
+    "code": "40100",
+    "districtId": "D04",
+    "name": "Pandaterippu"
+  },
+  {
+    "code": "50448",
+    "districtId": "D18",
+    "name": "Pandukabayapura"
+  },
+  {
+    "code": "50029",
+    "districtId": "D18",
+    "name": "Pandulagama"
+  },
+  {
+    "code": "90731",
+    "districtId": "D20",
+    "name": "Pangaragammana"
+  },
+  {
+    "code": "91002",
+    "districtId": "D02",
+    "name": "Pangura"
+  },
+  {
+    "code": "30444",
+    "districtId": "D06",
+    "name": "Panichankerni"
+  },
+  {
+    "code": "61234",
+    "districtId": "D21",
+    "name": "Panirendawa"
+  },
+  {
+    "code": "50009",
+    "districtId": "D18",
+    "name": "Paniyankadawala"
+  },
+  {
+    "code": "30352",
+    "districtId": "D06",
+    "name": "Pankudavely"
+  },
+  {
+    "code": "31034",
+    "districtId": "D11",
+    "name": "Pankulam"
+  },
+  {
+    "code": "60558",
+    "districtId": "D01",
+    "name": "Panliyadda"
+  },
+  {
+    "code": "60160",
+    "districtId": "D01",
+    "name": "Pannala"
+  },
+  {
+    "code": "32022",
+    "districtId": "D16",
+    "name": "Pannalagama"
+  },
+  {
+    "code": "12114",
+    "districtId": "D17",
+    "name": "Pannila"
+  },
+  {
+    "code": "80086",
+    "districtId": "D12",
+    "name": "Pannimulla Panagoda"
+  },
+  {
+    "code": "10230",
+    "districtId": "D09",
+    "name": "Pannipitiya"
+  },
+  {
+    "code": "60554",
+    "districtId": "D01",
+    "name": "Pansiyagama"
+  },
+  {
+    "code": "20830",
+    "districtId": "D10",
+    "name": "Panwila"
+  },
+  {
+    "code": "20544",
+    "districtId": "D10",
+    "name": "Panwilatenna"
+  },
+  {
+    "code": "20578",
+    "districtId": "D10",
+    "name": "Paradeka"
+  },
+  {
+    "code": "60071",
+    "districtId": "D01",
+    "name": "Paragahadeniya"
+  },
+  {
+    "code": "32031",
+    "districtId": "D16",
+    "name": "Paragahakele"
+  },
+  {
+    "code": "81474",
+    "districtId": "D07",
+    "name": "Paragala"
+  },
+  {
+    "code": "12414",
+    "districtId": "D17",
+    "name": "Paragastota"
+  },
+  {
+    "code": "12302",
+    "districtId": "D17",
+    "name": "Paragoda"
+  },
+  {
+    "code": "12122",
+    "districtId": "D17",
+    "name": "Paraigama"
+  },
+  {
+    "code": "70550",
+    "districtId": "D14",
+    "name": "Parakaduwa"
+  },
+  {
+    "code": "51016",
+    "districtId": "D13",
+    "name": "Parakrama Samudraya"
+  },
+  {
+    "code": "50326",
+    "districtId": "D18",
+    "name": "Parakumpura"
+  },
+  {
+    "code": "50354",
+    "districtId": "D18",
+    "name": "Parangiyawadiya"
+  },
+  {
+    "code": "42500",
+    "districtId": "D19",
+    "name": "Paranthan"
+  },
+  {
+    "code": "81322",
+    "districtId": "D07",
+    "name": "Parapamulla"
+  },
+  {
+    "code": "71105",
+    "districtId": "D24",
+    "name": "Parape"
+  },
+  {
+    "code": "50055",
+    "districtId": "D18",
+    "name": "Parasangahawewa"
+  },
+  {
+    "code": "20654",
+    "districtId": "D10",
+    "name": "Pasbage"
+  },
+  {
+    "code": "81615",
+    "districtId": "D07",
+    "name": "Pasgoda"
+  },
+  {
+    "code": "90500",
+    "districtId": "D20",
+    "name": "Passara"
+  },
+  {
+    "code": "11890",
+    "districtId": "D08",
+    "name": "Pasyala"
+  },
+  {
+    "code": "22012",
+    "districtId": "D22",
+    "name": "Patana"
+  },
+  {
+    "code": "90071",
+    "districtId": "D20",
+    "name": "Pathanewatta"
+  },
+  {
+    "code": "20511",
+    "districtId": "D10",
+    "name": "Patitalawa"
+  },
+  {
+    "code": "71130",
+    "districtId": "D24",
+    "name": "Pattampitiya"
+  },
+  {
+    "code": "20118",
+    "districtId": "D10",
+    "name": "Pattiya Watta"
+  },
+  {
+    "code": "43105",
+    "districtId": "D25",
+    "name": "Pavatkulam"
+  },
+  {
+    "code": "70045",
+    "districtId": "D14",
+    "name": "Pebotuwa"
+  },
+  {
+    "code": "12214",
+    "districtId": "D17",
+    "name": "Pelanda"
+  },
+  {
+    "code": "51033",
+    "districtId": "D13",
+    "name": "Pelatiyawa"
+  },
+  {
+    "code": "12138",
+    "districtId": "D17",
+    "name": "Pelawatta"
+  },
+  {
+    "code": "12146",
+    "districtId": "D17",
+    "name": "Pelawatta Tea.Project"
+  },
+  {
+    "code": "90522",
+    "districtId": "D20",
+    "name": "Pelgahatenna"
+  },
+  {
+    "code": "11830",
+    "districtId": "D08",
+    "name": "Peliyagoda"
+  },
+  {
+    "code": "70070",
+    "districtId": "D14",
+    "name": "Pelmadulla"
+  },
+  {
+    "code": "70053",
+    "districtId": "D14",
+    "name": "Pelwadiya"
+  },
+  {
+    "code": "21105",
+    "districtId": "D05",
+    "name": "Pelwehera"
+  },
+  {
+    "code": "50020",
+    "districtId": "D18",
+    "name": "Pemaduwa"
+  },
+  {
+    "code": "81722",
+    "districtId": "D07",
+    "name": "Penetiyana"
+  },
+  {
+    "code": "11741",
+    "districtId": "D08",
+    "name": "Pepiliyawala"
+  },
+  {
+    "code": "20400",
+    "districtId": "D10",
+    "name": "Peradeniya"
+  },
+  {
+    "code": "21532",
+    "districtId": "D05",
+    "name": "Perakanatta"
+  },
+  {
+    "code": "90222",
+    "districtId": "D20",
+    "name": "Perawella"
+  },
+  {
+    "code": "50004",
+    "districtId": "D18",
+    "name": "Perimiyankulama"
+  },
+  {
+    "code": "60518",
+    "districtId": "D01",
+    "name": "Periyakadunelawa"
+  },
+  {
+    "code": "41025",
+    "districtId": "D03",
+    "name": "Periyakunchukkulam"
+  },
+  {
+    "code": "41170",
+    "districtId": "D03",
+    "name": "Periyamadu"
+  },
+  {
+    "code": "30230",
+    "districtId": "D06",
+    "name": "Periyaporativu"
+  },
+  {
+    "code": "30358",
+    "districtId": "D06",
+    "name": "Periyapullumalai"
+  },
+  {
+    "code": "43145",
+    "districtId": "D25",
+    "name": "Periyathampanai"
+  },
+  {
+    "code": "43110",
+    "districtId": "D25",
+    "name": "Periyaulukkulam"
+  },
+  {
+    "code": "41210",
+    "districtId": "D03",
+    "name": "Pesalai"
+  },
+  {
+    "code": "11043",
+    "districtId": "D08",
+    "name": "Pethiyagoda"
+  },
+  {
+    "code": "60439",
+    "districtId": "D01",
+    "name": "Pihimbiya Ratmale"
+  },
+  {
+    "code": "50512",
+    "districtId": "D18",
+    "name": "Pihimbiyagollewa"
+  },
+  {
+    "code": "60053",
+    "districtId": "D01",
+    "name": "Pihimbuwa"
+  },
+  {
+    "code": "20196",
+    "districtId": "D10",
+    "name": "Pilawala"
+  },
+  {
+    "code": "60058",
+    "districtId": "D01",
+    "name": "Pilessa"
+  },
+  {
+    "code": "20450",
+    "districtId": "D10",
+    "name": "Pilimatalawa"
+  },
+  {
+    "code": "10300",
+    "districtId": "D09",
+    "name": "Piliyandala"
+  },
+  {
+    "code": "30022",
+    "districtId": "D06",
+    "name": "Pillaiyaradi"
+  },
+  {
+    "code": "70472",
+    "districtId": "D14",
+    "name": "Pimbura"
+  },
+  {
+    "code": "51102",
+    "districtId": "D13",
+    "name": "Pimburattewa"
+  },
+  {
+    "code": "70130",
+    "districtId": "D14",
+    "name": "Pinnawala"
+  },
+  {
+    "code": "81450",
+    "districtId": "D07",
+    "name": "Pitabeddara"
+  },
+  {
+    "code": "71360",
+    "districtId": "D24",
+    "name": "Pitagaldeniya"
+  },
+  {
+    "code": "91505",
+    "districtId": "D02",
+    "name": "Pitakumbura"
+  },
+  {
+    "code": "90544",
+    "districtId": "D20",
+    "name": "Pitamaruwa"
+  },
+  {
+    "code": "90171",
+    "districtId": "D20",
+    "name": "Pitapola"
+  },
+  {
+    "code": "22682",
+    "districtId": "D22",
+    "name": "Pitawala"
+  },
+  {
+    "code": "80420",
+    "districtId": "D12",
+    "name": "Pitigala"
+  },
+  {
+    "code": "10206",
+    "districtId": "D09",
+    "name": "Pitipana Homagama"
+  },
+  {
+    "code": "80170",
+    "districtId": "D12",
+    "name": "Poddala"
+  },
+  {
+    "code": "20106",
+    "districtId": "D10",
+    "name": "Poholiyadda"
+  },
+  {
+    "code": "70562",
+    "districtId": "D14",
+    "name": "Pohorabawa"
+  },
+  {
+    "code": "40600",
+    "districtId": "D04",
+    "name": "Point Pedro"
+  },
+  {
+    "code": "12404",
+    "districtId": "D17",
+    "name": "Pokunuwita"
+  },
+  {
+    "code": "60300",
+    "districtId": "D01",
+    "name": "Polgahawela"
+  },
+  {
+    "code": "12136",
+    "districtId": "D17",
+    "name": "Polgampola"
+  },
+  {
+    "code": "10320",
+    "districtId": "D09",
+    "name": "Polgasowita"
+  },
+  {
+    "code": "20250",
+    "districtId": "D10",
+    "name": "Polgolla"
+  },
+  {
+    "code": "51000",
+    "districtId": "D13",
+    "name": "Polonnaruwa"
+  },
+  {
+    "code": "11324",
+    "districtId": "D08",
+    "name": "Polpithimukulana"
+  },
+  {
+    "code": "60620",
+    "districtId": "D01",
+    "name": "Polpitigama"
+  },
+  {
+    "code": "32032",
+    "districtId": "D16",
+    "name": "Polwaga Janapadaya"
+  },
+  {
+    "code": "61307",
+    "districtId": "D21",
+    "name": "Ponparappi"
+  },
+  {
+    "code": "90107",
+    "districtId": "D20",
+    "name": "Poonagala"
+  },
+  {
+    "code": "42606",
+    "districtId": "D19",
+    "name": "Poonakary Nallur"
+  },
+  {
+    "code": "20951",
+    "districtId": "D10",
+    "name": "Poppitiya"
+  },
+  {
+    "code": "80408",
+    "districtId": "D12",
+    "name": "Porawagama"
+  },
+  {
+    "code": "12432",
+    "districtId": "D17",
+    "name": "Poruwedanda"
+  },
+  {
+    "code": "81538",
+    "districtId": "D07",
+    "name": "Pothdeniya"
+  },
+  {
+    "code": "20312",
+    "districtId": "D10",
+    "name": "Poththapitiya"
+  },
+  {
+    "code": "60330",
+    "districtId": "D01",
+    "name": "Pothuhera"
+  },
+  {
+    "code": "71039",
+    "districtId": "D24",
+    "name": "Pothukoladeniya"
+  },
+  {
+    "code": "70338",
+    "districtId": "D14",
+    "name": "Pothupitiya"
+  },
+  {
+    "code": "61162",
+    "districtId": "D21",
+    "name": "Pothuwatawana"
+  },
+  {
+    "code": "21502",
+    "districtId": "D05",
+    "name": "Pubbiliya"
+  },
+  {
+    "code": "50122",
+    "districtId": "D18",
+    "name": "Pubbogama"
+  },
+  {
+    "code": "10660",
+    "districtId": "D08",
+    "name": "Pugoda"
+  },
+  {
+    "code": "90212",
+    "districtId": "D20",
+    "name": "Puhulpola"
+  },
+  {
+    "code": "81290",
+    "districtId": "D07",
+    "name": "Puhulwella"
+  },
+  {
+    "code": "20112",
+    "districtId": "D10",
+    "name": "Pujapitiya"
+  },
+  {
+    "code": "51050",
+    "districtId": "D13",
+    "name": "Pulastigama"
+  },
+  {
+    "code": "42509",
+    "districtId": "D19",
+    "name": "Puliyampokkanai"
+  },
+  {
+    "code": "50328",
+    "districtId": "D18",
+    "name": "Puliyankadawala"
+  },
+  {
+    "code": "43070",
+    "districtId": "D25",
+    "name": "Puliyankulam"
+  },
+  {
+    "code": "22051",
+    "districtId": "D22",
+    "name": "Puliyawaththa"
+  },
+  {
+    "code": "31017",
+    "districtId": "D11",
+    "name": "Pulmoddai"
+  },
+  {
+    "code": "40615",
+    "districtId": "D04",
+    "name": "Puloly"
+  },
+  {
+    "code": "42600",
+    "districtId": "D19",
+    "name": "Punakary"
+  },
+  {
+    "code": "30428",
+    "districtId": "D06",
+    "name": "Punanai"
+  },
+  {
+    "code": "22120",
+    "districtId": "D22",
+    "name": "Pundaluoya"
+  },
+  {
+    "code": "50506",
+    "districtId": "D18",
+    "name": "Punewa"
+  },
+  {
+    "code": "40330",
+    "districtId": "D04",
+    "name": "Punguduthivu"
+  },
+  {
+    "code": "20546",
+    "districtId": "D10",
+    "name": "Pupuressa"
+  },
+  {
+    "code": "20580",
+    "districtId": "D10",
+    "name": "Pussellawa"
+  },
+  {
+    "code": "60072",
+    "districtId": "D01",
+    "name": "Puswelitenna"
+  },
+  {
+    "code": "42530",
+    "districtId": "D15",
+    "name": "Puthukkudiyiruppu"
+  },
+  {
+    "code": "30158",
+    "districtId": "D06",
+    "name": "Puthukudiyiruppu"
+  },
+  {
+    "code": "42330",
+    "districtId": "D15",
+    "name": "Puthuvedduvan"
+  },
+  {
+    "code": "61326",
+    "districtId": "D21",
+    "name": "Puttalam Cement Factory"
+  },
+  {
+    "code": "61300",
+    "districtId": "D21",
+    "name": "Puttalam"
+  },
+  {
+    "code": "40158",
+    "districtId": "D04",
+    "name": "Puttur"
+  },
+  {
+    "code": "20906",
+    "districtId": "D10",
+    "name": "Putuhapuwa"
+  },
+  {
+    "code": "43140",
+    "districtId": "D25",
+    "name": "Puvarasankulam"
+  },
+  {
+    "code": "10712",
+    "districtId": "D09",
+    "name": "Puwakpitiya"
+  },
+  {
+    "code": "11892",
+    "districtId": "D08",
+    "name": "Radawadunna"
+  },
+  {
+    "code": "11725",
+    "districtId": "D08",
+    "name": "Radawana"
+  },
+  {
+    "code": "11400",
+    "districtId": "D08",
+    "name": "Raddolugama"
+  },
+  {
+    "code": "11010",
+    "districtId": "D08",
+    "name": "Ragama"
+  },
+  {
+    "code": "32068",
+    "districtId": "D16",
+    "name": "Rajagalatenna"
+  },
+  {
+    "code": "10107",
+    "districtId": "D09",
+    "name": "Rajagiriya"
+  },
+  {
+    "code": "61242",
+    "districtId": "D21",
+    "name": "Rajakadaluwa"
+  },
+  {
+    "code": "50246",
+    "districtId": "D18",
+    "name": "Rajanganaya"
+  },
+  {
+    "code": "70116",
+    "districtId": "D14",
+    "name": "Rajawaka"
+  },
+  {
+    "code": "20180",
+    "districtId": "D10",
+    "name": "Rajawella"
+  },
+  {
+    "code": "80260",
+    "districtId": "D12",
+    "name": "Rajgama"
+  },
+  {
+    "code": "70300",
+    "districtId": "D14",
+    "name": "Rakwana"
+  },
+  {
+    "code": "42408",
+    "districtId": "D19",
+    "name": "Ramanathapuram"
+  },
+  {
+    "code": "50450",
+    "districtId": "D18",
+    "name": "Rambewa"
+  },
+  {
+    "code": "22590",
+    "districtId": "D22",
+    "name": "Ramboda"
+  },
+  {
+    "code": "20128",
+    "districtId": "D10",
+    "name": "Rambukewela"
+  },
+  {
+    "code": "71100",
+    "districtId": "D24",
+    "name": "Rambukkana"
+  },
+  {
+    "code": "20676",
+    "districtId": "D10",
+    "name": "Rambukpitiya"
+  },
+  {
+    "code": "82033",
+    "districtId": "D20",
+    "name": "Rambukpotha"
+  },
+  {
+    "code": "82554",
+    "districtId": "D23",
+    "name": "Rammalawarapitiya"
+  },
+  {
+    "code": "50386",
+    "districtId": "D18",
+    "name": "Rampathwila"
+  },
+  {
+    "code": "82612",
+    "districtId": "D23",
+    "name": "Ranakeliya"
+  },
+  {
+    "code": "10654",
+    "districtId": "D09",
+    "name": "Ranala"
+  },
+  {
+    "code": "21524",
+    "districtId": "D05",
+    "name": "Ranamuregama"
+  },
+  {
+    "code": "91204",
+    "districtId": "D02",
+    "name": "Randeniya"
+  },
+  {
+    "code": "20922",
+    "districtId": "D10",
+    "name": "Rangala"
+  },
+  {
+    "code": "60095",
+    "districtId": "D01",
+    "name": "Ranjanagama"
+  },
+  {
+    "code": "82018",
+    "districtId": "D23",
+    "name": "Ranmuduwewa"
+  },
+  {
+    "code": "82125",
+    "districtId": "D23",
+    "name": "Ranna"
+  },
+  {
+    "code": "50212",
+    "districtId": "D18",
+    "name": "Ranorawa"
+  },
+  {
+    "code": "81064",
+    "districtId": "D07",
+    "name": "Ransegoda"
+  },
+  {
+    "code": "20990",
+    "districtId": "D10",
+    "name": "Rantembe"
+  },
+  {
+    "code": "80354",
+    "districtId": "D12",
+    "name": "Rantotuvila"
+  },
+  {
+    "code": "70162",
+    "districtId": "D14",
+    "name": "Ranwala"
+  },
+  {
+    "code": "70135",
+    "districtId": "D14",
+    "name": "Rassagala"
+  },
+  {
+    "code": "10390",
+    "districtId": "D09",
+    "name": "Rathmalana"
+  },
+  {
+    "code": "50514",
+    "districtId": "D18",
+    "name": "Rathmalgahawewa"
+  },
+  {
+    "code": "20818",
+    "districtId": "D10",
+    "name": "Rathukohodigala"
+  },
+  {
+    "code": "90164",
+    "districtId": "D20",
+    "name": "Ratkarawwa"
+  },
+  {
+    "code": "81030",
+    "districtId": "D07",
+    "name": "Ratmale"
+  },
+  {
+    "code": "82276",
+    "districtId": "D23",
+    "name": "Ratmalwala"
+  },
+  {
+    "code": "70036",
+    "districtId": "D14",
+    "name": "Ratna Hangamuwa"
+  },
+  {
+    "code": "70000",
+    "districtId": "D14",
+    "name": "Ratnapura"
+  },
+  {
+    "code": "21400",
+    "districtId": "D05",
+    "name": "Rattota"
+  },
+  {
+    "code": "12009",
+    "districtId": "D17",
+    "name": "Remunagoda"
+  },
+  {
+    "code": "90704",
+    "districtId": "D20",
+    "name": "Rideemaliyadda"
+  },
+  {
+    "code": "60606",
+    "districtId": "D01",
+    "name": "Ridibendiella"
+  },
+  {
+    "code": "60040",
+    "districtId": "D01",
+    "name": "Ridigama"
+  },
+  {
+    "code": "20730",
+    "districtId": "D10",
+    "name": "Rikillagaskada"
+  },
+  {
+    "code": "90026",
+    "districtId": "D20",
+    "name": "Rilpola"
+  },
+  {
+    "code": "22672",
+    "districtId": "D22",
+    "name": "Rojarsangama"
+  },
+  {
+    "code": "31038",
+    "districtId": "D11",
+    "name": "Rotawewa"
+  },
+  {
+    "code": "81074",
+    "districtId": "D07",
+    "name": "Rotumba"
+  },
+  {
+    "code": "22008",
+    "districtId": "D22",
+    "name": "Rozella"
+  },
+  {
+    "code": "82106",
+    "districtId": "D23",
+    "name": "Ruhunu Ridiyagama"
+  },
+  {
+    "code": "51112",
+    "districtId": "D13",
+    "name": "Ruhunugama"
+  },
+  {
+    "code": "11142",
+    "districtId": "D08",
+    "name": "Rukgahavila"
+  },
+  {
+    "code": "11129",
+    "districtId": "D08",
+    "name": "Rukmale"
+  },
+  {
+    "code": "22245",
+    "districtId": "D22",
+    "name": "Rupaha"
+  },
+  {
+    "code": "91056",
+    "districtId": "D02",
+    "name": "Ruwalwela"
+  },
+  {
+    "code": "22212",
+    "districtId": "D22",
+    "name": "Ruwaneliya"
+  },
+  {
+    "code": "71300",
+    "districtId": "D24",
+    "name": "Ruwanwella"
+  },
+  {
+    "code": "60736",
+    "districtId": "D01",
+    "name": "Saliya Asokapura"
+  },
+  {
+    "code": "50008",
+    "districtId": "D18",
+    "name": "Saliyapura"
+  },
+  {
+    "code": "61324",
+    "districtId": "D21",
+    "name": "Saliyawewa Junction"
+  },
+  {
+    "code": "70142",
+    "districtId": "D14",
+    "name": "Samanalawewa"
+  },
+  {
+    "code": "31006",
+    "districtId": "D11",
+    "name": "Sampaltivu"
+  },
+  {
+    "code": "31216",
+    "districtId": "D11",
+    "name": "Sampoor"
+  },
+  {
+    "code": "60176",
+    "districtId": "D01",
+    "name": "Sandalankawa"
+  },
+  {
+    "code": "20913",
+    "districtId": "D10",
+    "name": "Sandasiri Dunuwila"
+  },
+  {
+    "code": "40098",
+    "districtId": "D04",
+    "name": "Sandilipay"
+  },
+  {
+    "code": "20044",
+    "districtId": "D10",
+    "name": "Sangarajapura"
+  },
+  {
+    "code": "43090",
+    "districtId": "D25",
+    "name": "Sasthirikoolankulam"
+  },
+  {
+    "code": "71708",
+    "districtId": "D24",
+    "name": "Seaforth Colony"
+  },
+  {
+    "code": "11410",
+    "districtId": "D08",
+    "name": "Seeduwa"
+  },
+  {
+    "code": "50380",
+    "districtId": "D18",
+    "name": "Seeppukulam"
+  },
+  {
+    "code": "22207",
+    "districtId": "D22",
+    "name": "Seetha Eliya"
+  },
+  {
+    "code": "10700",
+    "districtId": "D09",
+    "name": "Seethawakapura"
+  },
+  {
+    "code": "21058",
+    "districtId": "D05",
+    "name": "Selagama"
+  },
+  {
+    "code": "91405",
+    "districtId": "D02",
+    "name": "Sella Kataragama"
+  },
+  {
+    "code": "50263",
+    "districtId": "D18",
+    "name": "Selweheragama"
+  },
+  {
+    "code": "50284",
+    "districtId": "D18",
+    "name": "Senapura"
+  },
+  {
+    "code": "20904",
+    "districtId": "D10",
+    "name": "Senarathwala"
+  },
+  {
+    "code": "32101",
+    "districtId": "D16",
+    "name": "Serankada"
+  },
+  {
+    "code": "61042",
+    "districtId": "D21",
+    "name": "Serukele"
+  },
+  {
+    "code": "31232",
+    "districtId": "D11",
+    "name": "Serunuwara"
+  },
+  {
+    "code": "31260",
+    "districtId": "D11",
+    "name": "Seruwila"
+  },
+  {
+    "code": "70250",
+    "districtId": "D02",
+    "name": "Sevanagala"
+  },
+  {
+    "code": "51062",
+    "districtId": "D13",
+    "name": "Sevanapitiya"
+  },
+  {
+    "code": "22202",
+    "districtId": "D22",
+    "name": "Shanthipura"
+  },
+  {
+    "code": "50042",
+    "districtId": "D18",
+    "name": "Shravasthipura"
+  },
+  {
+    "code": "10304",
+    "districtId": "D09",
+    "name": "Siddamulla"
+  },
+  {
+    "code": "21120",
+    "districtId": "D05",
+    "name": "Sigiriya"
+  },
+  {
+    "code": "90364",
+    "districtId": "D20",
+    "name": "Silmiyapura"
+  },
+  {
+    "code": "90027",
+    "districtId": "D20",
+    "name": "Silpolagama"
+  },
+  {
+    "code": "51378",
+    "districtId": "D13",
+    "name": "Singhagama"
+  },
+  {
+    "code": "51022",
+    "districtId": "D13",
+    "name": "Singhaudagama"
+  },
+  {
+    "code": "31314",
+    "districtId": "D11",
+    "name": "Sirajnagar"
+  },
+  {
+    "code": "61312",
+    "districtId": "D21",
+    "name": "Sirambiadiya"
+  },
+  {
+    "code": "90044",
+    "districtId": "D20",
+    "name": "Sirimalgoda"
+  },
+  {
+    "code": "51155",
+    "districtId": "D13",
+    "name": "Siripura"
+  },
+  {
+    "code": "60478",
+    "districtId": "D01",
+    "name": "Sirisethagama"
+  },
+  {
+    "code": "40229",
+    "districtId": "D04",
+    "name": "Sithankerny"
+  },
+  {
+    "code": "30378",
+    "districtId": "D06",
+    "name": "Sittandy"
+  },
+  {
+    "code": "50068",
+    "districtId": "D18",
+    "name": "Sivalakulama"
+  },
+  {
+    "code": "42618",
+    "districtId": "D19",
+    "name": "Sivapuram"
+  },
+  {
+    "code": "61504",
+    "districtId": "D21",
+    "name": "Siyambalagashena"
+  },
+  {
+    "code": "60113",
+    "districtId": "D01",
+    "name": "Siyambalagaskotuwa"
+  },
+  {
+    "code": "81462",
+    "districtId": "D07",
+    "name": "Siyambalagoda"
+  },
+  {
+    "code": "91202",
+    "districtId": "D02",
+    "name": "Siyambalagune"
+  },
+  {
+    "code": "91030",
+    "districtId": "D02",
+    "name": "Siyambalanduwa"
+  },
+  {
+    "code": "60646",
+    "districtId": "D01",
+    "name": "Siyambalangamuwa"
+  },
+  {
+    "code": "11607",
+    "districtId": "D08",
+    "name": "Siyambalape"
+  },
+  {
+    "code": "32048",
+    "districtId": "D16",
+    "name": "Siyambalawewa"
+  },
+  {
+    "code": "50184",
+    "districtId": "D18",
+    "name": "Siyambalewa"
+  },
+  {
+    "code": "42415",
+    "districtId": "D19",
+    "name": "Skandapuram"
+  },
+  {
+    "code": "00200",
+    "districtId": "D09",
+    "name": "Slave Island"
+  },
+  {
+    "code": "60737",
+    "districtId": "D01",
+    "name": "Solepura"
+  },
+  {
+    "code": "60738",
+    "districtId": "D01",
+    "name": "Solewewa"
+  },
+  {
+    "code": "31222",
+    "districtId": "D11",
+    "name": "Somapura"
+  },
+  {
+    "code": "31307",
+    "districtId": "D11",
+    "name": "Sooriyapura"
+  },
+  {
+    "code": "82010",
+    "districtId": "D23",
+    "name": "Sooriyawewa Town"
+  },
+  {
+    "code": "90718",
+    "districtId": "D20",
+    "name": "Sorabora Colony"
+  },
+  {
+    "code": "90183",
+    "districtId": "D20",
+    "name": "Soragune"
+  },
+  {
+    "code": "90008",
+    "districtId": "D20",
+    "name": "Soranatota"
+  },
+  {
+    "code": "10412",
+    "districtId": "D09",
+    "name": "Soysapura"
+  },
+  {
+    "code": "90028",
+    "districtId": "D20",
+    "name": "Spring Valley"
+  },
+  {
+    "code": "70151",
+    "districtId": "D14",
+    "name": "Sri Godankumbura"
+  },
+  {
+    "code": "10100",
+    "districtId": "D09",
+    "name": "Sri Jayawardenapura"
+  },
+  {
+    "code": "70004",
+    "districtId": "D14",
+    "name": "Sri Palabaddala"
+  },
+  {
+    "code": "70502",
+    "districtId": "D14",
+    "name": "Sudagala"
+  },
+  {
+    "code": "81051",
+    "districtId": "D07",
+    "name": "Sultanagoda"
+  },
+  {
+    "code": "60436",
+    "districtId": "D01",
+    "name": "Sunandapura"
+  },
+  {
+    "code": "51052",
+    "districtId": "D13",
+    "name": "Sungavila"
+  },
+  {
+    "code": "91306",
+    "districtId": "D02",
+    "name": "Suriyaara"
+  },
+  {
+    "code": "10301",
+    "districtId": "D09",
+    "name": "Suwarapola"
+  },
+  {
+    "code": "61322",
+    "districtId": "D21",
+    "name": "Tabbowa"
+  },
+  {
+    "code": "11504",
+    "districtId": "D08",
+    "name": "Talahena"
+  },
+  {
+    "code": "41220",
+    "districtId": "D03",
+    "name": "Talaimannar"
+  },
+  {
+    "code": "21116",
+    "districtId": "D05",
+    "name": "Talakiriyagama"
+  },
+  {
+    "code": "70101",
+    "districtId": "D14",
+    "name": "Talakolahinna"
+  },
+  {
+    "code": "20200",
+    "districtId": "D10",
+    "name": "Talatuoya"
+  },
+  {
+    "code": "50230",
+    "districtId": "D18",
+    "name": "Talawa"
+  },
+  {
+    "code": "22100",
+    "districtId": "D22",
+    "name": "Talawakele"
+  },
+  {
+    "code": "60306",
+    "districtId": "D01",
+    "name": "Talawattegedara"
+  },
+  {
+    "code": "10116",
+    "districtId": "D09",
+    "name": "Talawatugoda"
+  },
+  {
+    "code": "61344",
+    "districtId": "D21",
+    "name": "Talawila Church"
+  },
+  {
+    "code": "90014",
+    "districtId": "D20",
+    "name": "Taldena"
+  },
+  {
+    "code": "80058",
+    "districtId": "D12",
+    "name": "Talgampala"
+  },
+  {
+    "code": "80406",
+    "districtId": "D12",
+    "name": "Talgaspe"
+  },
+  {
+    "code": "71541",
+    "districtId": "D24",
+    "name": "Talgaspitiya"
+  },
+  {
+    "code": "80470",
+    "districtId": "D12",
+    "name": "Talgaswala"
+  },
+  {
+    "code": "80615",
+    "districtId": "D12",
+    "name": "Talpe"
+  },
+  {
+    "code": "51044",
+    "districtId": "D13",
+    "name": "Talpotha"
+  },
+  {
+    "code": "51089",
+    "districtId": "D13",
+    "name": "Tamankaduwa"
+  },
+  {
+    "code": "51049",
+    "districtId": "D13",
+    "name": "Tambala"
+  },
+  {
+    "code": "60734",
+    "districtId": "D01",
+    "name": "Tambutta"
+  },
+  {
+    "code": "50240",
+    "districtId": "D18",
+    "name": "Tambuttegama"
+  },
+  {
+    "code": "50104",
+    "districtId": "D18",
+    "name": "Tammennawa"
+  },
+  {
+    "code": "60517",
+    "districtId": "D21",
+    "name": "Tammennawatiya"
+  },
+  {
+    "code": "31046",
+    "districtId": "D11",
+    "name": "Tampalakamam"
+  },
+  {
+    "code": "91300",
+    "districtId": "D02",
+    "name": "Tanamalwila"
+  },
+  {
+    "code": "82200",
+    "districtId": "D23",
+    "name": "Tangalla"
+  },
+  {
+    "code": "70118",
+    "districtId": "D14",
+    "name": "Tanjantenna"
+  },
+  {
+    "code": "50016",
+    "districtId": "D18",
+    "name": "Tantirimale"
+  },
+  {
+    "code": "80148",
+    "districtId": "D12",
+    "name": "Tawalama"
+  },
+  {
+    "code": "20838",
+    "districtId": "D10",
+    "name": "Tawalantenna"
+  },
+  {
+    "code": "12025",
+    "districtId": "D17",
+    "name": "Tebuwana"
+  },
+  {
+    "code": "82103",
+    "districtId": "D23",
+    "name": "Telawilla"
+  },
+  {
+    "code": "20900",
+    "districtId": "D10",
+    "name": "Teldeniya"
+  },
+  {
+    "code": "50242",
+    "districtId": "D18",
+    "name": "Telhiriyawa"
+  },
+  {
+    "code": "71724",
+    "districtId": "D24",
+    "name": "Teligama"
+  },
+  {
+    "code": "81060",
+    "districtId": "D07",
+    "name": "Telijjawila"
+  },
+  {
+    "code": "40130",
+    "districtId": "D04",
+    "name": "Tellipalai"
+  },
+  {
+    "code": "80242",
+    "districtId": "D12",
+    "name": "Telwaththa"
+  },
+  {
+    "code": "32072",
+    "districtId": "D16",
+    "name": "Tempitiya"
+  },
+  {
+    "code": "31019",
+    "districtId": "D11",
+    "name": "Tennamaravady"
+  },
+  {
+    "code": "20166",
+    "districtId": "D10",
+    "name": "Tennekumbura"
+  },
+  {
+    "code": "90072",
+    "districtId": "D20",
+    "name": "Tennepanguwa"
+  },
+  {
+    "code": "70512",
+    "districtId": "D14",
+    "name": "Teppanawa"
+  },
+  {
+    "code": "22287",
+    "districtId": "D22",
+    "name": "Teripeha"
+  },
+  {
+    "code": "42558",
+    "districtId": "D19",
+    "name": "Thadduvankoddy"
+  },
+  {
+    "code": "60208",
+    "districtId": "D01",
+    "name": "Thalahitimulla"
+  },
+  {
+    "code": "60624",
+    "districtId": "D01",
+    "name": "Thalakolawewa"
+  },
+  {
+    "code": "42563",
+    "districtId": "D19",
+    "name": "Thalayady"
+  },
+  {
+    "code": "60572",
+    "districtId": "D01",
+    "name": "Thalwita"
+  },
+  {
+    "code": "60584",
+    "districtId": "D01",
+    "name": "Thambagalla"
+  },
+  {
+    "code": "30024",
+    "districtId": "D06",
+    "name": "Thannamunai"
+  },
+  {
+    "code": "60227",
+    "districtId": "D01",
+    "name": "Tharana Udawela"
+  },
+  {
+    "code": "41190",
+    "districtId": "D03",
+    "name": "Tharapuram"
+  },
+  {
+    "code": "42512",
+    "districtId": "D19",
+    "name": "Tharmapuram"
+  },
+  {
+    "code": "30196",
+    "districtId": "D06",
+    "name": "Thettativu"
+  },
+  {
+    "code": "81280",
+    "districtId": "D07",
+    "name": "Thihagoda"
+  },
+  {
+    "code": "30236",
+    "districtId": "D06",
+    "name": "Thikkodai"
+  },
+  {
+    "code": "11532",
+    "districtId": "D08",
+    "name": "Thimbirigaskatuwa"
+  },
+  {
+    "code": "90012",
+    "districtId": "D20",
+    "name": "Thimbirigaspitiya"
+  },
+  {
+    "code": "60476",
+    "districtId": "D01",
+    "name": "Thimbiriyawa"
+  },
+  {
+    "code": "30234",
+    "districtId": "D06",
+    "name": "Thirupalugamam"
+  },
+  {
+    "code": "71619",
+    "districtId": "D24",
+    "name": "Tholangamuwa"
+  },
+  {
+    "code": "40545",
+    "districtId": "D04",
+    "name": "Thondamanaru"
+  },
+  {
+    "code": "41120",
+    "districtId": "D03",
+    "name": "Thruketheeswaram Kovil"
+  },
+  {
+    "code": "42320",
+    "districtId": "D15",
+    "name": "Thunukkai"
+  },
+  {
+    "code": "30254",
+    "districtId": "D06",
+    "name": "Thuraineelavanai"
+  },
+  {
+    "code": "80244",
+    "districtId": "D12",
+    "name": "Tiranagama"
+  },
+  {
+    "code": "50072",
+    "districtId": "D18",
+    "name": "Tirappane"
+  },
+  {
+    "code": "31016",
+    "districtId": "D11",
+    "name": "Tiriyai"
+  },
+  {
+    "code": "60453",
+    "districtId": "D01",
+    "name": "Tisogama"
+  },
+  {
+    "code": "82600",
+    "districtId": "D23",
+    "name": "Tissamaharama"
+  },
+  {
+    "code": "50558",
+    "districtId": "D18",
+    "name": "Tittagonewa"
+  },
+  {
+    "code": "10664",
+    "districtId": "D08",
+    "name": "Tittapattara"
+  },
+  {
+    "code": "61224",
+    "districtId": "D21",
+    "name": "Toduwawa"
+  },
+  {
+    "code": "31250",
+    "districtId": "D11",
+    "name": "Toppur"
+  },
+  {
+    "code": "60499",
+    "districtId": "D01",
+    "name": "Torayaya"
+  },
+  {
+    "code": "31000",
+    "districtId": "D11",
+    "name": "Trincomalee"
+  },
+  {
+    "code": "71610",
+    "districtId": "D24",
+    "name": "Tulhiriya"
+  },
+  {
+    "code": "10682",
+    "districtId": "D09",
+    "name": "Tummodara"
+  },
+  {
+    "code": "70205",
+    "districtId": "D14",
+    "name": "Tunkama"
+  },
+  {
+    "code": "71062",
+    "districtId": "D24",
+    "name": "Tuntota"
+  },
+  {
+    "code": "60426",
+    "districtId": "D01",
+    "name": "Tuttiripitigama"
+  },
+  {
+    "code": "82504",
+    "districtId": "D23",
+    "name": "Uda gomadiya"
+  },
+  {
+    "code": "20404",
+    "districtId": "D10",
+    "name": "Uda Peradeniya"
+  },
+  {
+    "code": "60241",
+    "districtId": "D01",
+    "name": "Udadeniyagama"
+  },
+  {
+    "code": "20950",
+    "districtId": "D10",
+    "name": "Udadumbara"
+  },
+  {
+    "code": "71113",
+    "districtId": "D24",
+    "name": "Udagaldeniya"
+  },
+  {
+    "code": "70154",
+    "districtId": "D14",
+    "name": "Udahawupe"
+  },
+  {
+    "code": "60533",
+    "districtId": "D01",
+    "name": "Udahena"
+  },
+  {
+    "code": "20506",
+    "districtId": "D10",
+    "name": "Udahentenna"
+  },
+  {
+    "code": "20094",
+    "districtId": "D10",
+    "name": "Udahingulwala"
+  },
+  {
+    "code": "60043",
+    "districtId": "D10",
+    "name": "Udahorombuwa"
+  },
+  {
+    "code": "70044",
+    "districtId": "D14",
+    "name": "Udakarawita"
+  },
+  {
+    "code": "80108",
+    "districtId": "D12",
+    "name": "Udalamatta"
+  },
+  {
+    "code": "22285",
+    "districtId": "D22",
+    "name": "Udamadura"
+  },
+  {
+    "code": "82638",
+    "districtId": "D23",
+    "name": "Udamattala"
+  },
+  {
+    "code": "70034",
+    "districtId": "D14",
+    "name": "Udaniriella"
+  },
+  {
+    "code": "71236",
+    "districtId": "D24",
+    "name": "Udapotha"
+  },
+  {
+    "code": "61004",
+    "districtId": "D21",
+    "name": "Udappuwa"
+  },
+  {
+    "code": "22250",
+    "districtId": "D22",
+    "name": "Udapussellawa"
+  },
+  {
+    "code": "21051",
+    "districtId": "D05",
+    "name": "Udasgiriya"
+  },
+  {
+    "code": "20802",
+    "districtId": "D10",
+    "name": "Udatalavinna"
+  },
+  {
+    "code": "21006",
+    "districtId": "D05",
+    "name": "Udatenna"
+  },
+  {
+    "code": "11054",
+    "districtId": "D08",
+    "name": "Udathuththiripitiya"
+  },
+  {
+    "code": "70190",
+    "districtId": "D14",
+    "name": "Udawalawe"
+  },
+  {
+    "code": "20722",
+    "districtId": "D10",
+    "name": "Udawatta"
+  },
+  {
+    "code": "42532",
+    "districtId": "D15",
+    "name": "Udayarkaddu"
+  },
+  {
+    "code": "20916",
+    "districtId": "D10",
+    "name": "Udispattuwa"
+  },
+  {
+    "code": "60250",
+    "districtId": "D01",
+    "name": "Udubaddawa"
+  },
+  {
+    "code": "80070",
+    "districtId": "D12",
+    "name": "Udugama"
+  },
+  {
+    "code": "11030",
+    "districtId": "D08",
+    "name": "Udugampola"
+  },
+  {
+    "code": "90226",
+    "districtId": "D20",
+    "name": "Uduhawara"
+  },
+  {
+    "code": "71521",
+    "districtId": "D24",
+    "name": "Udumulla"
+  },
+  {
+    "code": "50207",
+    "districtId": "D18",
+    "name": "Udunuwara Colony"
+  },
+  {
+    "code": "20052",
+    "districtId": "D10",
+    "name": "Uduwa"
+  },
+  {
+    "code": "20934",
+    "districtId": "D10",
+    "name": "Uduwahinna"
+  },
+  {
+    "code": "12322",
+    "districtId": "D17",
+    "name": "Uduwara"
+  },
+  {
+    "code": "20164",
+    "districtId": "D10",
+    "name": "Uduwela"
+  },
+  {
+    "code": "32060",
+    "districtId": "D16",
+    "name": "Uhana"
+  },
+  {
+    "code": "60094",
+    "districtId": "D01",
+    "name": "Uhumiya"
+  },
+  {
+    "code": "21300",
+    "districtId": "D05",
+    "name": "Ukuwela"
+  },
+  {
+    "code": "20562",
+    "districtId": "D10",
+    "name": "Ulapane"
+  },
+  {
+    "code": "70345",
+    "districtId": "D14",
+    "name": "Ullinduwawa"
+  },
+  {
+    "code": "60622",
+    "districtId": "D01",
+    "name": "Ulpotha Pallekele"
+  },
+  {
+    "code": "20965",
+    "districtId": "D10",
+    "name": "Ulpothagama"
+  },
+  {
+    "code": "80168",
+    "districtId": "D12",
+    "name": "Uluvitike"
+  },
+  {
+    "code": "51008",
+    "districtId": "D13",
+    "name": "Unagalavehera"
+  },
+  {
+    "code": "20719",
+    "districtId": "D10",
+    "name": "Unantenna"
+  },
+  {
+    "code": "80600",
+    "districtId": "D12",
+    "name": "Unawatuna"
+  },
+  {
+    "code": "71200",
+    "districtId": "D24",
+    "name": "Undugoda"
+  },
+  {
+    "code": "80214",
+    "districtId": "D12",
+    "name": "Unanvitiya"
+  },
+  {
+    "code": "30364",
+    "districtId": "D06",
+    "name": "Unnichchai"
+  },
+  {
+    "code": "20708",
+    "districtId": "D10",
+    "name": "Unuwinna"
+  },
+  {
+    "code": "50382",
+    "districtId": "D18",
+    "name": "Upuldeniya"
+  },
+  {
+    "code": "80352",
+    "districtId": "D12",
+    "name": "Uragaha"
+  },
+  {
+    "code": "80350",
+    "districtId": "D12",
+    "name": "Uragasmanhandiya"
+  },
+  {
+    "code": "90702",
+    "districtId": "D20",
+    "name": "Uraniya"
+  },
+  {
+    "code": "11126",
+    "districtId": "D08",
+    "name": "Urapola"
+  },
+  {
+    "code": "61502",
+    "districtId": "D21",
+    "name": "Uriyawa"
+  },
+  {
+    "code": "81600",
+    "districtId": "D07",
+    "name": "Urubokka"
+  },
+  {
+    "code": "81230",
+    "districtId": "D07",
+    "name": "Urugamuwa"
+  },
+  {
+    "code": "40180",
+    "districtId": "D04",
+    "name": "Urumpirai"
+  },
+  {
+    "code": "81414",
+    "districtId": "D07",
+    "name": "Urumutta"
+  },
+  {
+    "code": "42502",
+    "districtId": "D19",
+    "name": "Uruthirapuram"
+  },
+  {
+    "code": "60732",
+    "districtId": "D01",
+    "name": "Usgala Siyambalangamuwa"
+  },
+  {
+    "code": "71510",
+    "districtId": "D24",
+    "name": "Ussapitiya"
+  },
+  {
+    "code": "11328",
+    "districtId": "D08",
+    "name": "Uswetakeiyawa"
+  },
+  {
+    "code": "82278",
+    "districtId": "D23",
+    "name": "Uswewa"
+  },
+  {
+    "code": "12127",
+    "districtId": "D17",
+    "name": "Utumgama"
+  },
+  {
+    "code": "90062",
+    "districtId": "D20",
+    "name": "Uva Deegalla"
+  },
+  {
+    "code": "91054",
+    "districtId": "D02",
+    "name": "Uva Gangodagama"
+  },
+  {
+    "code": "90091",
+    "districtId": "D20",
+    "name": "Uva Karandagolla"
+  },
+  {
+    "code": "91298",
+    "districtId": "D02",
+    "name": "Uva Kudaoya"
+  },
+  {
+    "code": "90139",
+    "districtId": "D20",
+    "name": "Uva Maligatenna"
+  },
+  {
+    "code": "90192",
+    "districtId": "D20",
+    "name": "Uva Mawelagama"
+  },
+  {
+    "code": "90123",
+    "districtId": "D20",
+    "name": "Uva Neluwa"
+  },
+  {
+    "code": "91112",
+    "districtId": "D02",
+    "name": "Uva Pelwatta"
+  },
+  {
+    "code": "90188",
+    "districtId": "D20",
+    "name": "Uva Tenna"
+  },
+  {
+    "code": "90734",
+    "districtId": "D20",
+    "name": "Uva Tissapura"
+  },
+  {
+    "code": "90061",
+    "districtId": "D20",
+    "name": "Uva Uduwara"
+  },
+  {
+    "code": "90230",
+    "districtId": "D20",
+    "name": "Uva Paranagama"
+  },
+  {
+    "code": "41110",
+    "districtId": "D03",
+    "name": "Uylankulam"
+  },
+  {
+    "code": "42405",
+    "districtId": "D19",
+    "name": "Vaddakachchi"
+  },
+  {
+    "code": "41150",
+    "districtId": "D03",
+    "name": "Vaddakandal"
+  },
+  {
+    "code": "40220",
+    "districtId": "D04",
+    "name": "Vaddukoddai"
+  },
+  {
+    "code": "30424",
+    "districtId": "D06",
+    "name": "Vakaneri"
+  },
+  {
+    "code": "30450",
+    "districtId": "D06",
+    "name": "Vakarai"
+  },
+  {
+    "code": "30400",
+    "districtId": "D06",
+    "name": "Valaichenai"
+  },
+  {
+    "code": "41100",
+    "districtId": "D03",
+    "name": "Vankalai"
+  },
+  {
+    "code": "42430",
+    "districtId": "D19",
+    "name": "Vannerikulam"
+  },
+  {
+    "code": "30376",
+    "districtId": "D06",
+    "name": "Vantharumoolai"
+  },
+  {
+    "code": "40640",
+    "districtId": "D04",
+    "name": "Varany"
+  },
+  {
+    "code": "43123",
+    "districtId": "D25",
+    "name": "Varikuddiyoor"
+  },
+  {
+    "code": "40145",
+    "districtId": "D04",
+    "name": "Vasavilan"
+  },
+  {
+    "code": "42305",
+    "districtId": "D15",
+    "name": "Vavunikulam"
+  },
+  {
+    "code": "43000",
+    "districtId": "D25",
+    "name": "Vavuniya"
+  },
+  {
+    "code": "70459",
+    "districtId": "D14",
+    "name": "Veddagala"
+  },
+  {
+    "code": "91005",
+    "districtId": "D02",
+    "name": "Vedikumbura"
+  },
+  {
+    "code": "91073",
+    "districtId": "D02",
+    "name": "Veheragoda"
+  },
+  {
+    "code": "20640",
+    "districtId": "D10",
+    "name": "Velamboda"
+  },
+  {
+    "code": "40300",
+    "districtId": "D04",
+    "name": "Velanai"
+  },
+  {
+    "code": "31053",
+    "districtId": "D11",
+    "name": "Vellamanal"
+  },
+  {
+    "code": "41185",
+    "districtId": "D03",
+    "name": "Vellankulam"
+  },
+  {
+    "code": "30204",
+    "districtId": "D06",
+    "name": "Vellavely"
+  },
+  {
+    "code": "40540",
+    "districtId": "D04",
+    "name": "Velvetiturai"
+  },
+  {
+    "code": "42620",
+    "districtId": "D19",
+    "name": "Veravil"
+  },
+  {
+    "code": "12204",
+    "districtId": "D17",
+    "name": "Veyangalla"
+  },
+  {
+    "code": "11100",
+    "districtId": "D08",
+    "name": "Veyangoda"
+  },
+  {
+    "code": "41165",
+    "districtId": "D03",
+    "name": "Vidaththaltivu"
+  },
+  {
+    "code": "81508",
+    "districtId": "D07",
+    "name": "Viharahena"
+  },
+  {
+    "code": "50012",
+    "districtId": "D18",
+    "name": "Viharapalugama"
+  },
+  {
+    "code": "70348",
+    "districtId": "D14",
+    "name": "Vijeriya"
+  },
+  {
+    "code": "50110",
+    "districtId": "D18",
+    "name": "Vijithapura"
+  },
+  {
+    "code": "42625",
+    "districtId": "D19",
+    "name": "Vinayagapuram"
+  },
+  {
+    "code": "42534",
+    "districtId": "D15",
+    "name": "Visvamadukkulam"
+  },
+  {
+    "code": "82232",
+    "districtId": "D23",
+    "name": "Vitharandeniya"
+  },
+  {
+    "code": "60318",
+    "districtId": "D01",
+    "name": "Wadakada"
+  },
+  {
+    "code": "12560",
+    "districtId": "D17",
+    "name": "Wadduwa"
+  },
+  {
+    "code": "32039",
+    "districtId": "D16",
+    "name": "Wadinagala"
+  },
+  {
+    "code": "60204",
+    "districtId": "D01",
+    "name": "Wadumunnegedara"
+  },
+  {
+    "code": "10680",
+    "districtId": "D09",
+    "name": "Waga"
+  },
+  {
+    "code": "71303",
+    "districtId": "D24",
+    "name": "Wahakula"
+  },
+  {
+    "code": "50564",
+    "districtId": "D18",
+    "name": "Wahalkada"
+  },
+  {
+    "code": "50492",
+    "districtId": "D18",
+    "name": "Wahamalgollewa"
+  },
+  {
+    "code": "71304",
+    "districtId": "D24",
+    "name": "Waharaka"
+  },
+  {
+    "code": "61110",
+    "districtId": "D21",
+    "name": "Waikkala"
+  },
+  {
+    "code": "80042",
+    "districtId": "D12",
+    "name": "Wakwella"
+  },
+  {
+    "code": "50086",
+    "districtId": "D18",
+    "name": "Walagambahuwa"
+  },
+  {
+    "code": "12112",
+    "districtId": "D17",
+    "name": "Walagedara"
+  },
+  {
+    "code": "80046",
+    "districtId": "D12",
+    "name": "Walahanduwa"
+  },
+  {
+    "code": "81294",
+    "districtId": "D07",
+    "name": "Walakanda"
+  },
+  {
+    "code": "60198",
+    "districtId": "D01",
+    "name": "Walakumburumulla"
+  },
+  {
+    "code": "12134",
+    "districtId": "D17",
+    "name": "Walallawita"
+  },
+  {
+    "code": "22270",
+    "districtId": "D22",
+    "name": "Walapane"
+  },
+  {
+    "code": "81220",
+    "districtId": "D07",
+    "name": "Walasgala"
+  },
+  {
+    "code": "82450",
+    "districtId": "D23",
+    "name": "Walasmulla"
+  },
+  {
+    "code": "21048",
+    "districtId": "D05",
+    "name": "Walawela"
+  },
+  {
+    "code": "70138",
+    "districtId": "D14",
+    "name": "Waleboda"
+  },
+  {
+    "code": "11146",
+    "districtId": "D08",
+    "name": "Walgammulla"
+  },
+  {
+    "code": "11226",
+    "districtId": "D08",
+    "name": "Walpita"
+  },
+  {
+    "code": "32454",
+    "districtId": "D16",
+    "name": "Wanagamuwa"
+  },
+  {
+    "code": "11068",
+    "districtId": "D08",
+    "name": "Wanaluwawa"
+  },
+  {
+    "code": "61306",
+    "districtId": "D21",
+    "name": "Wanathawilluwa"
+  },
+  {
+    "code": "80120",
+    "districtId": "D12",
+    "name": "Wanchawala"
+  },
+  {
+    "code": "80100",
+    "districtId": "D12",
+    "name": "Wanduramba"
+  },
+  {
+    "code": "31308",
+    "districtId": "D11",
+    "name": "Wanela"
+  },
+  {
+    "code": "60721",
+    "districtId": "D01",
+    "name": "Wannikudawewa"
+  },
+  {
+    "code": "60722",
+    "districtId": "D01",
+    "name": "Wannilhalagama"
+  },
+  {
+    "code": "60490",
+    "districtId": "D01",
+    "name": "Wannirasnayakapura"
+  },
+  {
+    "code": "71600",
+    "districtId": "D24",
+    "name": "Warakapola"
+  },
+  {
+    "code": "81479",
+    "districtId": "D07",
+    "name": "Waralla"
+  },
+  {
+    "code": "60739",
+    "districtId": "D01",
+    "name": "Warawewa"
+  },
+  {
+    "code": "60400",
+    "districtId": "D01",
+    "name": "Wariyapola"
+  },
+  {
+    "code": "80084",
+    "districtId": "D12",
+    "name": "Warukandeniya"
+  },
+  {
+    "code": "91198",
+    "districtId": "D02",
+    "name": "Warunagama"
+  },
+  {
+    "code": "21160",
+    "districtId": "D05",
+    "name": "Wasalakotte"
+  },
+  {
+    "code": "12580",
+    "districtId": "D17",
+    "name": "Waskaduwa"
+  },
+  {
+    "code": "20134",
+    "districtId": "D10",
+    "name": "Watagoda Harispattuwa"
+  },
+  {
+    "code": "22110",
+    "districtId": "D22",
+    "name": "Watagoda"
+  },
+  {
+    "code": "20508",
+    "districtId": "D10",
+    "name": "Watakedeniya"
+  },
+  {
+    "code": "70408",
+    "districtId": "D14",
+    "name": "Watapotha"
+  },
+  {
+    "code": "10511",
+    "districtId": "D09",
+    "name": "Watareka"
+  },
+  {
+    "code": "22010",
+    "districtId": "D22",
+    "name": "Watawala"
+  },
+  {
+    "code": "11724",
+    "districtId": "D08",
+    "name": "Wathurugama"
+  },
+  {
+    "code": "11104",
+    "districtId": "D08",
+    "name": "Watinapaha"
+  },
+  {
+    "code": "11301",
+    "districtId": "D08",
+    "name": "Wattala Market Junction"
+  },
+  {
+    "code": "11300",
+    "districtId": "D08",
+    "name": "Wattala"
+  },
+  {
+    "code": "20454",
+    "districtId": "D10",
+    "name": "Wattappola"
+  },
+  {
+    "code": "20810",
+    "districtId": "D10",
+    "name": "Wattegama"
+  },
+  {
+    "code": "61198",
+    "districtId": "D21",
+    "name": "Watugahamulla"
+  },
+  {
+    "code": "80340",
+    "districtId": "D12",
+    "name": "Watugedara"
+  },
+  {
+    "code": "71035",
+    "districtId": "D24",
+    "name": "Watura"
+  },
+  {
+    "code": "70456",
+    "districtId": "D14",
+    "name": "Waturawa"
+  },
+  {
+    "code": "60262",
+    "districtId": "D01",
+    "name": "Watuwatta"
+  },
+  {
+    "code": "11858",
+    "districtId": "D08",
+    "name": "Weboda"
+  },
+  {
+    "code": "71702",
+    "districtId": "D24",
+    "name": "Weeoya"
+  },
+  {
+    "code": "82240",
+    "districtId": "D23",
+    "name": "Weeraketiya"
+  },
+  {
+    "code": "60267",
+    "districtId": "D01",
+    "name": "Weerakodiyana"
+  },
+  {
+    "code": "60097",
+    "districtId": "D01",
+    "name": "Weerambugedara"
+  },
+  {
+    "code": "60454",
+    "districtId": "D01",
+    "name": "Weerapokuna"
+  },
+  {
+    "code": "82615",
+    "districtId": "D23",
+    "name": "Weerawila New Town"
+  },
+  {
+    "code": "82632",
+    "districtId": "D23",
+    "name": "Weerawila"
+  },
+  {
+    "code": "71234",
+    "districtId": "D24",
+    "name": "Wegalla"
+  },
+  {
+    "code": "11562",
+    "districtId": "D08",
+    "name": "Wegowwa"
+  },
+  {
+    "code": "91206",
+    "districtId": "D02",
+    "name": "Weherayaya Handapanagala"
+  },
+  {
+    "code": "21009",
+    "districtId": "D05",
+    "name": "Wehigala"
+  },
+  {
+    "code": "80216",
+    "districtId": "D12",
+    "name": "Weihena"
+  },
+  {
+    "code": "82246",
+    "districtId": "D23",
+    "name": "Wekandawela"
+  },
+  {
+    "code": "21408",
+    "districtId": "D05",
+    "name": "Welangahawatte"
+  },
+  {
+    "code": "60464",
+    "districtId": "D01",
+    "name": "Welawa Junction"
+  },
+  {
+    "code": "90035",
+    "districtId": "D20",
+    "name": "Welgollagama"
+  },
+  {
+    "code": "20610",
+    "districtId": "D10",
+    "name": "Weligalla"
+  },
+  {
+    "code": "81700",
+    "districtId": "D07",
+    "name": "Weligama"
+  },
+  {
+    "code": "20666",
+    "districtId": "D10",
+    "name": "Weligampola"
+  },
+  {
+    "code": "82004",
+    "districtId": "D23",
+    "name": "Weligatta"
+  },
+  {
+    "code": "70104",
+    "districtId": "D14",
+    "name": "Weligepola"
+  },
+  {
+    "code": "71712",
+    "districtId": "D24",
+    "name": "Welihelatenna"
+  },
+  {
+    "code": "51070",
+    "districtId": "D13",
+    "name": "Welikanda"
+  },
+  {
+    "code": "90200",
+    "districtId": "D20",
+    "name": "Welimada"
+  },
+  {
+    "code": "50358",
+    "districtId": "D18",
+    "name": "Welimuwapotana"
+  },
+  {
+    "code": "50586",
+    "districtId": "D18",
+    "name": "Welioya Project"
+  },
+  {
+    "code": "70124",
+    "districtId": "D14",
+    "name": "Welipathayaya"
+  },
+  {
+    "code": "12108",
+    "districtId": "D17",
+    "name": "Welipenna"
+  },
+  {
+    "code": "60240",
+    "districtId": "D01",
+    "name": "Welipennagahamulla"
+  },
+  {
+    "code": "81720",
+    "districtId": "D07",
+    "name": "Welipitiya"
+  },
+  {
+    "code": "11710",
+    "districtId": "D08",
+    "name": "Weliveriya"
+  },
+  {
+    "code": "60402",
+    "districtId": "D01",
+    "name": "Wellegala"
+  },
+  {
+    "code": "70293",
+    "districtId": "D14",
+    "name": "Wellandura"
+  },
+  {
+    "code": "60456",
+    "districtId": "D01",
+    "name": "Wellarawa"
+  },
+  {
+    "code": "60570",
+    "districtId": "D01",
+    "name": "Wellawa"
+  },
+  {
+    "code": "00600",
+    "districtId": "D09",
+    "name": "Wellawatta"
+  },
+  {
+    "code": "91200",
+    "districtId": "D02",
+    "name": "Wellawaya"
+  },
+  {
+    "code": "12534",
+    "districtId": "D17",
+    "name": "Welmilla Junction"
+  },
+  {
+    "code": "60206",
+    "districtId": "D01",
+    "name": "Welpalla"
+  },
+  {
+    "code": "20914",
+    "districtId": "D10",
+    "name": "Wendaruwa"
+  },
+  {
+    "code": "61170",
+    "districtId": "D21",
+    "name": "Wennappuwa"
+  },
+  {
+    "code": "60284",
+    "districtId": "D01",
+    "name": "Wennoruwa"
+  },
+  {
+    "code": "71622",
+    "districtId": "D24",
+    "name": "Weragala"
+  },
+  {
+    "code": "20982",
+    "districtId": "D10",
+    "name": "Weragantota"
+  },
+  {
+    "code": "32062",
+    "districtId": "D16",
+    "name": "Weranketagoda"
+  },
+  {
+    "code": "20908",
+    "districtId": "D10",
+    "name": "Werapitiya"
+  },
+  {
+    "code": "20080",
+    "districtId": "D10",
+    "name": "Werellagama"
+  },
+  {
+    "code": "20108",
+    "districtId": "D10",
+    "name": "Wettewa"
+  },
+  {
+    "code": "60080",
+    "districtId": "D01",
+    "name": "Weuda"
+  },
+  {
+    "code": "60195",
+    "districtId": "D01",
+    "name": "Wewagama"
+  },
+  {
+    "code": "21114",
+    "districtId": "D05",
+    "name": "Wewalawewa"
+  },
+  {
+    "code": "90716",
+    "districtId": "D20",
+    "name": "Wewatta"
+  },
+  {
+    "code": "11894",
+    "districtId": "D08",
+    "name": "Weweldeniya"
+  },
+  {
+    "code": "70066",
+    "districtId": "D14",
+    "name": "Wewelwatta"
+  },
+  {
+    "code": "22032",
+    "districtId": "D22",
+    "name": "Widulipura"
+  },
+  {
+    "code": "22018",
+    "districtId": "D22",
+    "name": "Wijayabahukanda"
+  },
+  {
+    "code": "51042",
+    "districtId": "D13",
+    "name": "Wijayabahupura"
+  },
+  {
+    "code": "61006",
+    "districtId": "D21",
+    "name": "Wijayakatupotha"
+  },
+  {
+    "code": "70114",
+    "districtId": "D14",
+    "name": "Wikiliya"
+  },
+  {
+    "code": "20142",
+    "districtId": "D10",
+    "name": "Wilanagama"
+  },
+  {
+    "code": "91022",
+    "districtId": "D02",
+    "name": "Wilaoya"
+  },
+  {
+    "code": "21530",
+    "districtId": "D05",
+    "name": "Wilgamuwa"
+  },
+  {
+    "code": "81404",
+    "districtId": "D07",
+    "name": "Wilpita"
+  },
+  {
+    "code": "61008",
+    "districtId": "D21",
+    "name": "Wilpotha"
+  },
+  {
+    "code": "90034",
+    "districtId": "D20",
+    "name": "Wineethagama"
+  },
+  {
+    "code": "60465",
+    "districtId": "D01",
+    "name": "Withikuliya"
+  },
+  {
+    "code": "12124",
+    "districtId": "D17",
+    "name": "Yagirala"
+  },
+  {
+    "code": "20234",
+    "districtId": "D10",
+    "name": "Yahalatenna"
+  },
+  {
+    "code": "11870",
+    "districtId": "D08",
+    "name": "Yakkala"
+  },
+  {
+    "code": "80150",
+    "districtId": "D12",
+    "name": "Yakkalamulla"
+  },
+  {
+    "code": "60202",
+    "districtId": "D01",
+    "name": "Yakwila"
+  },
+  {
+    "code": "90329",
+    "districtId": "D20",
+    "name": "Yalagamuwa"
+  },
+  {
+    "code": "90706",
+    "districtId": "D20",
+    "name": "Yalwela"
+  },
+  {
+    "code": "12104",
+    "districtId": "D17",
+    "name": "Yatadolawatta"
+  },
+  {
+    "code": "71116",
+    "districtId": "D24",
+    "name": "Yatagama"
+  },
+  {
+    "code": "80107",
+    "districtId": "D12",
+    "name": "Yatalamatta"
+  },
+  {
+    "code": "71326",
+    "districtId": "D24",
+    "name": "Yatapana"
+  },
+  {
+    "code": "12006",
+    "districtId": "D17",
+    "name": "Yatawara Junction"
+  },
+  {
+    "code": "21056",
+    "districtId": "D05",
+    "name": "Yatawatta"
+  },
+  {
+    "code": "82418",
+    "districtId": "D23",
+    "name": "Yatigala"
+  },
+  {
+    "code": "60314",
+    "districtId": "D01",
+    "name": "Yatigaloluwa"
+  },
+  {
+    "code": "20034",
+    "districtId": "D10",
+    "name": "Yatihalagala"
+  },
+  {
+    "code": "60345",
+    "districtId": "D01",
+    "name": "Yatikaduruwa"
+  },
+  {
+    "code": "20529",
+    "districtId": "D10",
+    "name": "Yatipiyangala"
+  },
+  {
+    "code": "81034",
+    "districtId": "D07",
+    "name": "Yatiyana"
+  },
+  {
+    "code": "71700",
+    "districtId": "D24",
+    "name": "Yatiyantota"
+  },
+  {
+    "code": "12147",
+    "districtId": "D17",
+    "name": "Yattapatha Sinharaja Gardens"
+  },
+  {
+    "code": "71029",
+    "districtId": "D24",
+    "name": "Yattogoda"
+  },
+  {
+    "code": "51422",
+    "districtId": "D13",
+    "name": "Yodaela"
+  },
+  {
+    "code": "42315",
+    "districtId": "D15",
+    "name": "Yogapuram"
+  },
+  {
+    "code": "61144",
+    "districtId": "D21",
+    "name": "Yogiyana"
+  },
+  {
+    "code": "51424",
+    "districtId": "D13",
+    "name": "Yudaganawa"
+  }
+]

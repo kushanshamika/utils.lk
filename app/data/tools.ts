@@ -11,10 +11,10 @@ export const tools: Tool[] = [
     isNew: true,
   },
   {
-    id: 'postal-code',
+    id: 'postal-codes',
     name: 'Postal Code Finder',
     description: 'Find postal codes for Sri Lankan cities and areas',
-    href: '/postal-code',
+    href: '/postal-codes',
     icon: '📮',
     category: 'Location',
   }

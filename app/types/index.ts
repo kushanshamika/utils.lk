@@ -7,3 +7,8 @@ export interface Tool {
   category?: string;
   isNew?: boolean;
 }
+
+export interface PostalCode {
+  code: string;
+  name: string;
+}
