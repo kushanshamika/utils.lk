@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import ToolGrid from '@/components/tools/ToolGrid';
 import { tools } from '@/data/tools';
 
@@ -40,7 +41,7 @@ export default function Home() {
             <h2 className="text-3xl font-bold text-gray-900 mb-3">
               Available Tools
             </h2>
-            <p className="text-gray-600">
+            <p className="text-lg text-gray-700 font-medium">
               Choose a tool below to get started. All tools are free and work instantly.
             </p>
           </div>
@@ -59,12 +60,15 @@ export default function Home() {
             We're constantly adding new utilities to help make your life easier. 
             Check back regularly for updates.
           </p>
-          <div className="inline-flex items-center gap-2 bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-shadow">
+          <Link 
+            href="/suggest-tool"
+            className="inline-flex items-center gap-2 bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-shadow cursor-pointer"
+          >
             <span>Suggest a Tool</span>
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
             </svg>
-          </div>
+          </Link>
         </div>
       </section>
     </div>
