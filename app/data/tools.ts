@@ -17,5 +17,15 @@ export const tools: Tool[] = [
     href: '/postal-codes',
     icon: '📮',
     category: 'Location',
-  }
+    isNew: true,
+  },
+  {
+    id: 'admin-divisions',
+    name: 'Administrative Division Finder',
+    description: 'Find GN division, DS, district, and province for any village',
+    href: '/admin-divisions',
+    icon: '🗺️',
+    category: 'Location',
+    isNew: true,
+  },
 ];

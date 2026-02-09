@@ -1,0 +1,38 @@
+[
+  {
+    "id": "P01",
+    "name": "North-Western"
+  },
+  {
+    "id": "P02",
+    "name": "Uva"
+  },
+  {
+    "id": "P03",
+    "name": "Northern"
+  },
+  {
+    "id": "P04",
+    "name": "Central"
+  },
+  {
+    "id": "P05",
+    "name": "Eastern"
+  },
+  {
+    "id": "P06",
+    "name": "Southern"
+  },
+  {
+    "id": "P07",
+    "name": "Western"
+  },
+  {
+    "id": "P08",
+    "name": "North-Central"
+  },
+  {
+    "id": "P09",
+    "name": "Sabaragamuwa"
+  }
+]

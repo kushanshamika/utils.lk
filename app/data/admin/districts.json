@@ -1,0 +1,127 @@
+[
+  {
+    "id": "D01",
+    "provinceId": "P01",
+    "name": "Kurunegala"
+  },
+  {
+    "id": "D02",
+    "provinceId": "P02",
+    "name": "Moneragala"
+  },
+  {
+    "id": "D03",
+    "provinceId": "P03",
+    "name": "Mannar"
+  },
+  {
+    "id": "D04",
+    "provinceId": "P03",
+    "name": "Jaffna"
+  },
+  {
+    "id": "D05",
+    "provinceId": "P04",
+    "name": "Matale"
+  },
+  {
+    "id": "D06",
+    "provinceId": "P05",
+    "name": "Batticaloa"
+  },
+  {
+    "id": "D07",
+    "provinceId": "P06",
+    "name": "Matara"
+  },
+  {
+    "id": "D08",
+    "provinceId": "P07",
+    "name": "Gampaha"
+  },
+  {
+    "id": "D09",
+    "provinceId": "P07",
+    "name": "Colombo"
+  },
+  {
+    "id": "D10",
+    "provinceId": "P04",
+    "name": "Kandy"
+  },
+  {
+    "id": "D11",
+    "provinceId": "P05",
+    "name": "Trincomalee"
+  },
+  {
+    "id": "D12",
+    "provinceId": "P06",
+    "name": "Galle"
+  },
+  {
+    "id": "D13",
+    "provinceId": "P08",
+    "name": "Polonnaruwa"
+  },
+  {
+    "id": "D14",
+    "provinceId": "P09",
+    "name": "Ratnapura"
+  },
+  {
+    "id": "D15",
+    "provinceId": "P03",
+    "name": "Mullaitivu"
+  },
+  {
+    "id": "D16",
+    "provinceId": "P05",
+    "name": "Ampara"
+  },
+  {
+    "id": "D17",
+    "provinceId": "P07",
+    "name": "Kalutara"
+  },
+  {
+    "id": "D18",
+    "provinceId": "P08",
+    "name": "Anuradhapura"
+  },
+  {
+    "id": "D19",
+    "provinceId": "P03",
+    "name": "Kilinochchi"
+  },
+  {
+    "id": "D20",
+    "provinceId": "P02",
+    "name": "Badulla"
+  },
+  {
+    "id": "D21",
+    "provinceId": "P01",
+    "name": "Puttalam"
+  },
+  {
+    "id": "D22",
+    "provinceId": "P04",
+    "name": "Nuwara Eliya"
+  },
+  {
+    "id": "D23",
+    "provinceId": "P06",
+    "name": "Hambantota"
+  },
+  {
+    "id": "D24",
+    "provinceId": "P09",
+    "name": "Kegalle"
+  },
+  {
+    "id": "D25",
+    "provinceId": "P03",
+    "name": "Vavuniya"
+  }
+]
