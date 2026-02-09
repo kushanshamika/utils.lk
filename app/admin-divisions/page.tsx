@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react';
 import { searchVillages, getAdministrativeHierarchy, getVillageCount } from '@/utils/admin-lookup';
 import { Village, AdministrativeHierarchy } from '@/types';
+import ToolSchema from '@/components/seo/ToolSchema';
 
 export default function AdminDivisionsPage() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -41,15 +42,21 @@ export default function AdminDivisionsPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-green-50 via-white to-emerald-50 py-12 px-4">
+      <ToolSchema
+        name="Sri Lanka Administrative Division Finder"
+        description="Find Grama Niladhari Division, Divisional Secretariat, District, and Province for any village in Sri Lanka."
+        url="https://utils.lk/admin-divisions"
+      />
+      
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
           <div className="text-6xl mb-4">🗺️</div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Administrative Division Finder
+            Find Your Grama Niladhari Division
           </h1>
           <p className="text-lg text-gray-600">
-            Find the administrative hierarchy for any village in Sri Lanka
+            Find the complete administrative hierarchy for any village in Sri Lanka
           </p>
           <div className="mt-4 inline-flex items-center gap-2 bg-green-100 text-green-800 px-4 py-2 rounded-full text-sm font-medium">
             <span>🏘️</span>

@@ -3,6 +3,7 @@
 import { useState } from 'react';
 import { validateAndExtractNIC, formatDate } from '@/utils/nic-validator';
 import { NICInfo } from '@/types';
+import ToolSchema from '@/components/seo/ToolSchema';
 
 export default function NICInfoExtractorPage() {
   const [nicInput, setNicInput] = useState('');
@@ -44,12 +45,18 @@ export default function NICInfoExtractorPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-blue-50 py-12 px-4">
+      <ToolSchema
+        name="Sri Lankan NIC Information Extractor"
+        description="Extract birth date, age, and gender from Sri Lankan NIC numbers. Supports old and new NIC formats."
+        url="https://utils.lk/nic-info-extractor"
+      />
+      
       <div className="max-w-3xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
           <div className="text-6xl mb-4">🪪</div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            NIC Info Extractor
+            Sri Lankan NIC Information Extractor
           </h1>
           <p className="text-lg text-gray-600">
             Extract birth date, age, and gender from Sri Lankan NIC numbers

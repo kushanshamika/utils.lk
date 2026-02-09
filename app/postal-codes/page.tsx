@@ -3,6 +3,7 @@
 import { useState, useMemo } from 'react';
 import postalCodesData from '@/data/postal-codes.json';
 import { PostalCode } from '@/types';
+import ToolSchema from '@/components/seo/ToolSchema';
 
 export default function PostalCodesPage() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -47,15 +48,21 @@ export default function PostalCodesPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50 py-12 px-4">
+      <ToolSchema
+        name="Sri Lanka Postal Code Finder"
+        description="Find postal codes for all cities and areas in Sri Lanka. Free online tool with 20,000+ locations."
+        url="https://utils.lk/postal-codes"
+      />
+      
       <div className="max-w-3xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
           <div className="text-6xl mb-4">📮</div>
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Postal Code Finder
+            Sri Lanka Postal Code Finder
           </h1>
           <p className="text-lg text-gray-600">
-            Search for postal codes across Sri Lanka
+            Find postal codes for all cities and areas across Sri Lanka
           </p>
         </div>
 
