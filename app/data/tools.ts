@@ -28,4 +28,13 @@ export const tools: Tool[] = [
     category: 'Location',
     isNew: true,
   },
+  {
+    id: 'school-census-finder',
+    name: 'School Census Number Finder',
+    description: 'Find school census numbers for 8,000+ schools in Sri Lanka',
+    href: '/school-census-finder',
+    icon: '🏫',
+    category: 'Education',
+    isNew: true,
+  },
 ];
