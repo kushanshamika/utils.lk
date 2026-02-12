@@ -1,0 +1,163 @@
+[
+  {
+    "year": 2026,
+    "holidays": [
+      {
+        "id": 1,
+        "date": "2026-01-03",
+        "name": "Duruthu Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 2,
+        "date": "2026-01-15",
+        "name": "Tamil Thai Pongal Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 3,
+        "date": "2026-02-01",
+        "name": "Nawam Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 4,
+        "date": "2026-02-04",
+        "name": "Independence Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 5,
+        "date": "2026-02-15",
+        "name": "Maha Sivarathri Day",
+        "types": ["public", "bank"]
+      },
+      {
+        "id": 6,
+        "date": "2026-03-02",
+        "name": "Medin Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 7,
+        "date": "2026-03-21",
+        "name": "Id-Ul-Fitr (Ramazan Festival Day)",
+        "types": ["public", "bank"]
+      },
+      {
+        "id": 8,
+        "date": "2026-04-01",
+        "name": "Bak Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 9,
+        "date": "2026-04-03",
+        "name": "Good Friday",
+        "types": ["public", "bank"]
+      },
+      {
+        "id": 10,
+        "date": "2026-04-13",
+        "name": "Day Prior to Sinhala and Tamil New Year Da",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 11,
+        "date": "2026-04-14",
+        "name": "Sinhala and Tamil New Year Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 12,
+        "date": "2026-05-01",
+        "name": "Vesak Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 13,
+        "date": "2026-05-01",
+        "name": "May Day (International Workers’ Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 14,
+        "date": "2026-05-02",
+        "name": "Day Following Vesak Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 15,
+        "date": "2026-05-28",
+        "name": "Id-Ul-Alha (Hadji Festival Day)",
+        "types": ["public", "bank"]
+      },
+      {
+        "id": 16,
+        "date": "2026-05-30",
+        "name": "Adhi Poson Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 17,
+        "date": "2026-06-29",
+        "name": "Poson Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 18,
+        "date": "2026-07-29",
+        "name": "Esala Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 19,
+        "date": "2026-08-26",
+        "name": "Milad-Un-Nabi (Holy Prophet’s Birthday)",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 20,
+        "date": "2026-08-27",
+        "name": "Nikini Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 21,
+        "date": "2026-09-26",
+        "name": "Binara Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 22,
+        "date": "2026-10-25",
+        "name": "Vap Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 23,
+        "date": "2026-11-08",
+        "name": "Deepavali Festival Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 24,
+        "date": "2026-11-24",
+        "name": "Il Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 25,
+        "date": "2026-12-23",
+        "name": "Unduvap Full Moon Poya Day",
+        "types": ["public", "bank", "mercantile"]
+      },
+      {
+        "id": 26,
+        "date": "2026-12-25",
+        "name": "Christmas Day",
+        "types": ["public", "bank", "mercantile"]
+      }
+    ]
+  }
+]

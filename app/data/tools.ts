@@ -11,13 +11,21 @@ export const tools: Tool[] = [
     isNew: true,
   },
   {
-    id: 'postal-codes',
+    id: 'holidays',
+    name: 'Public Holiday List',
+    description: 'Sri Lanka public, bank & mercantile holidays with countdown',
+    href: '/holidays',
+    icon: '📅',
+    category: 'General',
+    isNew: true,
+  },
+  {
+    id: 'postal-code',
     name: 'Postal Code Finder',
     description: 'Find postal codes for Sri Lankan cities and areas',
     href: '/postal-codes',
     icon: '📮',
     category: 'Location',
-    isNew: true,
   },
   {
     id: 'admin-divisions',
@@ -26,7 +34,6 @@ export const tools: Tool[] = [
     href: '/admin-divisions',
     icon: '🗺️',
     category: 'Location',
-    isNew: true,
   },
   {
     id: 'school-census-finder',
