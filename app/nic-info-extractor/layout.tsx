@@ -1,4 +1,12 @@
 import type { Metadata } from "next";
+import { generateOgImageUrl } from '@/utils/og-image';
+
+const ogImage = generateOgImageUrl({
+  title: 'Sri Lankan NIC Information Extractor',
+  description: 'Extract information from Sri Lankan NIC numbers instantly',
+  icon: '🪪',
+  category: 'Identity',
+});
 
 export const metadata: Metadata = {
   title: "Sri Lankan NIC Information Extractor | Extract Birth Date, Age & Gender from NIC",
@@ -11,11 +19,20 @@ export const metadata: Metadata = {
     siteName: "utils.lk",
     locale: "en_LK",
     type: "website",
+    images: [
+      {
+        url: ogImage,
+        width: 1200,
+        height: 630,
+        alt: 'Sri Lankan NIC Information Extractor',
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Sri Lankan NIC Information Extractor",
     description: "Extract information from Sri Lankan NIC numbers instantly",
+    images: [ogImage],
   },
   alternates: {
     canonical: "https://utils.lk/nic-info-extractor",

@@ -1,4 +1,12 @@
 import type { Metadata } from "next";
+import { generateOgImageUrl } from '@/utils/og-image';
+
+const ogImage = generateOgImageUrl({
+  title: 'Sri Lanka School Census Number Finder',
+  description: 'Find school census numbers for any school in Sri Lanka',
+  icon: '🏫',
+  category: 'Education',
+});
 
 export const metadata: Metadata = {
   title: "School Census Number Finder Sri Lanka | Find School Census Numbers",
@@ -11,11 +19,20 @@ export const metadata: Metadata = {
     siteName: "utils.lk",
     locale: "en_LK",
     type: "website",
+    images: [
+      {
+        url: ogImage,
+        width: 1200,
+        height: 630,
+        alt: 'Sri Lanka School Census Number Finder',
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Sri Lanka School Census Number Finder",
     description: "Find school census numbers for any school in Sri Lanka",
+    images: [ogImage],
   },
   alternates: {
     canonical: "https://utils.lk/school-census-finder",
