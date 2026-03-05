@@ -39,7 +39,7 @@ export async function GET(request: NextRequest) {
           </div>
           <div
             style={{
-              display: 'inline-flex',
+              display: 'flex',
               alignItems: 'center',
               background: 'rgba(251, 191, 36, 0.1)',
               border: '2px solid rgba(251, 191, 36, 0.3)',
@@ -106,6 +106,7 @@ export async function GET(request: NextRequest) {
                 fontWeight: 900,
                 background: 'linear-gradient(90deg, #fbbf24 0%, #f59e0b 100%)',
                 backgroundClip: 'text',
+                WebkitBackgroundClip: 'text',
                 color: 'transparent',
                 letterSpacing: '-0.03em',
               }}
