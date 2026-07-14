@@ -8,7 +8,6 @@ export const tools: Tool[] = [
     href: '/nic-info-extractor',
     icon: '🪪',
     category: 'Identity',
-    isNew: true,
   },
   {
     id: 'holidays',
@@ -17,7 +16,6 @@ export const tools: Tool[] = [
     href: '/holidays',
     icon: '📅',
     category: 'General',
-    isNew: true,
   },
   {
     id: 'postal-code',
@@ -42,6 +40,14 @@ export const tools: Tool[] = [
     href: '/school-census-finder',
     icon: '🏫',
     category: 'Education',
+  },
+  {
+    id: 'mazda-directory',
+    name: 'Mazda Parts & Service Directory',
+    description: 'Find spare parts shops and workshops for your Mazda car in Sri Lanka',
+    href: '/mazda-directory',
+    icon: '🔧',
+    category: 'Automotive',
     isNew: true,
   },
 ];

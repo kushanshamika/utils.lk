@@ -1,0 +1,326 @@
+[
+  {
+    "id": "1",
+    "name": "BJ Auto Parts",
+    "categories": [
+      "Spare Parts",
+      "Workshop"
+    ],
+    "location": "Hokandara",
+    "description": "Specialized in Mazda Familia BJ, Demio DW to latest models. Recon parts & running repairs available.",
+    "mapsUrl": "https://maps.app.goo.gl/NWmwzMzR5ThcfNZq8",
+    "phone": "0775837847",
+    "logoUrl": "https://placehold.co/96x96/55606B/FFFFFF?text=BJ",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100057195829991"
+  },
+  {
+    "id": "2",
+    "name": "New Rainbow Motor Stores",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Panchikawatte",
+    "description": "Specializing in Mazda spare parts and running parts.",
+    "mapsUrl": "https://maps.app.goo.gl/xbYbBwRkMngpmLTC9",
+    "phone": "0112459227",
+    "logoUrl": "https://i.ibb.co/DHB9FJ1Y/330495063-890150895658622-2749793465524023240-n.jpg",
+    "facebookUrl": "https://www.facebook.com/p/New-Rainbow-Motor-Stores-100090087947459"
+  },
+  {
+    "id": "3",
+    "name": "New Auto Asia",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Panchikawatte",
+    "description": "Specializing in Mazda spare parts and running parts.",
+    "mapsUrl": "https://maps.app.goo.gl/kWGfAG4rmj3qR6Z98",
+    "phone": "0778472282",
+    "logoUrl": "https://i.ibb.co/FL8BqdPq/182510840-111771721167505-81242467872999527-n.jpg",
+    "facebookUrl": "https://www.facebook.com/newautoasia/"
+  },
+  {
+    "id": "4",
+    "name": "Mazda Parts LK",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Ratmalana",
+    "description": "Brand new and reconditioned spare parts. ECU specialists.",
+    "phone": "0718136607",
+    "facebookUrl": "https://www.facebook.com/p/MAZDA-PARTS-LK-100086147177897/"
+  },
+  {
+    "id": "5",
+    "name": "Colonial Motors",
+    "categories": [
+      "Spare Parts",
+      "Workshop"
+    ],
+    "location": "Battaramulla",
+    "description": "Authorized Mazda dealer in Sri Lanka. Services and spare parts available.",
+    "mapsUrl": "https://maps.app.goo.gl/q6ynDMWMu9JeMio3A",
+    "phone": "0112785800",
+    "logoUrl": "https://i.ibb.co/ZpRTV2Jj/301520763-414014207490333-2623520281950231974-n.png",
+    "facebookUrl": "https://www.facebook.com/MazdaLanka/",
+    "website": "https://www.mazdalanka.lk"
+  },
+  {
+    "id": "6",
+    "name": "Mazna Motors",
+    "categories": [
+      "Spare Parts",
+      "Workshop"
+    ],
+    "location": "Dehiwala",
+    "description": "Mazda spare parts and running repairs available.",
+    "mapsUrl": "https://maps.app.goo.gl/Ey9uBfQwmxekSPsHA",
+    "phone": "0714242464"
+  },
+  {
+    "id": "7",
+    "name": "C- MAX Motor House",
+    "categories": [
+      "Workshop"
+    ],
+    "location": "Ragama",
+    "description": "Specialized Mazda workshop.",
+    "mapsUrl": "https://maps.app.goo.gl/toYf4vyMuxs1KPqn6",
+    "phone": "0774210029",
+    "logoUrl": "https://i.ibb.co/fY0hF9Tm/275615351-147618484400250-8063170382201296980-n.jpg",
+    "facebookUrl": "https://www.facebook.com/c.max.automobile"
+  },
+  {
+    "id": "8",
+    "name": "Athyantha Automobiles",
+    "categories": [
+      "Workshop"
+    ],
+    "location": "Gampaha",
+    "description": "Specialized Mazda workshop.",
+    "mapsUrl": "https://maps.app.goo.gl/MjALJpnGFUbDZiKi6",
+    "phone": "0729007272",
+    "logoUrl": "https://i.ibb.co/5gDthbWQ/468660702-9796834896998867-9010029108474007751-n.jpg",
+    "facebookUrl": "https://www.facebook.com/p/Athyantha-Automobiles-61569039434286/"
+  },
+  {
+    "id": "9",
+    "name": "Pala Auto Electricals",
+    "categories": [
+      "Workshop"
+    ],
+    "location": "Orugodawatta",
+    "description": "Auto electrical specialists.",
+    "mapsUrl": "https://maps.app.goo.gl/yz7tCEaHQjC7QWHf8",
+    "phone": "0712725511",
+    "logoUrl": "https://i.ibb.co/F4dL2DHd/294539494-551284713459361-6417428985988313393-n.jpg",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=100057335114622"
+  },
+  {
+    "id": "10",
+    "name": "Sumudu Automobiles | SL Renesis Build",
+    "categories": [
+      "Workshop"
+    ],
+    "location": "Piliyandala",
+    "description": "Specialized in Mazda RX-8. We source parts ourselves.",
+    "mapsUrl": "https://maps.app.goo.gl/KGgoTKgAKZQ82Qk87",
+    "phone": "0757515757",
+    "logoUrl": "https://placehold.co/96x96/C97A2B/1B1D21?text=SA",
+    "facebookUrl": "https://www.facebook.com/people/Sumudu-Automobile/100039448073407"
+  },
+  {
+    "id": "11",
+    "name": "Performance Automotive Engineering",
+    "categories": [
+      "Workshop"
+    ],
+    "location": "Piliyandala",
+    "description": "Specialized Mazda workshop.",
+    "mapsUrl": "https://maps.app.goo.gl/o3Gzgqx9eXSFLATaA",
+    "phone": "0770035882",
+    "logoUrl": "https://i.ibb.co/G4ZWgFvR/327274066-607777004688640-3377619073973026704-n.jpg",
+    "facebookUrl": "https://www.facebook.com/performancelk"
+  },
+  {
+    "id": "12",
+    "name": "Izumi Auto",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Dehiwala",
+    "description": "Reconditioned Mazda spare parts.",
+    "phone": "0112719840",
+    "website": "https://ikman.lk/en/shops/izumi-auto",
+    "logoUrl": "https://i.ibb.co/XZcQMfvp/300280908-399922738935472-1537000550537486478-n.jpg",
+    "mapsUrl": "https://maps.app.goo.gl/UfhWV6cNqv711zcR7"
+  },
+  {
+    "id": "13",
+    "name": "Trans Lanka Auto Parts",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Reconditioned Mazda spare parts.",
+    "mapsUrl": "https://maps.app.goo.gl/s3cve2bQv3JEXnLJ7",
+    "phone": "0777895629",
+    "logoUrl": "https://i.ibb.co/tptTPh7x/412730498-719617336767015-5637945587262792660-n.jpg",
+    "facebookUrl": "https://www.facebook.com/p/Trans-Lanka-Auto-Parts-61555018162549/"
+  },
+  {
+    "id": "14",
+    "name": "MLP Motor Parts",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Reconditioned Mazda spare parts.",
+    "phone": "0776604000",
+    "facebookUrl": "https://www.facebook.com/profile.php?id=61569094624653",
+    "logoUrl": "https://i.ibb.co/LzSZgmwD/467770043-122099626832636487-773206479221870683-n.jpg",
+    "mapsUrl": "https://maps.app.goo.gl/3pA7HyUjCFXwc8iM7"
+  },
+  {
+    "id": "15",
+    "name": "New Borella Motors",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Panchikawatta",
+    "description": "Mazda spare parts imported and supplied within 2 weeks.",
+    "mapsUrl": "https://maps.app.goo.gl/n2H4ejAPbswW9zSF6",
+    "phone": "0112394749",
+    "facebookUrl": "https://www.facebook.com/BorellaMotors/",
+    "logoUrl": "https://i.ibb.co/F4KFQdwx/361319919-602317135416835-8454630127299529161-n.png"
+  },
+  {
+    "id": "16",
+    "name": "Namaratne Motor Company",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Panchikawatta",
+    "description": "Genuine KYB shocks & suspension parts. Authorised KYB dealer, Sri Lanka.",
+    "mapsUrl": "https://maps.app.goo.gl/UomyNjk3mGPfU7W79",
+    "phone": "0772303936",
+    "facebookUrl": "https://www.facebook.com/p/Namaratne-Motor-Company-61579823345160/",
+    "logoUrl": "https://i.ibb.co/bTrk44T/539496258-122099483684994111-5773488401101484549-n.jpg",
+    "website": "https://namaratnemotors.com"
+  },
+  {
+    "id": "17",
+    "name": "Asiri motor stores",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": " Panchikawatta",
+    "description": "Specializing in Mazda spare parts and running parts.",
+    "phone": "0777706610",
+    "mapsUrl": "https://maps.app.goo.gl/bp2vNNBaH2Y15ayD9",
+    "facebookUrl": "https://www.facebook.com/p/Asiri-motors-stores-pvt-Ltd-61557384453305",
+    "logoUrl": "https://i.ibb.co/T5d1k9J/723948303-122304630302246148-5224295780997923253-n.jpg"
+  },
+  {
+    "id": "18",
+    "name": "Arosha Motors",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Peliyagoda",
+    "description": "Mazda OEM parts — brand new and reconditioned spare parts.",
+    "mapsUrl": "https://maps.app.goo.gl/Chs2U9Zi1x2HuWAT8",
+    "phone": "0112914078"
+  },
+  {
+    "id": "19",
+    "name": "Api Singhe Motors",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Reconditioned Mazda spare parts.",
+    "phone": "0777111092",
+    "mapsUrl": "https://maps.app.goo.gl/c2wFFytPYXcMo1Kt8"
+  },
+  {
+    "id": "20",
+    "name": "Chamara Auto Parts",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Reconditioned Mazda spare parts.",
+    "phone": "0768481953",
+    "mapsUrl": "https://maps.app.goo.gl/Zv8ZDsgCda8ZT9kL8",
+    "website": "http://ikman.lk/en/shops/chamara-auto-parts"
+  },
+  {
+    "id": "21",
+    "name": "Japan Lanka Auto Land",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Reconditioned Mazda spare parts.",
+    "phone": "0112825512",
+    "mapsUrl": "https://maps.app.goo.gl/r3SFLQazdFZ6nLCb8",
+    "website": "https://www.japanlankaautoparts.lk",
+    "logoUrl": "https://i.ibb.co/4ZfRg05x/logo-slider.png"
+  },
+  {
+    "id": "22",
+    "name": "TNC Automobile",
+    "categories": [
+      "Spare Parts",
+      "Workshop"
+    ],
+    "location": "Galle",
+    "description": "Mazda spare parts and running repairs available.",
+    "phone": "0112825512",
+    "mapsUrl": "https://maps.app.goo.gl/hsr2bj37mnMnM6hYA",
+    "logoUrl": "https://i.ibb.co/PGvr3yt1/243187007-102239085599488-94342500307460939-n.png",
+    "facebookUrl": "https://www.facebook.com/tncautomobile"
+  },
+  {
+    "id": "23",
+    "name": "Supreme Motor House",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Brand new parts: spark plugs, filters, gaskets, belts & more.",
+    "phone": "0114337362",
+    "mapsUrl": "https://maps.app.goo.gl/DhKEtAJEo2XNkptN8",
+    "website": "http://suprememotors.greencloudpos.com",
+    "logoUrl": "https://i.ibb.co/1WLqRJv/468367213-10160801305133511-316057264921003458-n.jpg",
+    "facebookUrl": "https://www.facebook.com/SupremeMotorHouse"
+  },
+  {
+    "id": "24",
+    "name": "Spinx Performance Parts & Tuning",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Nugegoda",
+    "description": "Mazda Genuine Parts (Recondition / Brandnew)",
+    "phone": "0772994240",
+    "mapsUrl": "https://maps.app.goo.gl/8zbgXAhjTdPgYKnd6",
+    "logoUrl": "https://i.ibb.co/G47M9RFM/306589270-202572805455069-3879329411189658274-n.png",
+    "facebookUrl": "https://www.facebook.com/spinxperformance"
+  },
+  {
+    "id": "25",
+    "name": "Kantop Vehicle spare parts",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Colombo",
+    "description": "Brand new tie rod ends, ball joints & more available.",
+    "phone": "0787730880",
+    "mapsUrl": "https://maps.app.goo.gl/McStd5YhxPKPMDa49",
+    "website": "http://www.kantop.lk/",
+    "logoUrl": "https://i.ibb.co/5XzJgyX9/452878097-1039033064898450-7921130127364892473-n.jpg",
+    "facebookUrl": "https://www.facebook.com/kandytyrehouse"
+  }
+]
