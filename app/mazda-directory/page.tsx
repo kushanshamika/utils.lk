@@ -4,7 +4,7 @@ import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import rawListings from '@/data/mazda-listings.json';
 
-type Category = 'Spare Parts' | 'Workshop';
+type Category = 'Spare Parts' | 'Workshop' | 'Modifications';
 
 interface Listing {
   id: string;
@@ -66,12 +66,22 @@ const CATEGORY_STYLES: Record<Category, { hex: string; tagBg: string; tagText: s
     tagText: 'text-[#8A4E13]',
     logoBg: 'bg-[#C97A2B]/15',
   },
+  Modifications: {
+    hex: '#6B4E8C',
+    tagBg: 'bg-[#6B4E8C]/10',
+    tagText: 'text-[#4A3661]',
+    logoBg: 'bg-[#6B4E8C]/10',
+  },
 };
 
 function stripeBackground(categories: Category[]): string {
   if (categories.length > 1) {
-    const [a, b] = categories;
-    return `linear-gradient(to bottom, ${CATEGORY_STYLES[a].hex} 50%, ${CATEGORY_STYLES[b].hex} 50%)`;
+    const stops = categories.map((cat, i) => {
+      const start = (i / categories.length) * 100;
+      const end = ((i + 1) / categories.length) * 100;
+      return `${CATEGORY_STYLES[cat].hex} ${start}% ${end}%`;
+    });
+    return `linear-gradient(to bottom, ${stops.join(', ')})`;
   }
   return CATEGORY_STYLES[categories[0]].hex;
 }
@@ -208,8 +218,9 @@ export default function MazdaDirectoryPage() {
     });
   }, [filter, query]);
 
-  const sparePartsCount = listings.filter((l) => l.categories.includes('Spare Parts')).length;
-  const workshopCount   = listings.filter((l) => l.categories.includes('Workshop')).length;
+  const sparePartsCount   = listings.filter((l) => l.categories.includes('Spare Parts')).length;
+  const workshopCount     = listings.filter((l) => l.categories.includes('Workshop')).length;
+  const modificationsCount = listings.filter((l) => l.categories.includes('Modifications')).length;
 
   return (
     <main className="min-h-screen bg-gradient-to-br from-[#FAF8F4] via-white to-[#F3EFE7]">
@@ -251,6 +262,9 @@ export default function MazdaDirectoryPage() {
             <span>
               <span className="text-[#C97A2B] font-semibold">{workshopCount}</span> workshops
             </span>
+            <span>
+              <span className="text-[#6B4E8C] font-semibold">{modificationsCount}</span> modifications
+            </span>
           </div>
         </div>
         {/* hazard stripe divider */}
@@ -277,9 +291,9 @@ export default function MazdaDirectoryPage() {
         <div
           role="group"
           aria-label="Filter by category"
-          className="inline-flex bg-gray-100 rounded-lg p-1 gap-1 w-fit"
+          className="inline-flex flex-wrap bg-gray-100 rounded-lg p-1 gap-1 w-fit"
         >
-          {(['All', 'Spare Parts', 'Workshop'] as FilterValue[]).map((value) => (
+          {(['All', 'Spare Parts', 'Workshop', 'Modifications'] as FilterValue[]).map((value) => (
             <button
               key={value}
               onClick={() => setFilter(value)}
@@ -481,8 +495,9 @@ export default function MazdaDirectoryPage() {
             <p>
               <strong>Spare Parts</strong> listings stock body parts, mechanical components,
               electrical parts, filters, and accessories. <strong>Workshop</strong> listings
-              offer servicing, repairs, diagnosis, and modifications by mechanics with Mazda
-              experience. Some shops offer both.
+              offer servicing, repairs, diagnosis, and general mechanical work by mechanics with
+              Mazda experience. <strong>Modifications</strong> listings specialize in body kits,
+              styling, and performance/custom fabrication work. Some shops offer more than one.
             </p>
             <p>
               Use the search bar to filter by location (e.g. &ldquo;Kandy&rdquo;, &ldquo;Galle&rdquo;)
@@ -554,6 +569,18 @@ export default function MazdaDirectoryPage() {
               <p className="mt-2 text-[#5C574C] leading-relaxed">
                 This directory includes shops that stock Mazda Axela (BK/BL/BM) and CX-5 (KE/KF)
                 parts. Browse the Spare Parts listings or use the search bar to find relevant shops.
+              </p>
+            </details>
+
+            <details className="group border-b border-gray-100 pb-3">
+              <summary className="cursor-pointer list-none flex items-center justify-between font-medium text-[#1B1D21]">
+                Where can I find Mazda body kits or styling shops in Sri Lanka?
+                <span className="text-gray-400 group-open:rotate-180 transition-transform text-lg leading-none">▾</span>
+              </summary>
+              <p className="mt-2 text-[#5C574C] leading-relaxed">
+                Filter by &ldquo;Modifications&rdquo; to see shops specializing in body kits, aero
+                styling, custom exhaust fabrication, and other performance or cosmetic work for
+                Mazda vehicles.
               </p>
             </details>
 

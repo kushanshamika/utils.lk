@@ -322,5 +322,43 @@
     "website": "http://www.kantop.lk/",
     "logoUrl": "https://i.ibb.co/5XzJgyX9/452878097-1039033064898450-7921130127364892473-n.jpg",
     "facebookUrl": "https://www.facebook.com/kandytyrehouse"
+  },
+  {
+    "id": "26",
+    "name": "Dinza bodykit and car styling",
+    "categories": [
+      "Modifications"
+    ],
+    "location": "Katana",
+    "description": "Mazda body kits, lips & modifications available.",
+    "phone": "0776557336",
+    "mapsUrl": "https://maps.app.goo.gl/rtx76tqjiNV1AKxF6",
+    "facebookUrl": "https://www.facebook.com/Dinzastyling"
+  },
+  {
+    "id": "27",
+    "name": "KRK Bodykits",
+    "categories": [
+      "Modifications"
+    ],
+    "location": "Boralesgamuwa",
+    "description": "Mazda body kits, lips & modifications available.",
+    "phone": "0771153326",
+    "mapsUrl": "https://maps.app.goo.gl/NQPBYKy7kS5pNx3J8",
+    "facebookUrl": "https://www.facebook.com/p/KRK-Bodykits-100057611853038/"
+  },
+  {
+    "id": "28",
+    "name": "Octane Vault",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Online Store",
+    "description": "Trusted, highly recommended place to order parts from overseas.",
+    "phone": "0787730880",
+    "mapsUrl": "https://maps.app.goo.gl/YPHNwzp5uyX6rj6HA",
+    "website": "https://octvault.com",
+    "logoUrl": "https://i.ibb.co/WpFGQxkt/475849925-122190531422103733-1420021643758766686-n.jpg",
+    "facebookUrl": "https://www.facebook.com/octvault"
   }
 ]

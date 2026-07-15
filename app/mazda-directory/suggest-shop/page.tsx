@@ -44,7 +44,7 @@ export default function SuggestShopPage() {
     try {
       // Replace with your Formspree endpoint (use a separate form ID from
       // the Suggest a Tool form so the two submission types stay separate)
-      const response = await fetch('https://formspree.io/f/REPLACE_WITH_YOUR_FORM_ID', {
+      const response = await fetch('https://formspree.io/f/xrenbrje', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -178,10 +178,10 @@ export default function SuggestShopPage() {
               {/* Category */}
               <div>
                 <label className="block text-sm font-semibold text-[#1B1D21] mb-2">
-                  Category <span className="font-normal text-gray-400">(select one or both)</span>
+                  Category <span className="font-normal text-gray-400">(select all that apply)</span>
                 </label>
-                <div className="flex gap-3">
-                  {['Spare Parts', 'Workshop'].map((option) => {
+                <div className="flex flex-col sm:flex-row gap-3">
+                  {['Spare Parts', 'Workshop', 'Modifications'].map((option) => {
                     const checked = formData.categories.includes(option);
                     return (
                       <label

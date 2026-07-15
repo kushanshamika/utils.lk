@@ -3,7 +3,7 @@ import { Oswald, JetBrains_Mono } from "next/font/google";
 import { generateOgImageUrl } from '@/utils/og-image';
 import rawListings from '@/data/mazda-listings.json';
 
-type Category = 'Spare Parts' | 'Workshop';
+type Category = 'Spare Parts' | 'Workshop' | 'Modifications';
 
 interface Listing {
   id: string;
@@ -114,7 +114,7 @@ const webApplicationSchema = {
   },
   "featureList": [
     "Browse Mazda spare parts shops and workshops island-wide",
-    "Filter by category — Spare Parts or Workshop",
+    "Filter by category — Spare Parts, Workshop, or Modifications",
     "Search by shop name or location",
     "Direct Google Maps links for directions",
     "Community-submitted shop suggestions",
@@ -132,9 +132,13 @@ const itemListSchema = {
     "@type": "ListItem",
     "position": i + 1,
     "item": {
-      // Shops offering both categories are tagged AutoRepair (the broader
-      // schema.org type) so the workshop side of the business is represented.
-      "@type": listing.categories.includes("Workshop") ? "AutoRepair" : "AutoPartsStore",
+      // Shops offering hands-on work (Workshop or Modifications) are tagged
+      // AutoRepair (the broader schema.org type); pure parts sellers get
+      // AutoPartsStore.
+      "@type":
+        listing.categories.includes("Workshop") || listing.categories.includes("Modifications")
+          ? "AutoRepair"
+          : "AutoPartsStore",
       "name": listing.name,
       "description": listing.description,
       "address": listing.location,
@@ -165,6 +169,14 @@ const faqSchema = {
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Filter this directory by the Workshop category to see service centers and repair shops that work on Mazda vehicles, then use the Google Maps link on each listing to get directions.",
+      },
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find Mazda body kits or styling shops in Sri Lanka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Filter this directory by the Modifications category to see shops specializing in body kits, aero styling, custom exhaust fabrication, and other performance or cosmetic work for Mazda vehicles.",
       },
     },
     {
@@ -221,6 +233,7 @@ export const metadata: Metadata = {
     "mazda service center sri lanka",
     "mazda demio parts sri lanka",
     "mazda body kit sri lanka",
+    "mazda modifications sri lanka",
     "mazda 3 parts sri lanka",
     "mazda mechanic sri lanka",
     "mazda parts shop colombo",
