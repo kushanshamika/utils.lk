@@ -23,7 +23,6 @@ interface Listing {
 // generation below won't break (or fail to type-check) if the data file
 // has a mix of old and new shapes.
 type RawListing = {
-  id: string;
   name: string;
   category?: string;
   categories?: string[];
@@ -36,23 +35,43 @@ type RawListing = {
   facebookUrl?: string;
 };
 
-function normalizeListing(raw: RawListing): Listing {
-  const categories = (raw.categories ?? (raw.category ? [raw.category] : [])) as Category[];
-  return {
-    id: raw.id,
-    name: raw.name,
-    categories,
-    location: raw.location,
-    description: raw.description,
-    mapsUrl: raw.mapsUrl,
-    phone: raw.phone,
-    logoUrl: raw.logoUrl,
-    website: raw.website,
-    facebookUrl: raw.facebookUrl,
-  };
+// There's no "id" field in the JSON — ids are derived from the shop name
+// instead, so inserting a new entry anywhere in the file never requires
+// renumbering the ones after it. Two shops with the same name (rare) get a
+// numeric suffix so ids stay unique.
+function slugify(name: string): string {
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 
-const listings: Listing[] = (rawListings as RawListing[]).map(normalizeListing);
+function normalizeListings(raw: RawListing[]): Listing[] {
+  const seen = new Map<string, number>();
+  return raw.map((entry) => {
+    const base = slugify(entry.name) || 'shop';
+    const count = seen.get(base) ?? 0;
+    seen.set(base, count + 1);
+    const id = count === 0 ? base : `${base}-${count + 1}`;
+
+    const categories = (entry.categories ?? (entry.category ? [entry.category] : [])) as Category[];
+    return {
+      id,
+      name: entry.name,
+      categories,
+      location: entry.location,
+      description: entry.description,
+      mapsUrl: entry.mapsUrl,
+      phone: entry.phone,
+      logoUrl: entry.logoUrl,
+      website: entry.website,
+      facebookUrl: entry.facebookUrl,
+    };
+  });
+}
+
+const listings: Listing[] = normalizeListings(rawListings as RawListing[]);
 
 // ─── Fonts ─────────────────────────────────────────────────────────────────
 //
