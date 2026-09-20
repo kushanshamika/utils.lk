@@ -328,6 +328,29 @@
     "facebookUrl": "https://www.facebook.com/kandytyrehouse"
   },
   {
+    "name": "DriveX Pvt Ltd",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Dehiwala",
+    "description": "Mazda 3 SkyActiv 2014 recon parts: engine, gearbox, suspension, interior, body, electrical.",
+    "phone": "0787891437",
+    "mapsUrl": "https://maps.app.goo.gl/u5paRUdyervup5vLA",
+    "logoUrl": "https://i.ibb.co/PGFXdGHR/471523128-122107103474688519-973580964285036330-n.jpg",
+    "facebookUrl": "https://www.facebook.com/driveXcolombo"
+  },
+  {
+    "name": "DH Enterprises",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Moratuwa",
+    "description": "Mazda 6 and 323 BJ5 spare parts available.",
+    "phone": "0777817421",
+    "mapsUrl": "https://maps.app.goo.gl/rN9veeDEmbKZ7X7F6",
+    "facebookUrl": "https://www.facebook.com/p/DH-Enterprises-61571024406872"
+  },
+  {
     "name": "Dinza bodykit and car styling",
     "categories": [
       "Modifications"
@@ -361,5 +384,17 @@
     "website": "https://octvault.com",
     "logoUrl": "https://i.ibb.co/WpFGQxkt/475849925-122190531422103733-1420021643758766686-n.jpg",
     "facebookUrl": "https://www.facebook.com/octvault"
+  },
+  {
+    "name": "GandG Auto",
+    "categories": [
+      "Spare Parts"
+    ],
+    "location": "Online Store",
+    "description": "OEM filters, spark plugs & wiper blades for latest Mazda models.",
+    "phone": "0778356396",
+    "website": "https://www.gandgauto.lk",
+    "logoUrl": "https://i.ibb.co/vCc0xvfK/671166013-122180419532758055-6842793752740740227-n.jpg",
+    "facebookUrl": "https://www.facebook.com/GandGAutoSrilanka"
   }
 ]
