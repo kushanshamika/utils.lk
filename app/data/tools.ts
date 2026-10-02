@@ -50,4 +50,13 @@ export const tools: Tool[] = [
     category: 'Automotive',
     isNew: true,
   },
+  {
+    id: 'internet-packages',
+    name: 'Internet Packages Comparison',
+    description: 'Compare home broadband packages from Sri Lankan ISPs — Fiber, 4G, 5G & ADSL, Unlimited & Data Bundle plans',
+    href: '/internet-packages',
+    icon: '📶',
+    category: 'Internet',
+    isNew: true,
+  },
 ];
